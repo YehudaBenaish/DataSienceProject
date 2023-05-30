@@ -1,0 +1,1437 @@
+,city,streets,rooms,size,floor,date_builded,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023
+0,חולון,אביבים 1,3,104,1.0,2013,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1,חולון,אביבים 6,3,90,2.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+2,חולון,אברבנאל 10,3,53,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+3,חולון,אברבנאל 15,3,59,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+4,חולון,אברבנאל 17,3,51,4.0,1975,none,850000,none,none,none,none,none,none,none,none,none,none,none,none
+5,חולון,אברבנאל 4,3,76,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+6,חולון,אברבנאל 5,3,55,2.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+7,חולון,אברבנאל 6,3,69,1.0,1979,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+8,חולון,אברבנל 10,3,53,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+9,חולון,אבשלום 1,3,65,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+10,חולון,אגוז 12,3,70,7.0,1998,none,none,none,none,none,none,none,"1,179,418",none,none,"1,615,000",none,none,none
+11,חולון,אהרונוביץ 1,3,75,3.0,2018,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+12,חולון,אהרונוביץ 2,3,61,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+13,חולון,אהרונוביץ 23,3,59,3.0,1960,none,none,none,none,none,none,none,"1,100,000",none,none,none,none,none,none
+14,חולון,אהרונוביץ 25,3,59,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+15,חולון,אהרונוביץ 26,3,53,4.0,1960,"650,000","750,000",876000,"845,000",none,none,none,none,none,none,none,none,none,none
+16,חולון,אהרונוביץ 28,3,49,1.0,1970,745000,none,none,none,none,none,none,none,none,none,none,none,none,none
+17,חולון,אהרונוביץ 29,3,59,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+18,חולון,אהרונוביץ 30,3,59,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+19,חולון,אהרונוביץ 31,3,59,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+20,חולון,אהרונוביץ 34,3,75,6.0,2019,"1,050,000",none,none,none,none,none,none,none,1526431,none,none,none,none,none
+21,חולון,אהרונוביץ 36,3,70,4.0,2018,none,none,none,none,none,none,none,none,1524611,none,none,none,none,none
+22,חולון,אהרונוביץ 37,3,37,4.0,1980,none,none,none,"1,070,000",none,1152500,none,none,none,none,none,none,none,none
+23,חולון,אהרונוביץ 38,3,61,8.0,1980,"589,000",none,none,none,none,1170000,none,none,none,none,none,none,none,none
+24,חולון,אהרונוביץ 39,3,61,2.0,1970,none,none,none,none,"945,000",none,none,none,1565287,none,none,none,none,none
+25,חולון,אהרונוביץ 40,3,57,3.0,1970,none,none,none,"950,951",none,none,none,none,none,none,none,none,none,none
+26,חולון,אהרונוביץ 42,3,57,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+27,חולון,אהרונוביץ 44,3,50,2.0,1965,871500,none,none,none,none,none,none,none,none,none,none,none,none,none
+28,חולון,אהרונוביץ 45,3,80,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+29,חולון,אהרונוביץ 46,3,57,2.0,1968,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+30,חולון,אהרונוביץ 47,3,59,1.0,1960,none,none,none,none,909423,none,none,none,none,none,none,none,none,none
+31,חולון,אהרונוביץ 48,3,60,2.0,1950,none,none,"800,000",none,none,none,none,none,none,none,none,none,none,none
+32,חולון,אהרונוביץ 49,3,59,3.0,1965,"800,000",none,none,none,"930,500",none,none,none,none,none,none,none,none,none
+33,חולון,אהרונוביץ 50,3,67,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+34,חולון,אהרונוביץ 51,3,60,2.0,1960,704000,"740,000","840,000",none,none,none,"1,170,000",none,none,none,none,none,none,none
+35,חולון,אהרונוביץ 52,3,70,1.0,1955,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+36,חולון,אהרונוביץ 57,3,35,1.0,1960,none,none,none,none,none,"750,000",none,none,none,none,none,none,none,none
+37,חולון,אהרונוביץ 64,3,70,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+38,חולון,אהרונוביץ 65,3,65,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+39,חולון,אהרונוביץ 66,3,44,4.0,1950,none,none,none,none,"800,000",none,none,"1,050,000",none,none,none,none,none,none
+40,חולון,אהרונוביץ 73,3,44,1.0,1970,600000,none,"700,000",817500,none,none,none,none,none,none,none,none,none,none
+41,חולון,אהרונוביץ 75,3,43,3.0,1963,"680,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+42,חולון,אהרונוביץ 77,3,43,1.0,1960,none,none,none,"725,000",840000,none,none,none,"1,120,000",none,none,none,none,none
+43,חולון,אהרונוביץ 8,3,65,1.0,1953,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+44,חולון,אוסישקין 10,3,75,4.0,1958,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+45,חולון,אוסישקין 12,3,75,4.0,1958,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+46,חולון,אוסישקין 3,3,66,1.0,1955,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+47,חולון,אוסישקין 5,3,58,1.0,1960,none,none,none,none,"1,200,000",none,none,none,none,none,none,none,none,none
+48,חולון,אורים 10,3,78,5.0,1970,none,none,none,none,none,none,none,none,none,1550000,none,none,none,none
+49,חולון,אורים 4,3,80,7.0,1964,none,none,1055000,none,none,none,1300000,"1,650,000",none,none,none,none,none,none
+50,חולון,אורים 8,3,78,3.0,1966,none,none,none,none,none,"1,270,000",none,none,none,none,none,none,none,none
+51,חולון,אזר 2,3,72,3.0,1966,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+52,חולון,אזר 3,3,55,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+53,חולון,אחוה 8,3,55,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+54,חולון,אילת 14,3,56,1.0,1970,none,none,none,none,none,none,none,none,none,none,1175000,none,none,none
+55,חולון,אילת 18,3,61,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+56,חולון,אילת 20,3,62,4.0,1960,none,none,none,none,none,none,none,none,none,none,"1,350,000",none,none,none
+57,חולון,אילת 24,3,57,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+58,חולון,אילת 32,3,78,7.0,1970,none,none,none,none,"1,196,834","1,275,000",1502500,none,none,1570000,none,none,none,none
+59,חולון,אילת 38,3,57,1.0,1970,none,861903,none,none,none,none,none,"1,230,000",none,none,none,none,none,none
+60,חולון,אילת 4,3,63,6.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+61,חולון,אילת 40,3,61,3.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+62,חולון,אילת 42,3,56,4.0,1965,none,none,none,none,none,none,none,none,none,none,"894,000",none,none,none
+63,חולון,אילת 43,3,57,3.0,1960,none,none,none,none,"801,278",none,1180000,none,none,none,none,"1,240,000",none,none
+64,חולון,אילת 48,3,77,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+65,חולון,אילת 50,3,62,4.0,1960,none,none,"650,000",none,940000,none,none,none,none,none,none,none,none,none
+66,חולון,אילת 52,3,62,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+67,חולון,אילת 54,3,77,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+68,חולון,אילת 55,3,43,1.0,1960,none,"770,000",807500,"950,000",none,none,none,none,none,none,"1,101,099",none,none,none
+69,חולון,אילת 56,3,68,5.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+70,חולון,אילת 58,3,64,4.0,1976,none,none,none,none,"1,205,000",none,none,none,none,none,none,none,none,none
+71,חולון,אילת 64,3,55,2.0,1964,"700,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+72,חולון,אילת 66,3,58,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+73,חולון,אילת 7,3,90,,2014,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+74,חולון,אילת 80,3,48,4.0,1950,none,none,none,"670,000",none,"780,000",none,none,none,none,none,none,none,none
+75,חולון,אילת 84,3,48,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+76,חולון,אילת 86,3,48,1.0,1970,none,none,none,none,916500,none,none,none,none,none,none,none,none,none
+77,חולון,אילת 88,3,48,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+78,חולון,אילת 90,3,43,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+79,חולון,אילת 92,3,48,4.0,1970,none,none,none,none,none,"900,000",none,none,none,none,none,none,none,none
+80,חולון,אילת 94,3,54,4.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+81,חולון,אימבר 11,3,68,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+82,חולון,אלישע 3,3,49,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+83,חולון,אלקלעי 8,3,90,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+84,חולון,אנילביץ,3,58,4.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+85,חולון,אנילביץ 21,3,67,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+86,חולון,אנילביץ 23,3,75,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+87,חולון,אנילביץ 26,3,72,4.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+88,חולון,אנילביץ 28,3,53,1.0,1971,none,none,none,"890,000",none,none,none,none,none,none,"900,000",none,none,none
+89,חולון,אנילביץ 29,3,58,4.0,1980,none,"790,000",none,none,none,none,"1,450,000",none,none,none,none,none,none,none
+90,חולון,אנילביץ 32,3,58,3.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+91,חולון,אנילביץ 33,3,71,3.0,1970,none,none,none,none,none,none,none,none,"1,595,000",none,none,none,none,none
+92,חולון,אנילביץ 34,3,74,2.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+93,חולון,אפעל 2,3,70,3.0,2019,none,none,none,none,none,none,none,none,none,1712500,1745000,none,none,none
+94,חולון,אפעל 3,3,93,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+95,חולון,אפעל 4,3,70,5.0,2020,none,none,none,none,none,none,none,none,none,none,1750000,none,none,none
+96,חולון,אפעל 6,3,75,5.0,2019,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+97,חולון,אצל 1,3,60,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+98,חולון,אצל 10,3,67,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+99,חולון,אצל 10,3,66,4.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+100,חולון,אצל 14,3,66,1.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+101,חולון,אצל 18,3,61,4.0,1970,none,790000,none,none,none,none,none,none,none,none,none,none,none,none
+102,חולון,אצל 26,3,49,2.0,1960,"655,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+103,חולון,אצל 60,3,62,8.0,1970,none,none,none,"850,339",none,none,none,none,none,none,none,none,none,none
+104,חולון,אצל 64,3,62,4.0,1988,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+105,חולון,אצל 66,3,70,8.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+106,חולון,ארגוב 3,3,61,2.0,1969,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+107,חולון,ארלוזורוב 11,3,69,2.0,1971,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+108,חולון,ארלוזורוב 130,3,69,2.0,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+109,חולון,ארלוזורוב 15,3,75,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+110,חולון,ארלוזורוב 18,3,47,2.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+111,חולון,ארלוזורוב 19,3,58,,1960,none,none,none,"1,070,000",none,none,"1,200,000",none,none,none,none,none,none,none
+112,חולון,ארלוזורוב 5,3,59,4.0,1971,none,none,none,none,none,none,none,none,none,1600000,none,none,none,none
+113,חולון,ארלוזורוב 54,3,50,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+114,חולון,ארלוזורוב 82,3,61,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+115,חולון,ארצות ארבע 14,3,49,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+116,חולון,ארצות ארבע 16,3,49,2.0,1970,none,"680,000",none,none,none,none,none,none,none,none,none,none,none,none
+117,חולון,ארצות ארבע 18,3,49,3.0,1970,none,none,"730,000",none,none,none,none,none,none,none,none,none,none,none
+118,חולון,ארצות ארבע 22,3,49,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+119,חולון,ארצות ארבע 30,3,49,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+120,חולון,בוסל 2,3,56,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+121,חולון,בוסתנאי 1,3,70,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+122,חולון,בורוכוב 21,3,80,1.0,1955,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+123,חולון,בורוכוב 5,3,100,1.0,1955,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+124,חולון,בזל 2,3,57,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+125,חולון,בזל 5,3,47,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+126,חולון,בזל 8,3,62,1.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+127,חולון,ביאליק 14,3,60,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+128,חולון,ביאליק 152,3,59,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+129,חולון,ביאליק 164,3,74,,1975,820821,none,none,none,none,none,none,none,none,none,none,none,none,none
+130,חולון,ביאליק 18,3,58,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+131,חולון,ביאליק 81,3,80,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+132,חולון,ביאליק 83,3,63,1.0,2020,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+133,חולון,ביאליק 91,3,63,,2020,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+134,חולון,בילו 17,3,48,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+135,חולון,בילו 18,3,62,3.0,1971,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+136,חולון,בילו 3,3,75,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+137,חולון,בילו 33,3,55,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+138,חולון,בילו 35,3,59,3.0,1968,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+139,חולון,בילו 37,3,55,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+140,חולון,בילו 41,3,61,2.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+141,חולון,בילו 6,3,87,1.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+142,חולון,בילו 9,3,54,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+143,חולון,בילו 9,3,56,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+144,חולון,בילינסון 14,3,63,2.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+145,חולון,בילינסון 4,3,57,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+146,חולון,בלום 1,3,57,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+147,חולון,במאי אחד 1,3,56,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+148,חולון,במאי אחד 18,3,36,2.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+149,חולון,במאי אחד 3,3,36,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+150,חולון,במאי אחד 45,3,48,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+151,חולון,במאי אחד 5,3,65,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+152,חולון,במאי אחד 52,3,50,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+153,חולון,במאי אחד 54,3,42,3.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+154,חולון,במאי אחד 57,3,37,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+155,חולון,במאי אחד 9,3,57,1.0,1955,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+156,חולון,בן אליעזר 3,3,57,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+157,חולון,בן אליעזר 8,3,57,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+158,חולון,בן אריה אליעזר 3,3,69,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+159,חולון,בן אריה אליעזר 4,3,58,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+160,חולון,בן אריה אליעזר 5,3,60,1.0,1977,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+161,חולון,בן אריה אליעזר 8,3,57,3.0,1970,none,none,"870,000",none,none,none,none,none,none,none,none,none,none,none
+162,חולון,ברזביל 10,3,60,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+163,חולון,ברזביל 12,3,50,1.0,1970,none,none,none,none,none,none,"1,250,000",none,none,none,none,none,none,none
+164,חולון,ברזביל 14,3,59,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+165,חולון,ברזביל 2,3,59,3.0,1961,none,"700,000",none,none,none,none,none,none,none,none,none,none,none,none
+166,חולון,ברזביל 5,3,75,4.0,1980,none,none,none,none,none,"615,082",1031500,none,none,none,none,none,none,none
+167,חולון,ברזביל 6,3,60,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+168,חולון,ברזוויל 27,3,52,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+169,חולון,ברזילי 3,3,62,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+170,חולון,ברנדיס 7,3,65,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+171,חולון,ברנר 2,3,71,1.0,1992,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+172,חולון,ברנר 21,3,74,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+173,חולון,ברק 6,3,61,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+174,חולון,ברקן 20,3,78,2.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+175,חולון,ברקן 7,3,63,3.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+176,חולון,ברקן 8,3,64,1.0,1995,"1,075,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+177,חולון,גאולים 1,3,56,1.0,1970,none,none,"1,612,903",none,none,none,none,none,none,none,none,none,none,none
+178,חולון,גאולים 122,3,73,2.0,1970,965000,none,none,none,none,none,none,none,none,none,none,none,none,none
+179,חולון,גאולים 31,3,39,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+180,חולון,גאולים 33,3,65,1.0,1960,none,none,none,none,"1,230,000",none,none,none,none,none,none,none,none,none
+181,חולון,גאולים 35,3,66,3.0,1970,none,none,"1,130,000",none,none,none,none,none,none,none,"1,551,549",none,none,none
+182,חולון,גאולים 37,3,49,4.0,1969,787500,none,none,"830,000",none,none,none,"1,200,000",none,none,none,none,none,none
+183,חולון,גאולים 39,3,48,4.0,1960,none,"870,000",none,none,none,none,none,"1,360,000",none,none,none,none,none,none
+184,חולון,גאולים 41,3,49,4.0,1970,none,none,none,none,"1,020,000",none,none,none,"1,276,276",none,none,none,none,none
+185,חולון,גאולים 42,3,65,2.0,1968,none,none,none,none,"1,165,000","1,130,000",none,"1,650,000",none,none,none,none,none,none
+186,חולון,גאולים 44,3,50,2.0,1968,none,none,none,"1,235,000","1,237,422",none,none,"1,350,000",none,none,none,none,none,none
+187,חולון,גאולים 46,3,66,4.0,1970,none,none,none,995000,none,none,none,none,none,none,none,none,none,none
+188,חולון,גאולים 48,3,65,2.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+189,חולון,גאולים 50,3,78,1.0,1968,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+190,חולון,גאולים 52,3,49,4.0,1970,"900,000",none,942000,"850,000",none,"1,100,000",none,none,"1,480,000","1,420,000",none,none,none,none
+191,חולון,גאולים 8,3,66,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+192,חולון,גבירול אבן 10,3,59,3.0,1979,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+193,חולון,גבירול אבן 22,3,60,1.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+194,חולון,גבירול אבן 4,3,52,2.0,1988,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+195,חולון,גבירול אבן 8,3,50,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+196,חולון,גבעה 69 5,3,60,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+197,חולון,גבעתי 3,3,71,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+198,חולון,גבעתי 9,3,77,2.0,1989,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+199,חולון,גולומב 10,3,41,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+200,חולון,גולומב 22,3,43,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+201,חולון,גולומב 24,3,52,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+202,חולון,גולומב 26,3,52,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+203,חולון,גולומב 32,3,50,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+204,חולון,גולומב 34,3,68,,1940,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+205,חולון,גולומב 47,3,72,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+206,חולון,גולומב 53,3,75,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+207,חולון,גולומב 60,3,80,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+208,חולון,גוריון בן 10,3,82,5.0,1983,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+209,חולון,גוריון בן 26,3,65,7.0,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+210,חולון,גוריון בן 26,3,64,1.0,1984,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+211,חולון,גוריון בן 28,3,64,4.0,1982,none,"1,000,000",none,none,"1,225,000",none,none,none,none,none,none,none,none,none
+212,חולון,גוריון בן 36,3,63,1.0,1996,none,none,none,none,none,"1,260,000",none,none,none,none,none,none,none,none
+213,חולון,גוריון בן 36,3,64,1.0,1970,none,none,"950,000",none,none,1226666,none,none,none,none,none,none,none,none
+214,חולון,גוריון בן 40,3,63,2.0,1982,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+215,חולון,גוריון בן 40,3,64,3.0,1987,none,"950,000",none,none,none,none,none,none,none,none,none,none,none,none
+216,חולון,גרינבוים 18,3,58,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+217,חולון,דגניה 1,3,58,3.0,1959,none,none,"882,000",none,none,none,none,none,none,none,none,none,none,none
+218,חולון,דגניה 11,3,40,1.0,1951,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+219,חולון,דגניה 21,3,39,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+220,חולון,דגניה 5,3,40,1.0,1951,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+221,חולון,דוד אלעזר 4,3,67,1.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+222,חולון,דניאל 2,3,58,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+223,חולון,דקר אחי 12,3,65,2.0,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+224,חולון,דקר אחי 14,3,65,3.0,1972,none,none,none,"875,000",none,none,none,none,none,none,none,none,none,none
+225,חולון,דקר אחי 14,3,65,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+226,חולון,דקר אחי 2,3,65,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+227,חולון,דקר אחי 6,3,65,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+228,חולון,דקר אחי 6,3,65,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+229,חולון,האמוראים,3,61,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+230,חולון,האמוראים 13,3,56,1.0,1955,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+231,חולון,האמוראים 7,3,50,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+232,חולון,הארז 1,3,80,1.0,1990,none,none,none,none,2710839,none,none,none,none,none,none,none,none,none
+233,חולון,הארז 10,3,77,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+234,חולון,הארז 6,3,69,4.0,1970,"1,100,000",none,none,none,"1,170,000",none,none,none,none,none,none,none,none,none
+235,חולון,האשל 7,3,109,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+236,חולון,הבנים 1,3,62,4.0,1960,none,none,"700,000",none,"820,000",none,none,none,none,none,none,none,none,none
+237,חולון,הבנים 15,3,57,,1964,none,none,none,none,none,none,none,none,"1,100,000",none,none,none,none,none
+238,חולון,הבנים 20,3,63,,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+239,חולון,הבנים 22,3,74,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+240,חולון,הבנים 26,3,65,3.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+241,חולון,הבנים 63,3,50,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+242,חולון,הבנים 7,3,44,,1950,none,none,none,none,none,none,none,none,none,1700000,none,none,none,none
+243,חולון,הבעשט 11,3,80,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+244,חולון,הבקעה 11,3,66,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+245,חולון,הבקעה 15,3,80,2.0,1970,none,none,"810,000",none,none,none,none,none,none,none,none,none,none,none
+246,חולון,הבקעה 186,3,80,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+247,חולון,הגאונים,3,48,1.0,1967,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+248,חולון,הגאונים 1,3,48,1.0,1967,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+249,חולון,הגאונים 10,3,73,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+250,חולון,הגאונים 12,3,73,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+251,חולון,הגאונים 14,3,65,8.0,1991,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+252,חולון,הגאונים 7,3,50,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+253,חולון,הגליל 1,3,47,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+254,חולון,הגליל 10,3,49,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+255,חולון,הגליל 11,3,69,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+256,חולון,הגליל 4,3,48,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+257,חולון,הגליל 6,3,69,1.0,1980,none,"1,230,000",none,none,none,none,none,none,none,none,none,none,none,none
+258,חולון,הגלעד 2,3,47,3.0,1960,none,none,none,none,none,"1,170,000",none,none,none,none,none,none,none,none
+259,חולון,הגפן 1,3,50,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+260,חולון,הגפן 14,3,65,1.0,1968,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+261,חולון,הגפן 6,3,40,2.0,1950,none,none,"940,000",none,none,none,none,none,none,none,none,none,none,none
+262,חולון,הגרא 11,3,65,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+263,חולון,הגרא 12,3,50,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+264,חולון,הגרא 13,3,63,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+265,חולון,הגרא 20,3,73,4.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+266,חולון,הגרא 22,3,58,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+267,חולון,הגרא 23,3,80,4.0,1968,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+268,חולון,הגרא 27,3,56,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+269,חולון,הגרא 29,3,61,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+270,חולון,הגרא 30,3,72,3.0,1979,none,none,none,none,none,"1,130,000",none,none,none,none,none,none,none,none
+271,חולון,הגרא 31,3,63,2.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+272,חולון,הגרא 32,3,66,2.0,1900,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+273,חולון,הגרא 33,3,56,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+274,חולון,הגרא 35,3,60,4.0,1984,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+275,חולון,הגרא 5,3,65,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+276,חולון,הדייה 1,3,68,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+277,חולון,הדייה 2,3,79,1.0,1952,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+278,חולון,הדר 20,3,72,4.0,1997,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+279,חולון,ההגנה 11,3,56,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+280,חולון,ההגנה 13,3,75,3.0,2007,none,"1,100,000",none,none,none,none,none,none,none,none,none,none,none,none
+281,חולון,ההגנה 14,3,53,1.0,1962,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+282,חולון,ההגנה 20,3,59,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+283,חולון,ההגנה 21,3,65,4.0,1966,"920,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+284,חולון,ההגנה 4,3,49,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+285,חולון,ההגנה 9,3,66,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+286,חולון,ההסתדרות 1,3,42,2.0,1960,none,none,952500,none,none,none,none,none,none,none,none,none,none,none
+287,חולון,ההסתדרות 10,3,63,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+288,חולון,ההסתדרות 100,3,59,2.0,1966,none,"703,313",none,897752,"863,000",none,none,none,none,none,none,none,none,none
+289,חולון,ההסתדרות 101,3,56,2.0,1960,none,none,"894,000",none,none,none,none,none,none,none,none,none,none,none
+290,חולון,ההסתדרות 102,3,76,4.0,1962,none,none,none,none,none,none,none,"1,100,000",none,none,none,none,none,none
+291,חולון,ההסתדרות 103,3,63,1.0,2004,"860,000","905,000",none,none,none,none,"1,300,000","1,300,000",1270000,none,none,none,none,none
+292,חולון,ההסתדרות 105,3,63,3.0,1965,none,"825,000",none,none,none,none,none,"1,300,000",none,none,none,none,none,none
+293,חולון,ההסתדרות 107,3,62,2.0,1960,none,none,none,none,"1,190,000","1,180,000",none,none,none,none,none,none,none,none
+294,חולון,ההסתדרות 11,3,56,4.0,1970,none,"932,500",none,"1,015,000",none,"1,200,000",none,none,none,none,none,none,none,none
+295,חולון,ההסתדרות 113,3,56,2.0,1948,none,none,none,none,none,1393200,none,none,none,none,none,none,none,none
+296,חולון,ההסתדרות 116,3,58,2.0,1970,"680,000",855000,"1,070,000",962500,1112500,none,none,none,"1,430,000","1,200,000","1,500,000",none,none,none
+297,חולון,ההסתדרות 118,3,62,4.0,1970,925000,"950,000","1,000,000","970,000",none,none,none,none,1245000,none,none,none,none,none
+298,חולון,ההסתדרות 120,3,52,2.0,1970,871666,841250,935000,none,none,none,none,none,"1,350,000","1,295,000","1,330,000","1,275,000",none,none
+299,חולון,ההסתדרות 122,3,73,2.0,1970,none,none,none,none,none,"1,000,000",none,none,none,none,none,none,none,none
+300,חולון,ההסתדרות 124,3,65,2.0,1960,none,none,none,none,"1,230,000",none,"1,008,000","1,100,000",none,none,none,none,none,none
+301,חולון,ההסתדרות 13,3,57,2.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+302,חולון,ההסתדרות 131,3,83,,1962,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+303,חולון,ההסתדרות 135,3,60,1.0,1960,none,none,none,none,none,none,none,none,"1,680,000",none,none,none,none,none
+304,חולון,ההסתדרות 137,3,60,1.0,1950,none,none,none,none,none,none,none,none,none,none,"1,200,000",none,none,none
+305,חולון,ההסתדרות 139,3,69,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+306,חולון,ההסתדרות 141,3,60,1.0,1960,none,none,none,none,none,"1,750,000",none,none,none,none,none,none,none,none
+307,חולון,ההסתדרות 145,3,73,3.0,2022,none,none,none,none,none,none,none,none,none,1566000,none,none,none,none
+308,חולון,ההסתדרות 15,3,63,4.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+309,חולון,ההסתדרות 155,3,83,4.0,1980,none,none,none,none,none,none,1220000,none,"1,480,000",none,none,none,none,none
+310,חולון,ההסתדרות 157,3,63,2.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+311,חולון,ההסתדרות 161,3,56,3.0,1961,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+312,חולון,ההסתדרות 163,3,46,1.0,1970,"1,000,000",none,none,"915,000","840,000","1,055,000","1,150,000",none,none,none,none,none,none,none
+313,חולון,ההסתדרות 168,3,80,1.0,1970,none,none,1002136,none,none,none,none,none,none,none,none,none,none,none
+314,חולון,ההסתדרות 17,3,52,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+315,חולון,ההסתדרות 170,3,44,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+316,חולון,ההסתדרות 172,3,44,1.0,1965,none,"785,000",none,none,none,"820,000",none,none,none,"1,200,000",none,none,none,none
+317,חולון,ההסתדרות 174,3,50,1.0,1971,"640,000",none,none,none,none,none,"930,000",none,"1,160,000",none,none,none,none,none
+318,חולון,ההסתדרות 175,3,71,1.0,1965,none,"1,110,000",none,825495,none,none,"1,405,614",none,none,none,none,none,none,none
+319,חולון,ההסתדרות 177,3,75,2.0,1969,"855,126","945,000",none,none,none,none,none,none,"1,330,000",none,none,none,none,none
+320,חולון,ההסתדרות 179,3,70,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+321,חולון,ההסתדרות 181,3,64,2.0,1969,none,none,none,none,none,"1,100,000","870,000",none,none,none,none,none,none,none
+322,חולון,ההסתדרות 185,3,37,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+323,חולון,ההסתדרות 187,3,61,1.0,1997,none,none,"1,035,000",none,none,"617,500",none,none,none,none,none,none,none,none
+324,חולון,ההסתדרות 188,3,40,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+325,חולון,ההסתדרות 19,3,84,,2015,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+326,חולון,ההסתדרות 191,3,53,2.0,1980,none,none,none,none,"1,100,000",none,none,none,none,none,none,none,none,none
+327,חולון,ההסתדרות 199,3,101,4.0,1970,none,none,none,"1,119,117",none,none,none,none,none,none,none,none,none,none
+328,חולון,ההסתדרות 2,3,79,1.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+329,חולון,ההסתדרות 201,3,51,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+330,חולון,ההסתדרות 203,3,43,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+331,חולון,ההסתדרות 204,3,43,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+332,חולון,ההסתדרות 205,3,43,1.0,1960,695000,"640,000","735,000",none,"940,000",none,none,"1,080,617",none,none,"1,240,000",none,none,none
+333,חולון,ההסתדרות 207,3,44,3.0,1971,none,none,none,none,815000,none,none,"1,080,617",970000,none,none,none,none,none
+334,חולון,ההסתדרות 209,3,44,1.0,1971,"760,000","790,000","810,000",890000,"840,000",none,none,none,none,none,none,none,none,none
+335,חולון,ההסתדרות 21,3,58,,2013,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+336,חולון,ההסתדרות 3,3,80,2.0,1960,"800,000",none,"1,130,000",none,none,none,none,none,none,none,none,"1,100,000",none,none
+337,חולון,ההסתדרות 4,3,67,1.0,1970,none,"900,000",none,none,none,none,none,none,none,none,none,none,none,none
+338,חולון,ההסתדרות 40,3,60,,1970,none,none,none,none,none,none,none,none,none,"1,295,000",none,none,none,none
+339,חולון,ההסתדרות 5,3,54,1.0,1970,none,none,none,none,none,none,none,none,none,none,"2,032,031","1,100,000",none,none
+340,חולון,ההסתדרות 6,3,70,1.0,1973,none,none,none,none,"1,130,000",1130000,none,none,none,none,none,none,none,none
+341,חולון,ההסתדרות 62,3,61,2.0,1965,none,850000,none,none,none,"1,100,000",none,none,none,none,none,none,none,none
+342,חולון,ההסתדרות 69,3,54,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+343,חולון,ההסתדרות 7,3,56,4.0,1972,"800,000",none,none,none,none,none,none,"1,310,000",none,none,none,none,none,none
+344,חולון,ההסתדרות 73,3,54,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+345,חולון,ההסתדרות 75,3,54,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+346,חולון,ההסתדרות 77,3,56,2.0,1961,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+347,חולון,ההסתדרות 8,3,84,,1978,none,none,none,none,"1,040,000",none,none,none,none,none,none,none,none,none
+348,חולון,ההסתדרות 81,3,50,1.0,1969,"890,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+349,חולון,ההסתדרות 82,3,59,2.0,1959,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+350,חולון,ההסתדרות 86,3,70,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+351,חולון,ההסתדרות 87,3,61,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+352,חולון,ההסתדרות 88,3,74,1.0,1960,"860,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+353,חולון,ההסתדרות 89,3,61,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+354,חולון,ההסתדרות 9,3,62,2.0,1970,none,890000,none,none,"1,050,000",none,none,1287500,none,none,none,none,none,none
+355,חולון,ההסתדרות 90,3,64,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+356,חולון,ההסתדרות 92,3,63,3.0,1968,none,none,none,none,none,"1,040,000",none,"1,134,588",none,none,"1,400,000",none,none,none
+357,חולון,ההסתדרות 95,3,52,2.0,1960,none,"880,000",none,1081666,none,none,"1,300,000",none,none,none,none,none,none,none
+358,חולון,ההסתדרות 98,3,59,2.0,1960,none,none,none,none,none,"950,000",none,none,none,none,none,none,none,none
+359,חולון,הוגו ארנסט 11,3,100,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+360,חולון,הוגו ארנסט 13,3,36,1.0,1963,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+361,חולון,הוגו ארנסט 22,3,53,1.0,1960,none,"1,220,000",none,none,none,none,none,none,none,none,none,none,none,none
+362,חולון,הוגו ארנסט 23,3,50,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+363,חולון,הוז דב 1,3,60,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+364,חולון,הוז דב 19,3,80,2.0,2009,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+365,חולון,הוז דב 3,3,73,1.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+366,חולון,הוז דב 34,3,60,2.0,2010,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+367,חולון,הוז דב 53,3,71,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+368,חולון,הוז דב 56,3,63,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+369,חולון,הוז דב 60,3,58,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+370,חולון,הוז דב 62,3,60,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+371,חולון,הוז דב 63,3,66,3.0,1970,none,none,none,"800,319",none,none,none,none,none,none,none,none,none,none
+372,חולון,הוז דב 64,3,65,3.0,1982,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+373,חולון,הוז דב 69,3,61,3.0,1992,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+374,חולון,הוז דב 72,3,76,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+375,חולון,הוז דב 76,3,49,2.0,1987,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+376,חולון,הוז דב 78,3,55,1.0,1970,none,"820,000",none,none,none,none,none,none,none,none,none,none,none,none
+377,חולון,הוז דב 79,3,59,2.0,1981,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+378,חולון,הוז דב 88,3,55,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+379,חולון,הוז דוב 48,3,70,3.0,2013,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+380,חולון,הופיין,3,75,2.0,1968,none,none,none,none,none,943444,none,none,none,none,none,none,none,none
+381,חולון,הופיין 11,3,63,2.0,1970,none,"850,000",none,none,none,none,none,none,none,none,none,none,none,none
+382,חולון,הופיין 15,3,53,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+383,חולון,הופיין 2,3,80,1.0,1994,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+384,חולון,הופיין 35,3,50,4.0,1970,"740,740",none,"820,000",none,1000000,none,none,none,none,none,none,none,none,none
+385,חולון,הופיין 36,3,65,2.0,1985,none,none,none,none,none,none,none,none,2528282,none,none,none,none,none
+386,חולון,הופיין 37,3,73,1.0,1960,none,"937,500",none,none,none,none,none,none,none,none,none,none,none,none
+387,חולון,הופיין 5,3,62,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+388,חולון,הופיין 9,3,60,1.0,1970,none,"980,000",none,none,none,none,none,none,none,none,none,none,none,none
+389,חולון,הופיין אליעזר 36,3,65,,1985,none,none,none,none,none,none,none,none,2528282,none,none,none,none,none
+390,חולון,הופיין אליעזר 37,3,61,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+391,חולון,הופיין אליעזר 4,3,57,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+392,חולון,החבצלת 1,3,51,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+393,חולון,החבצלת 11,3,50,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+394,חולון,החבצלת 12,3,75,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+395,חולון,החבצלת 9,3,55,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+396,חולון,החגלה 3,3,74,2.0,1970,none,none,none,"1,100,000",none,none,none,none,none,none,none,none,none,none
+397,חולון,החיל 17,3,57,1.0,1940,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+398,חולון,החיל 17,3,57,,1940,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+399,חולון,החים 10,3,50,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+400,חולון,החים 24,3,60,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+401,חולון,החרמון 1,3,61,3.0,1974,none,none,"850,000",none,none,none,none,none,none,none,none,none,none,none
+402,חולון,החרמון 12,3,66,3.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+403,חולון,החרמון 2,3,72,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+404,חולון,החרמון 3,3,61,3.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+405,חולון,החרמון 4,3,61,2.0,1970,none,none,none,none,none,"900,000",none,none,none,none,none,none,none,none
+406,חולון,החרמון 5,3,76,4.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+407,חולון,החרמון 8,3,50,2.0,1967,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+408,חולון,החרמון 9,3,65,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+409,חולון,החשמונאים 1,3,58,4.0,1983,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+410,חולון,החשמונאים 15,3,46,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+411,חולון,החשמונאים 19,3,60,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+412,חולון,החשמונאים 2,3,63,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+413,חולון,החשמונאים 22,3,60,2.0,1994,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+414,חולון,החשמונאים 25,3,73,4.0,2009,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+415,חולון,החשמונאים 3,3,54,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+416,חולון,החשמונאים 5,3,58,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+417,חולון,החשמונאים 54,3,83,,1955,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+418,חולון,הטייסים 1,3,67,1.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+419,חולון,הטייסים 13,3,46,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+420,חולון,הטייסים 15,3,48,4.0,1970,none,none,none,none,"812,000",none,none,none,none,none,none,none,none,none
+421,חולון,הטייסים 17,3,87,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+422,חולון,הטייסים 19,3,61,2.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+423,חולון,הטייסים 2,3,67,3.0,1970,none,none,none,none,none,none,none,none,none,1190000,none,none,none,none
+424,חולון,הטייסים 21,3,61,2.0,1950,none,857500,none,none,none,none,none,none,none,none,none,none,none,none
+425,חולון,הטייסים 22,3,59,2.0,2008,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+426,חולון,הטייסים 4,3,53,,1970,none,none,none,none,none,none,none,none,none,none,1200000,none,none,none
+427,חולון,הטייסים 5,3,67,5.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+428,חולון,הטייסים 6,3,56,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+429,חולון,הטייסים 7,3,56,4.0,1970,none,none,none,none,none,none,"1,130,000",none,none,none,none,none,none,none
+430,חולון,הטייסים 9,3,48,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+431,חולון,הכנסת 1,3,63,3.0,1970,none,none,none,none,none,none,none,1308000,none,none,none,none,none,none
+432,חולון,הכנסת 13,3,92,2.0,1963,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+433,חולון,הכנסת 2,3,46,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+434,חולון,הכנסת 3,3,70,6.0,2015,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+435,חולון,הכנסת 4,3,40,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+436,חולון,הלוחמים 15,3,61,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+437,חולון,הלוחמים 21,3,60,3.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+438,חולון,הלוחמים 27,3,54,3.0,1960,none,none,none,none,none,none,none,"1,070,000",none,none,none,none,none,none
+439,חולון,הלוחמים 3,3,54,3.0,1954,none,none,none,none,"905,000",none,none,none,none,none,none,none,none,none
+440,חולון,הלוחמים 9,3,48,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+441,חולון,המכבים 11,3,61,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+442,חולון,המכבים 7,3,60,2.0,2001,none,none,none,none,none,1052500,none,none,none,none,none,none,none,none
+443,חולון,המכבים 8,3,71,3.0,1970,none,"1,250,000","1,000,000",none,none,none,none,none,none,none,none,none,none,none
+444,חולון,המעפילים 12,3,53,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+445,חולון,המעפילים 18,3,59,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+446,חולון,המעפילים 21,3,49,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+447,חולון,המעפילים 24,3,63,4.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+448,חולון,המעפילים 26,3,63,4.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+449,חולון,המעפילים 31,3,47,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+450,חולון,המעפילים 5,3,59,3.0,1960,none,none,"830,000",none,"930,000",none,none,none,none,none,none,none,none,none
+451,חולון,המעפילים 61,3,50,2.0,1960,none,625000,none,none,none,none,none,none,none,none,none,none,none,none
+452,חולון,המעפילים 63,3,50,1.0,1970,none,none,"700,000",none,none,none,none,none,none,1160000,none,none,none,none
+453,חולון,המצודה 1,3,50,3.0,1970,none,none,none,none,none,"1,040,000",none,none,none,none,none,none,none,none
+454,חולון,המצודה 11,3,55,2.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+455,חולון,הנביאה דבורה 14,3,80,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+456,חולון,הנביאים 11,3,45,1.0,1966,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+457,חולון,הנביאים 13,3,62,1.0,2017,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+458,חולון,הנביאים 40,3,95,1.0,1995,none,none,none,none,none,none,none,none,none,none,1996844,none,none,none
+459,חולון,הנוטרים 1,3,70,,1960,none,none,none,none,"1,000,000",none,none,none,none,none,none,none,none,none
+460,חולון,הנוטרים 16,3,67,3.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+461,חולון,הנוטרים 3,3,63,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+462,חולון,הנוטרים 7,3,74,4.0,2018,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+463,חולון,הנשיאים 3,3,70,3.0,1967,none,none,none,"1,125,000",none,none,none,none,none,none,none,none,none,none
+464,חולון,הסנהדרין 24,3,56,1.0,1955,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+465,חולון,הסנהדרין 30,3,40,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+466,חולון,הסנהדרין 41,3,55,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+467,חולון,הסנהדרין 43,3,50,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+468,חולון,הסנהדרין 45,3,49,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+469,חולון,העבודה,3,50,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+470,חולון,העבודה 11,3,48,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+471,חולון,העבודה 16,3,50,2.0,1960,none,none,none,none,none,none,"920,000",none,none,none,"1,000,000",none,none,none
+472,חולון,העבודה 18,3,49,4.0,1985,none,"630,000",none,none,none,"790,000",none,none,none,none,none,none,none,none
+473,חולון,העברי הגדוד 12,3,64,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+474,חולון,העברי הגדוד 3,3,61,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+475,חולון,העוגן 13,3,74,1.0,1968,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+476,חולון,העם אחד,3,65,3.0,1959,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+477,חולון,העם אחד 11,3,55,,1990,none,none,none,none,none,none,none,none,none,none,1536144,none,none,none
+478,חולון,העם אחד 13,3,60,1.0,1970,none,none,none,none,none,"1,310,000",none,none,none,none,none,none,none,none
+479,חולון,העם אחד 15,3,67,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+480,חולון,העם אחד 7,3,55,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+481,חולון,העצמון 23,3,59,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+482,חולון,העצמון 3,3,72,4.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+483,חולון,הערבה 1,3,51,3.0,1973,"780,000",none,none,none,"890,000",none,none,none,none,none,none,none,none,none
+484,חולון,הערבה 14,3,45,4.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+485,חולון,הערבה 15,3,46,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+486,חולון,הערבה 16,3,63,3.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+487,חולון,הערבה 17,3,67,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+488,חולון,הערבה 18,3,62,4.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+489,חולון,הערבה 19,3,51,2.0,1972,"720,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+490,חולון,הערבה 21,3,49,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+491,חולון,הערבה 23,3,50,2.0,1960,none,none,none,none,none,622500,none,none,none,none,none,none,none,none
+492,חולון,הערבה 24,3,65,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+493,חולון,הערבה 26,3,62,3.0,1960,"650,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+494,חולון,הערבה 27,3,50,3.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+495,חולון,הערבה 28,3,59,3.0,1964,none,none,none,"800,000",none,none,none,none,none,none,none,none,none,none
+496,חולון,הערבה 3,3,50,5.0,1980,none,"615,000",none,none,none,none,none,none,none,none,none,none,none,none
+497,חולון,הערבה 31,3,49,3.0,1970,none,none,"700,000",none,"820,000",none,none,none,none,none,none,none,none,none
+498,חולון,הערבה 34,3,61,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+499,חולון,הערבה 4,3,55,3.0,1965,"800,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+500,חולון,הערבה 5,3,50,4.0,2000,none,none,none,none,722500,none,none,none,none,none,none,none,none,none
+501,חולון,הערבה 6,3,54,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+502,חולון,הערבה 7,3,49,4.0,1961,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+503,חולון,הערבה 8,3,54,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+504,חולון,הערבה 9,3,48,1.0,1960,none,none,"680,000",none,"790,000",none,none,none,none,none,none,none,none,none
+505,חולון,הפורצים 11,3,57,,1970,none,"790,000",none,none,none,none,none,none,none,none,none,none,none,none
+506,חולון,הפורצים 17,3,51,2.0,1900,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+507,חולון,הפורצים 19,3,60,3.0,1960,none,"800,000",none,none,none,"965,000","900,000",none,none,none,none,none,none,none
+508,חולון,הפורצים 21,3,70,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+509,חולון,הפורצים 29,3,62,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+510,חולון,הפורצים 30,3,58,4.0,2020,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+511,חולון,הפורצים 31,3,66,2.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+512,חולון,הפורצים 33,3,70,4.0,1999,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+513,חולון,הפורצים 5,3,61,2.0,1982,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+514,חולון,הפורצים 7,3,57,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+515,חולון,הפורצים 9,3,58,1.0,1980,none,none,"800,000",none,none,none,none,none,none,1200000,none,none,none,none
+516,חולון,הפלמח 16,3,52,2.0,1900,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+517,חולון,הפלמח 23,3,61,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+518,חולון,הפלמח 25,3,54,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+519,חולון,הפלמח 25,3,54,1.0,1964,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+520,חולון,הפלמח 27,3,61,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+521,חולון,הפלמח 3,3,69,3.0,1964,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+522,חולון,הפלמח 3,3,95,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+523,חולון,הפלמח 7,3,47,3.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+524,חולון,הפלמח 7,3,47,,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+525,חולון,הפרדס 25,3,44,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+526,חולון,הפרדס 7,3,44,1.0,1996,none,"760,000",none,none,none,none,none,none,none,none,none,none,none,none
+527,חולון,הצופית 38,3,64,9.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+528,חולון,הצופית 5,3,94,,1950,1080000,none,none,"1,040,000",none,"1,245,000",none,none,none,none,none,none,none,none
+529,חולון,הציונות 21,3,85,1.0,1960,none,none,none,none,none,none,none,1600000,none,none,none,none,none,none
+530,חולון,הציונות 35,3,70,3.0,1989,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+531,חולון,הציונות 39,3,85,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+532,חולון,הצנחנים 4,3,75,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+533,חולון,הצפורן 1,3,60,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+534,חולון,הצפירה 1,3,65,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+535,חולון,הצפירה 6,3,65,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+536,חולון,הקונגרס 15,3,56,1.0,1970,none,1143000,none,none,none,none,none,none,none,none,none,none,none,none
+537,חולון,הקונגרס 22,3,84,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+538,חולון,הקונגרס 25,3,59,1.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+539,חולון,הר הצופים,3,63,1.0,1980,none,none,none,none,none,"1,190,000",none,none,none,none,none,none,none,none
+540,חולון,הר הצופים 13,3,51,4.0,1900,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+541,חולון,הר הצופים 14,3,66,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+542,חולון,הר הצופים 17,3,57,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+543,חולון,הר הצופים 22,3,80,2.0,1968,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+544,חולון,הר הצופים 25,3,75,4.0,1966,none,"777,500","655,000",none,none,"800,000",none,none,none,none,none,none,none,none
+545,חולון,הר הצופים 27,3,50,4.0,1968,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+546,חולון,הר הצופים 33,3,57,4.0,1984,none,none,none,none,none,"1,003,000",none,none,"1,180,000",none,none,none,none,none
+547,חולון,הר הצופים 37,3,51,3.0,1980,none,"670,000","720,000",800000,none,1017500,none,none,none,none,none,none,none,none
+548,חולון,הר הצופים 38,3,61,3.0,1969,"900,000",none,900000,none,1032500,none,none,none,none,none,none,none,none,none
+549,חולון,הר הצופים 43,3,57,4.0,1967,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+550,חולון,הר הצופים 45,3,72,3.0,1984,none,none,none,none,none,none,none,none,"1,180,000",none,none,none,none,none
+551,חולון,הר הצופים 49,3,66,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+552,חולון,הר הצופים 5,3,57,2.0,1968,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+553,חולון,הר הצופים 51,3,64,1.0,1980,none,807500,none,none,"975,000",none,none,none,none,none,none,none,none,none
+554,חולון,הר הצופים 53,3,64,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+555,חולון,הרותם 2,3,65,2.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+556,חולון,הרימון 4,3,74,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+557,חולון,הרצוג הרב 16,3,66,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+558,חולון,הרצוג הרב 18,3,47,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+559,חולון,הרצוג הרב 19,3,59,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+560,חולון,הרצוג הרב 5,3,58,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+561,חולון,הרצפלד 10,3,55,3.0,1974,none,none,none,none,"1,160,000",none,none,none,none,none,none,none,none,none
+562,חולון,הרקפת 17,3,65,1.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+563,חולון,השומר 15,3,64,2.0,1958,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+564,חולון,השומר 17,3,64,,1970,none,none,none,none,none,none,none,none,none,none,none,"1,400,000",none,none
+565,חולון,השומר 8,3,55,1.0,1994,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+566,חולון,השומרון 11,3,55,1.0,1900,none,none,"740,000",none,none,1398333,none,none,none,none,none,"512,048",none,none
+567,חולון,השומרון 5,3,50,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+568,חולון,השופטים 1,3,59,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+569,חולון,השופטים 11,3,87,1.0,1955,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+570,חולון,השופטים 27,3,59,1.0,1970,none,none,none,none,none,"900,900",none,none,none,none,none,none,none,none
+571,חולון,השופטים 29,3,59,3.0,1967,none,none,none,none,"970,000",none,none,none,none,none,none,none,none,none
+572,חולון,השופטים 4,3,59,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+573,חולון,השופטים 45,3,53,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+574,חולון,השיטה 15,3,81,4.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+575,חולון,השיטה 22,3,40,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+576,חולון,השיטה 23,3,54,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+577,חולון,השיטה 27,3,50,2.0,1955,none,none,1018333,1035000,none,"1,000,000",none,"1,195,000",none,none,none,none,none,none
+578,חולון,השיטה 28,3,55,3.0,1961,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+579,חולון,השיטה 29,3,46,2.0,1970,none,none,885000,none,none,none,none,none,none,none,none,none,none,none
+580,חולון,השיטה 30,3,76,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+581,חולון,השיטה 31,3,58,1.0,1960,none,none,"860,858",none,none,none,none,none,none,none,none,none,none,none
+582,חולון,השילוח,3,66,2.0,1984,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+583,חולון,השילוח 10,3,62,,1960,none,none,none,none,"925,000",none,none,none,none,none,none,none,none,none
+584,חולון,השילוח 15,3,73,,1983,none,none,none,none,none,"1,100,000",none,none,none,none,none,none,none,none
+585,חולון,השילוח 18,3,61,3.0,1970,none,"700,000",none,none,none,none,none,none,none,none,none,none,none,none
+586,חולון,השילוח 2,3,52,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+587,חולון,השילוח 22,3,60,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+588,חולון,השילוח 25,3,65,8.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+589,חולון,השילוח 8,3,66,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+590,חולון,השלוח 12,3,62,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+591,חולון,השלוח 13,3,100,4.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+592,חולון,השלוח 15,3,73,5.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+593,חולון,השלוח 9,3,66,2.0,1984,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+594,חולון,השניה העליה 40,3,80,6.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+595,חולון,השרון 1,3,64,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+596,חולון,השרון 16,3,55,2.0,1970,none,1352909,none,none,none,none,none,none,none,none,none,none,none,none
+597,חולון,השרון 4,3,53,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+598,חולון,התאנה 1,3,75,3.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+599,חולון,התאנה 12,3,80,3.0,2010,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+600,חולון,התאנה 13,3,80,,2010,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+601,חולון,התומר 33,3,55,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+602,חולון,התומר 5,3,67,3.0,1980,none,none,none,1287500,"1,120,000",none,none,none,none,none,none,none,none,none
+603,חולון,התותחנים 10,3,70,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+604,חולון,התותחנים 11,3,55,3.0,1989,none,none,"500,000",none,none,none,none,none,none,none,none,none,none,none
+605,חולון,התותחנים 19,3,46,3.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+606,חולון,התחיה 10,3,75,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+607,חולון,התחיה 19,3,52,4.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+608,חולון,התחיה 23,3,52,4.0,1960,"780,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+609,חולון,התחיה 25,3,65,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+610,חולון,התחיה 26,3,78,4.0,1967,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+611,חולון,התחיה 27,3,65,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+612,חולון,התחיה 5,3,60,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+613,חולון,התחיה 7,3,69,2.0,1973,none,"1,200,000",none,none,none,none,none,none,none,none,none,none,none,none
+614,חולון,התחייה 27,3,65,,1970,none,"1,155,000",none,none,none,none,none,none,none,none,none,none,none,none
+615,חולון,התחייה 3,3,68,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+616,חולון,התחמושת גבעת 1,3,59,1.0,1980,none,none,910000,none,none,none,none,none,none,none,none,none,none,none
+617,חולון,התחמושת גבעת 10,3,59,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+618,חולון,התחמושת גבעת 26,3,66,2.0,1979,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+619,חולון,התחמושת גבעת 28,3,73,5.0,1980,none,963000,none,none,none,none,none,none,none,none,none,none,none,none
+620,חולון,התחמושת גבעת 29,3,64,9.0,1970,none,none,none,none,"1,070,000","1,080,000",none,"1,385,000",none,none,none,none,none,none
+621,חולון,התחמושת גבעת 33,3,64,,1970,none,none,none,none,none,none,none,"1,385,000",none,none,none,none,none,none
+622,חולון,התחמושת גבעת 37,3,65,4.0,2004,none,none,none,none,none,"1,370,000",none,none,1580000,none,none,none,none,none
+623,חולון,התחמושת גבעת 4,3,59,2.0,1991,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+624,חולון,התחמושת גבעת 40,3,89,5.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+625,חולון,התחמושת גבעת 6,3,59,,1991,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+626,חולון,התנאים 10,3,75,3.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+627,חולון,התנאים 12,3,43,1.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+628,חולון,התנאים 14,3,49,3.0,1970,none,none,none,none,none,none,"700,000",none,none,none,none,none,none,none
+629,חולון,התנאים 2,3,54,4.0,1960,none,"503,014",none,none,none,none,none,none,none,none,none,none,none,none
+630,חולון,התנאים 4,3,55,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+631,חולון,התעלה 2,3,52,1.0,1970,none,none,714000,none,none,none,none,none,none,none,none,none,none,none
+632,חולון,התעלה 5,3,52,2.0,1964,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+633,חולון,התעלה 8,3,62,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+634,חולון,התעלה 9,3,73,5.0,1978,none,none,none,none,none,none,none,none,none,none,"576,923",none,none,none
+635,חולון,התקומה 3,3,34,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+636,חולון,וולפסון 11,3,60,1.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+637,חולון,וולפסון 12,3,47,2.0,1970,none,787500,none,none,none,"1,190,000",none,none,none,none,none,none,none,none
+638,חולון,וולפסון 13,3,59,3.0,1975,none,none,885000,none,none,none,none,none,"1,500,000",none,none,none,none,none
+639,חולון,וולפסון 14,3,47,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+640,חולון,וולפסון 16,3,47,2.0,1970,none,none,885000,none,"1,000,000",none,none,none,none,none,none,none,none,none
+641,חולון,וולפסון 18,3,47,2.0,1953,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+642,חולון,וולפסון 2,3,64,4.0,1970,"1,092,500","1,070,000",none,none,none,none,"1,480,000",none,none,none,none,none,none,none
+643,חולון,וולפסון 3,3,63,2.0,1970,none,none,none,none,"1,250,000",none,none,none,none,none,none,none,none,none
+644,חולון,וולפסון 4,3,62,3.0,1970,none,none,"1,185,000",none,none,none,none,none,none,none,none,none,none,none
+645,חולון,וולפסון 6,3,65,1.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+646,חולון,וולקני 3,3,59,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+647,חולון,ויצמן 36,3,76,3.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+648,חולון,ויצמן 67,3,53,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+649,חולון,ויצמן 68,3,48,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+650,חולון,ויצמן 70,3,75,3.0,1970,none,none,none,"760,000",none,none,none,none,none,none,none,none,none,none
+651,חולון,ויצמן 73,3,53,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+652,חולון,ויצמן 74,3,48,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+653,חולון,ויצמן 76,3,80,8.0,1980,none,none,none,"1,170,000",none,none,none,none,none,none,none,none,none,none
+654,חולון,ורבורג 10,3,79,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+655,חולון,זבוטינסקי,3,60,1.0,1957,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+656,חולון,זבוטינסקי 10,3,63,1.0,1968,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+657,חולון,זבוטינסקי 17,3,70,3.0,1961,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+658,חולון,זבוטינסקי 23,3,66,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+659,חולון,זבוטינסקי 26,3,65,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+660,חולון,זבוטינסקי 33,3,62,2.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+661,חולון,זבוטינסקי 36,3,64,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+662,חולון,זבוטינסקי 41,3,60,,1957,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+663,חולון,זבוטינסקי 50,3,52,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+664,חולון,זבוטינסקי 6,3,70,2.0,1960,none,none,none,none,none,"1,255,000",none,none,none,none,none,none,none,none
+665,חולון,זבוטינסקי 8,3,49,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+666,חולון,זכריה הרופא 10,3,76,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+667,חולון,זכריה הרופא 21,3,57,,1976,none,none,none,"1,020,000",none,none,none,none,none,none,none,none,none,none
+668,חולון,זכריה הרופא 6,3,76,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+669,חולון,זלמן ארן 1,3,60,3.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+670,חולון,זלמן ארן 10,3,64,2.0,1960,none,none,none,none,1139646,none,none,none,none,none,none,none,none,none
+671,חולון,זלמן ארן 11,3,67,2.0,1988,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+672,חולון,זלמן ארן 15,3,56,1.0,1980,none,none,none,none,1092500,none,none,none,none,none,none,none,none,none
+673,חולון,זלמן ארן 16,3,57,2.0,1977,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+674,חולון,זלמן ארן 17,3,58,3.0,1999,none,"880,000",none,none,none,1080000,none,none,none,none,none,none,none,none
+675,חולון,זלמן ארן 19,3,62,3.0,1970,none,none,none,"1,335,000","1,069,000",none,"1,450,000",none,none,none,none,none,none,none
+676,חולון,זלמן ארן 2,3,70,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+677,חולון,זלמן ארן 20,3,63,3.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+678,חולון,זלמן ארן 21,3,55,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+679,חולון,זלמן ארן 23,3,66,4.0,1970,"1,010,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+680,חולון,זלמן ארן 24,3,74,1.0,1971,none,none,none,"950,000",none,none,none,none,none,none,none,none,none,none
+681,חולון,זלמן ארן 26,3,63,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+682,חולון,זלמן ארן 29,3,50,1.0,1980,none,none,none,none,none,"1,650,000",none,none,none,none,none,none,none,none
+683,חולון,זלמן ארן 3,3,62,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+684,חולון,זלמן ארן 40,3,61,1.0,1945,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+685,חולון,זלמן ארן 41,3,69,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+686,חולון,זלמן ארן 42,3,67,1.0,1970,none,none,none,none,none,none,none,none,none,none,"1,455,819",none,none,none
+687,חולון,זלמן ארן 47,3,58,3.0,1980,none,"1,010,000",none,none,none,none,none,none,none,none,none,none,none,none
+688,חולון,זלמן ארן 49,3,59,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+689,חולון,זלמן ארן 49,3,59,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+690,חולון,זלמן ארן 5,3,61,2.0,1970,none,none,none,868333,none,none,none,none,none,none,none,none,none,none
+691,חולון,זלמן ארן 53,3,50,1.0,1989,"890,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+692,חולון,זלמן ארן 59,3,60,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+693,חולון,זלמן ארן 7,3,56,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+694,חולון,זלמן ארן 9,3,60,2.0,1980,none,"885,000",none,none,none,none,none,none,none,none,none,none,none,none
+695,חולון,זמנהוף 11,3,61,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+696,חולון,זמנהוף 12,3,56,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+697,חולון,זמנהוף 13,3,61,,1970,none,none,"930,000","1,100,000",none,none,none,none,none,none,none,none,none,none
+698,חולון,זמנהוף 2,3,75,,1965,none,none,none,none,"1,250,000",none,none,none,none,none,none,none,none,none
+699,חולון,זמנהוף 21,3,50,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+700,חולון,זמנהוף 23,3,82,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+701,חולון,זמנהוף 25,3,73,5.0,2019,"970,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+702,חולון,זמנהוף 28,3,66,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+703,חולון,זמנהוף 3,3,70,2.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+704,חולון,זמנהוף 4,3,62,2.0,1967,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+705,חולון,זמנהוף 7,3,58,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+706,חולון,חבקוק 1,3,58,2.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+707,חולון,חבקוק 21,3,50,1.0,1970,"575,575",none,none,none,none,none,none,none,none,none,none,none,none,none
+708,חולון,חבקוק 23,3,58,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+709,חולון,חבקוק 5,3,80,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+710,חולון,חולון 1,3,75,1.0,2018,"850,000",none,none,"1,420,000",none,1571000,none,"1,750,000",none,none,none,none,none,none
+711,חולון,חולון 10,3,46,1.0,1968,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+712,חולון,חולון 13,3,70,1.0,1992,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+713,חולון,חולון 3,3,65,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+714,חולון,חולון 50,3,20,6.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+715,חולון,חולון 7,3,60,4.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+716,חולון,חולון 9,3,45,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+717,חולון,חומה ומגדל 21,3,62,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+718,חולון,חומה ומגדל 31,3,60,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+719,חולון,חומה ומגדל 41,3,51,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+720,חולון,חומה ומגדל 45,3,68,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+721,חולון,חומה ומגדל 56,3,62,3.0,1960,none,none,"1,200,000",none,none,none,none,none,none,none,none,none,none,none
+722,חולון,חים 14,3,44,3.0,1957,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+723,חולון,חלץ 4,3,64,4.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+724,חולון,חלץ 7,3,68,1.0,1970,none,none,none,none,none,none,none,1285000,none,none,none,none,none,none
+725,חולון,חמש חזית 29,3,34,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+726,חולון,חנקין 115,3,60,2.0,1999,"600,000",none,"840,000",none,none,1047500,none,none,none,none,none,none,none,none
+727,חולון,חנקין 117,3,53,1.0,1959,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+728,חולון,חנקין 120,3,56,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+729,חולון,חנקין 19,3,56,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+730,חולון,חנקין 23,3,57,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+731,חולון,חנקין 24,3,52,1.0,1970,none,none,none,none,none,1285000,none,none,none,none,none,none,none,none
+732,חולון,חנקין 25,3,48,3.0,1957,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+733,חולון,חנקין 33,3,85,1.0,2019,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+734,חולון,חנקין 35,3,76,2.0,2017,none,none,none,none,none,none,none,1780000,none,none,none,none,none,none
+735,חולון,חנקין 37,3,68,3.0,2016,none,none,none,"920,000",none,none,none,none,none,none,none,none,none,none
+736,חולון,חנקין 4,3,73,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+737,חולון,חנקין 41,3,71,2.0,2016,none,none,none,none,none,none,1410000,none,none,none,none,none,none,none
+738,חולון,חנקין 47,3,59,3.0,1968,none,"735,000",none,"1,135,000",none,none,1197500,none,none,none,none,none,none,none
+739,חולון,חנקין 55,3,73,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+740,חולון,חנקין 56,3,67,2.0,1960,none,none,none,"920,000",none,none,none,none,none,none,none,none,none,none
+741,חולון,חנקין 59,3,61,3.0,1962,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+742,חולון,חנקין 62,3,51,2.0,1964,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+743,חולון,חנקין 65,3,60,2.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+744,חולון,חנקין 68,3,68,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+745,חולון,חנקין 72,3,76,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+746,חולון,חנקין 74,3,59,1.0,1968,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+747,חולון,חנקין 76,3,62,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+748,חולון,חנקין 78,3,58,1.0,1960,none,none,none,none,"1,000,000",none,none,none,none,none,none,none,none,none
+749,חולון,חנקין 79,3,65,3.0,2010,764366,none,none,none,"1,095,000",none,none,none,none,none,none,none,none,none
+750,חולון,חנקין 80,3,66,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+751,חולון,חנקין 83,3,54,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+752,חולון,חנקין 84,3,62,1.0,1960,none,none,none,none,none,none,none,none,none,none,"1,335,000",none,none,none
+753,חולון,חנקין 90,3,60,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+754,חולון,חנקין 91,3,50,4.0,1960,"890,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+755,חולון,חנקין 93,3,57,2.0,1965,none,none,none,"901,442",none,none,none,none,none,none,none,none,none,none
+756,חולון,חנקין 95,3,88,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+757,חולון,חנקין 96,3,75,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+758,חולון,חסדאי 22,3,57,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+759,חולון,חסדאי 5,3,57,1.0,1984,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+760,חולון,חסדאי 7,3,66,3.0,2016,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+761,חולון,חצרים 2,3,71,4.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+762,חולון,טרומפלדור,3,60,2.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+763,חולון,טרומפלדור 6,3,64,3.0,1969,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+764,חולון,טרומפלדור 8,3,70,3.0,1970,none,none,none,none,none,1407500,none,none,none,none,none,none,none,none
+765,חולון,יא באדר 15,3,70,1.0,1995,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+766,חולון,יא באדר 20,3,57,2.0,1970,none,"1,250,000",none,none,none,none,none,none,none,none,none,none,none,none
+767,חולון,יא באדר 20,3,57,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+768,חולון,יא באדר 27,3,61,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+769,חולון,יא באדר 28,3,10,2.0,1966,none,none,none,"1,125,000",none,none,none,none,none,none,none,none,none,none
+770,חולון,יא באדר 33,3,77,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+771,חולון,יא באדר 39,3,50,3.0,1970,none,none,none,"1,170,000",none,none,none,none,none,none,none,none,none,none
+772,חולון,יא באדר 39,3,50,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+773,חולון,יא באדר 40,3,61,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+774,חולון,יא באדר 40,3,56,1.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+775,חולון,יבנה 13,3,79,3.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+776,חולון,יבנה 17,3,55,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+777,חולון,יבנה 24,3,59,3.0,1973,none,none,none,none,none,"1,280,000",none,none,none,none,none,none,none,none
+778,חולון,יבניאלי 8,3,60,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+779,חולון,יהודה בן 1,3,52,3.0,1964,none,none,none,none,"1,100,000",none,none,none,none,none,none,none,none,none
+780,חולון,יהודה בן 14,3,65,,2016,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+781,חולון,יהודה בן 16,3,52,2.0,1900,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+782,חולון,יהודה בן 2,3,76,6.0,2020,none,"847,000",none,none,none,none,none,none,none,none,1750000,none,none,none
+783,חולון,יהודה בן 4,3,80,,2018,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+784,חולון,יהודה בן אליעזר 14,3,80,,2018,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+785,חולון,יהודה בן אליעזר 20,3,70,,2017,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+786,חולון,יהודה הלוי 13,3,57,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+787,חולון,יהודה הלוי 15,3,85,2.0,2012,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+788,חולון,יהודה הלוי 16,3,69,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+789,חולון,יהושע חנקין 4,3,73,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+790,חולון,יהושע חנקין 97,3,88,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+791,חולון,יוטבתה 2,3,50,4.0,1963,none,none,none,none,"780,000",none,none,"1,205,000",none,none,none,none,none,none
+792,חולון,יוטבתה 23,3,78,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+793,חולון,יום הכיפורים 9,3,59,2.0,1970,"880,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+794,חולון,יוסף אהרונוביץ 36,3,75,,2018,none,none,none,none,none,none,none,none,none,none,"1,740,000",none,none,none
+795,חולון,יוסף אהרונוביץ 53,3,67,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+796,חולון,יוסף אהרונוביץ 77,3,43,,1960,none,"560,000",none,none,none,none,none,"1,250,000",none,none,none,none,none,none
+797,חולון,יוסף ברץ 1,3,58,2.0,1960,"910,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+798,חולון,יוסף ברץ 10,3,59,1.0,1970,none,none,"985,000",none,none,none,none,"1,350,000",none,none,"1,460,000",none,none,none
+799,חולון,יוסף ברץ 11,3,63,2.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+800,חולון,יוסף ברץ 12,3,62,3.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+801,חולון,יוסף ברץ 14,3,56,3.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+802,חולון,יוסף ברץ 16,3,55,2.0,1980,none,"865,000","870,000",965000,none,"1,095,000",none,none,none,none,none,none,none,none
+803,חולון,יוסף ברץ 17,3,56,2.0,1970,none,none,none,none,none,none,none,none,none,none,"1,750,000",none,none,none
+804,חולון,יוסף ברץ 18,3,58,2.0,1994,none,none,none,none,none,none,none,none,none,none,"1,450,000",none,none,none
+805,חולון,יוסף ברץ 19,3,65,3.0,1986,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+806,חולון,יוסף ברץ 2,3,65,,2020,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+807,חולון,יוסף ברץ 2,3,57,1.0,2000,"817,000",none,none,"1,150,000",none,none,none,none,none,none,none,none,none,none
+808,חולון,יוסף ברץ 20,3,70,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+809,חולון,יוסף ברץ 24,3,58,1.0,1969,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+810,חולון,יוסף ברץ 28,3,58,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+811,חולון,יוסף ברץ 3,3,64,3.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+812,חולון,יוסף ברץ 32,3,74,2.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+813,חולון,יוסף ברץ 4,3,57,2.0,1970,none,none,none,none,1070000,none,none,none,none,none,none,none,none,none
+814,חולון,יוסף ברץ 6,3,56,2.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+815,חולון,יוסף ברץ 8,3,54,3.0,1986,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+816,חולון,יוסף הנשיא 1,3,65,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+817,חולון,יוסף הנשיא 3,3,65,2.0,2002,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+818,חולון,יוסף הנשיא 7,3,60,4.0,1970,none,none,none,"790,000",none,none,none,none,none,none,none,none,none,none
+819,חולון,יוספטל 150,3,75,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+820,חולון,יוספטל 150,3,58,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+821,חולון,יוספטל 152,3,58,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+822,חולון,יחזקאל 11,3,98,1.0,1955,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+823,חולון,יחזקאל 13,3,88,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+824,חולון,יחזקאל 15,3,88,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+825,חולון,יטבתה 2,3,50,4.0,1963,none,"800,000",none,"790,000",none,none,none,none,none,none,none,none,none,none
+826,חולון,יטבתה 9,3,49,1.0,1900,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+827,חולון,ילג 13,3,79,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+828,חולון,יסוד המעלה 3,3,56,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+829,חולון,יעבץ 11,3,63,1.0,1980,830379,"655,000",none,none,none,none,none,none,none,none,none,none,none,none
+830,חולון,יעבץ 12,3,74,2.0,1970,none,none,none,none,none,none,none,none,none,none,"1,630,000",none,none,none
+831,חולון,יעבץ 13,3,56,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+832,חולון,יעבץ זאב 1,3,45,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+833,חולון,יעבץ זאב 12,3,70,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+834,חולון,יעקב דורי 2,3,75,2.0,1997,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+835,חולון,יעקב דורי 4,3,62,1.0,1981,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+836,חולון,יפו 14,3,80,1.0,1956,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+837,חולון,יפו 8,3,44,1.0,1956,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+838,חולון,יצחק אליעזר 38,3,61,2.0,1977,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+839,חולון,יצחק הלוי,3,62,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+840,חולון,יצחק הלוי 23,3,72,4.0,2014,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+841,חולון,יצחק הלוי 24,3,58,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+842,חולון,יצחק הלוי 25,3,63,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+843,חולון,יצחק הלוי 26,3,50,2.0,1977,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+844,חולון,יצחק הלוי 37,3,62,1.0,1970,none,none,"980,000",none,none,none,"900,000",none,none,none,none,none,none,none
+845,חולון,יצחק הלוי 37,3,63,3.0,1970,none,none,940000,none,none,none,none,none,none,none,none,none,none,none
+846,חולון,יצחק הלוי 38,3,61,3.0,1977,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+847,חולון,יצחק הלוי 38,3,61,2.0,1977,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+848,חולון,יצחק הלוי 4,3,63,2.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+849,חולון,יצחק הלוי 4,3,56,4.0,1970,none,none,none,none,none,"990,990",none,none,none,none,none,none,none,none
+850,חולון,יצחק הלוי 43,3,68,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+851,חולון,יצחק הלוי 69,3,57,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+852,חולון,יצחק הרב הלוי 36,3,50,,1977,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+853,חולון,יצחק וולקני 11,3,70,1.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+854,חולון,יצחק וולקני 13,3,57,3.0,1977,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+855,חולון,יצחק וולקני 2,3,65,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+856,חולון,יצחק וולקני 3,3,59,3.0,1970,none,"1,185,000",none,none,none,none,none,none,none,none,none,none,none,none
+857,חולון,יצחק וולקני 4,3,62,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+858,חולון,יצחק וולקני 6,3,65,2.0,1972,none,none,none,none,none,"1,158,657",none,none,none,none,none,none,none,none
+859,חולון,יקותיאל אדם 26,3,50,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+860,חולון,ירושלים 12,3,72,2.0,1998,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+861,חולון,ירושלים 172,3,72,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+862,חולון,ירושלים 196,3,61,3.0,1971,none,"600,000",none,none,none,none,1162500,none,none,none,none,none,none,none
+863,חולון,ירושלים 198,3,52,1.0,1970,none,"1,012,000",none,none,none,none,none,none,none,none,none,none,none,none
+864,חולון,ירושלים 28,3,54,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+865,חולון,ירושלים 3,3,71,1.0,1952,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+866,חולון,ירושלים 38,3,66,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+867,חולון,יריחו 10,3,66,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+868,חולון,יריחו 17,3,83,1.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+869,חולון,יריחו 6,3,66,1.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+870,חולון,ירמיהו 1,3,59,3.0,1971,none,none,none,735000,"765,000",none,none,none,"1,100,000",none,none,none,none,none
+871,חולון,ירמיהו 11,3,55,,1970,none,"736,000",none,none,none,none,none,none,none,none,none,none,none,none
+872,חולון,ירמיהו 12,3,80,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+873,חולון,ירמיהו 13,3,58,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+874,חולון,ירמיהו 15,3,50,2.0,1959,none,"890,000","903,081",none,none,none,none,none,none,none,none,none,none,none
+875,חולון,ירמיהו 19,3,43,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+876,חולון,ירמיהו 23,3,58,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+877,חולון,ירמיהו 25,3,64,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+878,חולון,ירמיהו 3,3,48,3.0,1960,"685,000",none,none,none,none,none,"1,010,000",1045000,none,none,none,none,none,none
+879,חולון,ירמיהו 31,3,58,1.0,1960,none,802500,none,"1,130,000",none,none,none,none,none,none,none,none,none,none
+880,חולון,ירמיהו 33,3,58,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+881,חולון,ירמיהו 37,3,58,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+882,חולון,ירמיהו 41,3,50,1.0,1970,none,none,none,none,none,none,none,none,"1,000,000",none,none,none,none,none
+883,חולון,ירמיהו 45,3,53,1.0,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+884,חולון,ירמיהו 8,3,56,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+885,חולון,ישעיהו 22,3,67,1.0,1960,none,none,none,none,"1,415,000",none,none,1424000,none,none,none,none,none,none
+886,חולון,ישראל ברזילי 1,3,57,3.0,1974,none,none,"960,000",none,none,none,none,none,none,none,none,none,none,none
+887,חולון,ישראל ברזילי 10,3,50,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+888,חולון,ישראל ברזילי 4,3,60,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+889,חולון,ישראל ברזילי 9,3,72,3.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+890,חולון,כהן אלי 1,3,66,1.0,1972,none,none,none,"950,000",none,none,none,none,none,none,none,none,none,none
+891,חולון,כהן אלי 10,3,54,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+892,חולון,כהן אלי 12,3,54,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+893,חולון,כהן אלי 2,3,79,1.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+894,חולון,כהן אלי 25,3,62,1.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+895,חולון,כהן אלי 26,3,60,1.0,1974,970000,none,"1,048,000",none,none,none,"1,400,000",none,none,none,none,none,none,none
+896,חולון,כהן אלי 30,3,74,1.0,1970,none,none,none,none,none,"900,000",none,none,none,none,none,none,none,none
+897,חולון,כהן אלי 5,3,61,3.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+898,חולון,כהן אלי 6,3,54,2.0,1970,none,none,none,none,"1,060,000",none,none,none,none,none,none,none,none,none
+899,חולון,כהן אלי 7,3,61,,1970,none,"940,000",none,1022500,none,none,none,1100000,none,none,none,none,none,none
+900,חולון,כהן יעקב 8,3,61,2.0,1964,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+901,חולון,כוכבא בר,3,49,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+902,חולון,כוכבא בר 1,3,75,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+903,חולון,כוכבא בר 5,3,50,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+904,חולון,כט בנובמבר 30,3,66,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+905,חולון,כט בנובמבר 34,3,73,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+906,חולון,כט בנובמבר 40,3,67,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+907,חולון,כט בנובמבר 44,3,61,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+908,חולון,כט בנובמבר 46,3,70,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+909,חולון,ככר השבעה 3,3,65,2.0,1962,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+910,חולון,לאון בלום,3,48,4.0,1970,none,none,none,965000,none,none,none,none,none,none,none,none,none,none
+911,חולון,לאון בלום 1,3,57,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+912,חולון,לאון בלום 53,3,48,2.0,1970,"800,000","865,000",none,none,none,1029166,none,none,none,none,none,none,none,none
+913,חולון,לאון בלום 56,3,48,3.0,1963,735000,"840,000",none,none,none,none,none,none,none,none,none,none,none,none
+914,חולון,לאון בלום 63,3,80,8.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+915,חולון,לאון בלום 66,3,68,3.0,1940,none,none,none,none,none,none,none,none,none,"1,140,000",none,none,none,none
+916,חולון,לוחמי הנגב 8,3,67,2.0,1981,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+917,חולון,לחי 2,3,51,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+918,חולון,לחם בית,3,75,3.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+919,חולון,לחם בית 13,3,65,5.0,2020,"1,000,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+920,חולון,לחם בית 14,3,85,4.0,1980,none,"860,000",870367,none,none,none,none,none,none,none,none,none,none,none
+921,חולון,לחם בית 16,3,65,4.0,2008,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+922,חולון,לחם בית 17,3,69,,2015,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+923,חולון,לחם בית 18,3,77,,1970,none,none,none,none,none,1388500,none,none,none,none,1340000,none,none,none
+924,חולון,לחם בית 20,3,62,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+925,חולון,לחם בית 7,3,90,3.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+926,חולון,לחם בית 8,3,65,1.0,1980,"930,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+927,חולון,ליסין 11,3,83,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+928,חולון,ליסין 16,3,68,1.0,1970,none,none,none,none,none,none,none,none,none,"1,250,000",none,none,none,none
+929,חולון,ליסין 5,3,55,1.0,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+930,חולון,ליסין 9,3,130,1.0,2010,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+931,חולון,לסל 13,3,59,2.0,1970,none,none,none,none,1175000,none,none,none,none,none,none,none,none,none
+932,חולון,מאיר ארגוב 14,3,54,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+933,חולון,מאיר ארגוב 3,3,61,2.0,1969,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+934,חולון,מגידו 15,3,61,1.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+935,חולון,מגידו 196,3,61,1.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+936,חולון,מגידו 3,3,61,,1950,none,none,none,none,none,none,none,none,1320000,none,none,none,none,none
+937,חולון,מוהליבר 37,3,74,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+938,חולון,מוהליבר 41,3,100,3.0,1990,none,none,none,none,1305000,none,none,none,none,none,none,none,none,none
+939,חולון,מונטיפיורי 17,3,50,2.0,2006,none,none,none,none,"1,180,000",none,none,none,none,none,none,none,none,none
+940,חולון,מונטיפיורי 27,3,47,1.0,1997,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+941,חולון,מונטיפיורי 28,3,58,3.0,1983,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+942,חולון,מונטיפיורי 38,3,58,,1983,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+943,חולון,מונטיפיורי 39,3,61,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+944,חולון,מזאה 6,3,61,3.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+945,חולון,מזאה 6,3,61,2.0,1970,"880,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+946,חולון,מיימון הרב 5,3,64,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+947,חולון,מימון 12,3,64,3.0,1960,none,965474,none,none,none,none,none,none,none,none,none,none,none,none
+948,חולון,מימון 13,3,59,3.0,1970,none,1050000,none,none,"1,330,000",none,none,none,none,none,none,none,none,none
+949,חולון,מימון 18,3,67,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+950,חולון,מימון הרב 32,3,66,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+951,חולון,מימון הרב 5,3,53,1.0,1958,none,none,none,none,none,none,none,none,"1,455,819",none,none,none,none,none
+952,חולון,מימון הרב 8,3,59,2.0,1980,none,none,none,none,none,none,none,1375000,none,none,none,none,none,none
+953,חולון,מכס כהן וגסי 12,3,51,2.0,1940,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+954,חולון,מנחם בגין 40,3,78,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+955,חולון,מסילת העולים 13,3,35,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+956,חולון,מסילת העולים 15,3,49,5.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+957,חולון,מסילת העולים 18,3,40,2.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+958,חולון,מסילת העולים 19,3,62,4.0,1960,none,none,"845,000",none,none,none,none,none,none,none,none,none,none,none
+959,חולון,מסילת העולים 21,3,35,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+960,חולון,מסילת העולים 23,3,75,4.0,1963,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+961,חולון,מעלות 1,3,54,,1978,none,none,none,none,none,none,none,"518,881",none,none,none,none,none,none
+962,חולון,מעלות 10,3,57,5.0,2000,"1,050,000",none,972500,none,"1,170,000",1162500,none,none,"1,435,000",none,none,none,none,none
+963,חולון,מעלות 12,3,57,5.0,1976,none,1100000,none,none,none,none,none,none,none,none,none,none,none,none
+964,חולון,מעלות 14,3,57,3.0,1970,885000,960000,none,950000,1097500,none,none,none,"1,305,000",none,none,none,none,none
+965,חולון,מעלות 16,3,62,3.0,1980,"1,080,000",none,1002224,"1,092,000",none,1190000,"1,375,000","1,365,000",none,"1,395,000",none,none,none,none
+966,חולון,מעלות 18,3,54,1.0,1976,none,none,none,"700,000",none,none,none,none,none,none,none,none,none,none
+967,חולון,מעלות 2,3,57,2.0,1973,none,none,none,935000,none,none,none,none,none,none,none,none,none,none
+968,חולון,מעלות 20,3,57,1.0,1970,"860,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+969,חולון,מעלות 22,3,65,1.0,1975,610000,none,none,none,1000000,"1,135,000",none,none,none,none,none,none,none,none
+970,חולון,מעלות 24,3,58,1.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+971,חולון,מעלות 4,3,55,4.0,1975,none,"960,000",none,"840,000",none,none,none,none,none,none,none,none,none,none
+972,חולון,מעלות 5,3,60,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+973,חולון,מעלות 6,3,57,3.0,1980,920500,"1,108,000",957777,1050000,1055000,none,"1,350,000",none,none,none,none,none,none,none
+974,חולון,מעלות 8,3,57,2.0,1980,none,"1,065,000",955000,1063333,"1,135,000",none,"1,121,126",none,none,none,"1,530,000",none,none,none
+975,חולון,מקוה ישראל,3,70,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+976,חולון,מקוה ישראל 16,3,94,2.0,1991,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+977,חולון,מקוה ישראל 2,3,59,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+978,חולון,מקוה ישראל 5,3,50,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+979,חולון,מקס כהן וגסי 5,3,69,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+980,חולון,מרבד הקסמים 12,3,55,,1980,"907,000",none,none,none,"1,200,000",none,none,none,none,none,none,none,none,none
+981,חולון,מרבד הקסמים 4,3,56,3.0,1973,none,none,none,none,"1,100,000",1060000,none,none,none,none,none,none,none,none
+982,חולון,מרבד הקסמים 8,3,55,4.0,1980,"782,000",none,932500,none,none,none,"1,285,000",none,"1,355,000",none,none,none,none,none
+983,חולון,מרטין בובר 8,3,64,3.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+984,חולון,משה דיין 16,3,61,8.0,1986,none,none,none,"1,100,000",none,none,none,none,none,none,"1,650,000",none,none,none
+985,חולון,משעול הגת 3,3,72,1.0,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+986,חולון,משעול הפז 3,3,72,1.0,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+987,חולון,נגארה ישראל 10,3,56,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+988,חולון,נובידבור 4,3,36,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+989,חולון,נורדאו 6,3,84,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+990,חולון,ניסים הרב בכר 13,3,82,5.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+991,חולון,ניסים יצחק הרב 11,3,70,4.0,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+992,חולון,ניסים יצחק הרב 3,3,75,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+993,חולון,ניסים יצחק הרב 5,3,75,3.0,1991,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+994,חולון,ניסים יצחק הרב 7,3,76,8.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+995,חולון,נסים יצחק הרב 14,3,73,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+996,חולון,נסים יצחק הרב 3,3,70,,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+997,חולון,סולד 41,3,81,1.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+998,חולון,סולד 62,3,57,2.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+999,חולון,סולד הנריטה 41,3,81,1.0,1970,none,none,"1,161,971",none,none,none,none,none,none,none,none,none,none,none
+1000,חולון,סוקולוב,3,70,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1001,חולון,סוקולוב 10,3,61,1.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1002,חולון,סוקולוב 104,3,68,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1003,חולון,סוקולוב 106,3,70,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1004,חולון,סוקולוב 109,3,78,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1005,חולון,סוקולוב 111,3,50,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1006,חולון,סוקולוב 112,3,59,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1007,חולון,סוקולוב 118,3,61,1.0,1969,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1008,חולון,סוקולוב 121,3,68,3.0,1969,none,none,none,1080000,none,none,none,none,none,none,none,none,none,none
+1009,חולון,סוקולוב 125,3,57,4.0,1963,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1010,חולון,סוקולוב 127,3,67,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1011,חולון,סוקולוב 129,3,59,3.0,1965,none,none,792500,none,none,none,none,none,none,none,none,none,none,none
+1012,חולון,סוקולוב 131,3,58,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1013,חולון,סוקולוב 132,3,61,3.0,1970,none,none,none,none,none,none,none,none,none,none,"1,350,000",none,none,none
+1014,חולון,סוקולוב 31,3,56,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1015,חולון,סוקולוב 40,3,72,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1016,חולון,סוקולוב 41,3,42,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1017,חולון,סוקולוב 49,3,65,1.0,1967,"900,000",876704,none,none,none,"1,330,000",none,none,none,"1,470,000",none,none,none,none
+1018,חולון,סוקולוב 51,3,80,9.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1019,חולון,סוקולוב 57,3,50,2.0,1992,none,none,none,none,none,"1,850,000",1650000,none,none,none,none,none,none,none
+1020,חולון,סוקולוב 61,3,60,3.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1021,חולון,סוקולוב 68,3,50,4.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1022,חולון,סוקולוב 70,3,72,3.0,1970,none,none,none,none,none,none,none,"1,270,000",none,none,none,none,none,none
+1023,חולון,סוקולוב 85,3,62,2.0,1966,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1024,חולון,סוקולוב 86,3,65,2.0,1968,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1025,חולון,סוקולוב 90,3,50,1.0,1970,none,none,none,none,none,none,"1,355,000",none,none,none,none,none,none,none
+1026,חולון,סוקולוב 99,3,81,4.0,1950,none,none,none,none,none,none,none,none,"1,240,000",none,none,none,none,none
+1027,חולון,סטרומה כיכר 10,3,62,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1028,חולון,סטרומה כיכר 15,3,73,4.0,1983,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1029,חולון,סטרומה כיכר 17,3,57,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1030,חולון,סטרומה כיכר 19,3,60,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1031,חולון,סטרומה כיכר 2,3,65,6.0,2020,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1032,חולון,סטרומה כיכר 22,3,49,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1033,חולון,סטרומה כיכר 6,3,50,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1034,חולון,סטרומה כיכר 7,3,68,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1035,חולון,סירני 24,3,70,2.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1036,חולון,סירני 30,3,75,2.0,2015,none,none,none,none,none,1286666,none,none,none,none,none,none,none,none
+1037,חולון,סירני 32,3,75,2.0,2009,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1038,חולון,סירקין 1,3,70,2.0,2018,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1039,חולון,סירקין 29,3,80,2.0,1965,"1,125,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+1040,חולון,סירקין 33,3,70,5.0,2018,none,none,none,none,none,none,none,none,1655000,none,none,none,none,none
+1041,חולון,סירקין 35,3,75,2.0,2018,none,none,none,none,none,none,none,none,1583599,none,none,none,none,none
+1042,חולון,סמולנסקין 18,3,80,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1043,חולון,סמולנסקין 6,3,59,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1044,חולון,סנה משה 8,3,64,2.0,1991,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1045,חולון,סנש 14,3,74,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1046,חולון,סנש 6,3,78,5.0,2014,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1047,חולון,סנש חנה 2,3,64,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1048,חולון,סנש חנה 6,3,77,5.0,2015,none,none,none,none,none,1487666,none,none,none,none,none,none,none,none
+1049,חולון,סעדיה גאון 10,3,62,4.0,2016,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1050,חולון,סעדיה גאון 14,3,70,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1051,חולון,סעדיה גאון 19,3,42,1.0,1994,none,none,"930,000",none,none,none,"1,100,000",none,"1,440,000",none,none,none,none,none
+1052,חולון,סעדיה גאון 23,3,61,,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1053,חולון,ספיר יוסף 1,3,75,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1054,חולון,ספיר יוסף 1,3,75,1.0,1960,"865,000",none,none,"1,240,000","1,120,000",none,none,none,none,none,none,none,none,none
+1055,חולון,ספיר יוסף 5,3,80,2.0,1992,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1056,חולון,ספיר יוסף 69,3,59,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1057,חולון,ספרים מנדלי מוכר 12,3,65,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1058,חולון,ספרים מנדלי מוכר 18,3,78,3.0,1970,none,none,none,none,none,"1,250,000",none,none,none,none,none,none,none,none
+1059,חולון,ספרים מנדלי מוכר 2,3,61,2.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1060,חולון,סרלין יוסף 23,3,78,1.0,1980,none,none,none,none,1000000,none,none,none,none,none,none,none,none,none
+1061,חולון,סרלין יוסף 34,3,66,3.0,1995,1045000,none,none,"1,200,000",none,none,none,none,none,none,none,none,none,none
+1062,חולון,סרלין יוסף 36,3,63,1.0,1965,none,none,none,"900,000",none,none,none,none,none,none,none,none,none,none
+1063,חולון,סרלין יוסף 38,3,52,4.0,1986,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1064,חולון,סרלין יוסף 6,3,80,3.0,2014,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1065,חולון,עוזיאל 9,3,50,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1066,חולון,עזרא אבן 6,3,70,1.0,1984,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1067,חולון,עזרא אבן 7,3,66,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1068,חולון,עטרות 3,3,73,4.0,1973,none,none,none,none,none,1225000,none,none,none,none,none,none,none,none
+1069,חולון,עטרות 4,3,75,1.0,1970,none,none,none,none,none,"1,193,000",none,none,none,none,none,none,none,none
+1070,חולון,עין גדי 1,3,50,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1071,חולון,עין גדי 4,3,60,4.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1072,חולון,עין גדי 8,3,48,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1073,חולון,עין יהב 10,3,48,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1074,חולון,עין יהב 13,3,65,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1075,חולון,עין יהב 3,3,50,2.0,1970,none,none,none,none,none,none,none,none,none,"1,110,000",none,none,none,none
+1076,חולון,עין יהב 5,3,49,4.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1077,חולון,עין יהב 8,3,61,4.0,1995,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1078,חולון,עין יהב 9,3,50,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1079,חולון,עמל 10,3,75,5.0,2015,none,none,none,none,none,1405000,none,none,none,none,none,none,none,none
+1080,חולון,עמל 3,3,62,2.0,1987,none,none,none,"885,000",none,none,none,none,none,none,none,none,none,none
+1081,חולון,עמל 5,3,68,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1082,חולון,עמק דותן 3,3,73,7.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1083,חולון,עמק דותן 6,3,63,1.0,1989,none,none,none,none,none,"1,050,000",none,none,none,none,none,none,none,none
+1084,חולון,עמק יזרעאל 13,3,55,1.0,1960,1004316,none,"1,070,000",none,none,none,none,none,none,none,none,none,none,none
+1085,חולון,עמק יזרעאל 15,3,56,3.0,1971,none,"1,015,000",none,"1,193,000","1,050,000",none,none,none,none,none,none,none,none,none
+1086,חולון,עמק יזרעאל 3,3,56,2.0,1960,none,none,none,1157500,none,none,none,none,none,none,none,none,none,none
+1087,חולון,עמרם בן 15,3,114,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1088,חולון,עמרם בן 4,3,81,3.0,1970,none,none,none,none,none,"975,000",none,none,none,none,none,none,none,none
+1089,חולון,עמרם בן 6,3,65,3.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1090,חולון,עמרם בן 7,3,60,8.0,2010,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1091,חולון,עציון גוש 15,3,54,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1092,חולון,עציון גוש 4,3,71,1.0,1977,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1093,חולון,עקיבא 5,3,70,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1094,חולון,פבריגט 10,3,44,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1095,חולון,פבריגט 34,3,63,2.0,1968,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1096,חולון,פבריגט דר 11,3,76,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1097,חולון,פיארברג 1,3,66,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1098,חולון,פיארברג 3,3,80,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1099,חולון,פיארברג 9,3,104,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1100,חולון,פיכמן 1,3,75,3.0,2014,none,none,none,none,1510000,none,none,none,none,none,none,none,none,none
+1101,חולון,פיכמן 4,3,71,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1102,חולון,פילדלפיה 2,3,100,2.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1103,חולון,פינסקר 11,3,90,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1104,חולון,פנחס לבון 1,3,61,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1105,חולון,פנחס לבון 10,3,58,1.0,1975,none,none,none,none,none,none,"1,220,000",none,none,none,none,none,none,none
+1106,חולון,פנחס לבון 12,3,60,1.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1107,חולון,פנחס לבון 12,3,55,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1108,חולון,פנחס לבון 14,3,55,4.0,1970,none,none,none,"1,175,000",none,none,none,none,none,none,none,"1,500,000",none,none
+1109,חולון,פנחס לבון 18,3,74,4.0,1975,none,none,none,none,none,"950,000",none,none,none,none,none,none,none,none
+1110,חולון,פנחס לבון 2,3,61,4.0,1967,none,none,none,none,none,none,none,"1,430,000",none,none,none,none,none,none
+1111,חולון,פנחס לבון 6,3,74,3.0,1988,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1112,חולון,פרוג 12,3,61,3.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1113,חולון,פרוג 3,3,55,1.0,1980,none,none,"1,055,000",none,none,none,none,none,none,none,none,none,none,none
+1114,חולון,פרוג 8,3,62,2.0,1964,none,1092500,none,none,none,none,none,none,none,none,none,none,none,none
+1115,חולון,פרישמן 8,3,77,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1116,חולון,פרנק אנה 3,3,67,3.0,1978,none,none,none,"1,270,000",none,none,"1,200,000",none,none,none,none,none,none,none
+1117,חולון,פרנק אנה 3,3,75,1.0,1980,none,"1,050,000",none,1265000,1107500,none,none,none,none,none,none,none,none,none
+1118,חולון,פרנק אנה 5,3,67,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1119,חולון,פרץ 5,3,52,2.0,2002,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1120,חולון,פרץ ברנשטיין 3,3,58,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1121,חולון,פרץ גולדשטיין 3,3,59,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1122,חולון,פרץ גולדשטיין 5,3,62,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1123,חולון,צאלים 16,3,74,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1124,חולון,צאלים 18,3,62,4.0,1964,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1125,חולון,צאלים 22,3,57,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1126,חולון,צאלים 26,3,62,3.0,1965,none,"880,000",none,none,none,none,none,none,none,none,none,none,none,none
+1127,חולון,צאלים 28,3,75,2.0,1970,none,none,none,none,none,1132500,none,none,none,none,none,none,none,none
+1128,חולון,צאלים 3,3,64,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1129,חולון,צאלים 4,3,62,4.0,1960,none,none,"880,000",none,none,none,none,none,none,none,none,none,none,none
+1130,חולון,צאלים 6,3,62,,1970,none,none,none,none,none,"1,050,000",none,none,none,none,none,none,none,none
+1131,חולון,צאלים 9,3,78,,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1132,חולון,צבי גרינברג אורי 10,3,63,,1982,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1133,חולון,צבי גרינברג אורי 31,3,76,4.0,2001,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1134,חולון,צדוק דוד 1,3,90,1.0,1993,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1135,חולון,צדוק דוד 28,3,66,4.0,1989,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1136,חולון,צדוק דוד 32,3,66,4.0,1989,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1137,חולון,צהל אלופי 1,3,65,1.0,1978,none,"850,000",none,none,990000,none,none,none,none,none,none,none,none,none
+1138,חולון,צהל אלופי 1,3,65,10.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1139,חולון,צהל אלופי 11,3,71,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1140,חולון,צהל אלופי 12,3,61,1.0,1984,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1141,חולון,צהל אלופי 14,3,83,4.0,1971,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1142,חולון,צהל אלופי 16,3,52,3.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1143,חולון,צהל אלופי 18,3,102,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1144,חולון,צהל אלופי 22,3,70,2.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1145,חולון,צהל אלופי 23,3,71,7.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1146,חולון,צהל אלופי 23,3,71,7.0,1975,"750,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+1147,חולון,צהל אלופי 26,3,70,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1148,חולון,צהל אלופי 3,3,64,6.0,1977,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1149,חולון,צהל אלופי 43,3,53,3.0,1990,none,"750,000",none,none,770000,none,none,none,none,none,none,none,none,none
+1150,חולון,צהל אלופי 45,3,52,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1151,חולון,צהל אלופי 49,3,52,3.0,1990,none,none,none,none,none,none,none,none,none,none,"1,000,000",none,none,none
+1152,חולון,צהל אלופי 7,3,61,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1153,חולון,צהל אלופי 9,3,61,2.0,1970,none,none,none,none,none,none,none,none,none,1257500,none,none,none,none
+1154,חולון,ציון חובבי 4,3,54,4.0,1970,"870,000",none,"1,650,000",none,none,none,none,none,none,none,none,none,none,none
+1155,חולון,ציון חובבי 6,3,69,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1156,חולון,ציון ישראל בן 11,3,53,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1157,חולון,ציון ישראל בן 9,3,75,1.0,1995,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1158,חולון,ציון ישראלי בן 1,3,63,3.0,1970,"745,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+1159,חולון,ציון ישראלי בן 15,3,53,,1970,none,none,none,none,none,"1,240,000",none,none,none,none,none,none,none,none
+1160,חולון,ציון ישראלי בן 9,3,59,3.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1161,חולון,ציון ישראלי בן 9,3,75,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1162,חולון,ציונה נס 12,3,65,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1163,חולון,ציונה נס 7,3,56,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1164,חולון,צלנוב 1,3,56,5.0,2011,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1165,חולון,צלנוב 6,3,69,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1166,חולון,צלנוב 6,3,53,4.0,1960,none,none,none,none,none,none,"1,250,000",none,none,none,none,none,none,none
+1167,חולון,צפניה 9,3,55,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1168,חולון,קאפח 13,3,54,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1169,חולון,קאפח 16,3,55,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1170,חולון,קאפח 21,3,60,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1171,חולון,קאפח 37,3,56,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1172,חולון,קאפח 7,3,46,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1173,חולון,קבוץ גלויות 33,3,32,2.0,1950,none,none,none,"1,550,000",none,none,none,none,none,none,none,none,none,none
+1174,חולון,קדושי בלזן 10,3,69,1.0,1970,none,"780,000",none,none,none,none,"1,045,000",none,none,none,none,none,none,none
+1175,חולון,קדושי בלזן 14,3,39,1.0,1960,none,none,none,"735,630",none,none,none,none,none,none,none,none,none,none
+1176,חולון,קדושי בלזן 4,3,63,3.0,1963,"850,000","962,000",869000,none,none,none,none,none,none,none,none,none,none,none
+1177,חולון,קדושי בלזן 6,3,70,4.0,1960,none,none,none,"825,000",none,"1,065,000",none,none,none,none,none,none,none,none
+1178,חולון,קדושי בלזן 8,3,67,2.0,1960,815800,none,890000,none,none,none,none,none,none,none,none,none,none,none
+1179,חולון,קדמן 12,3,63,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1180,חולון,קהילת וילנא 4,3,58,1.0,1979,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1181,חולון,קהיר קדושי 15,3,64,6.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1182,חולון,קהיר קדושי 24,3,74,12.0,1980,"1,080,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+1183,חולון,קהיר קדושי 9,3,65,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1184,חולון,קוגל 12,3,68,3.0,1970,"765,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+1185,חולון,קוגל 15,3,48,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1186,חולון,קוגל 2,3,48,3.0,1950,none,"925,000",none,none,none,none,none,none,none,none,none,none,none,none
+1187,חולון,קוגל 20,3,51,3.0,1958,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1188,חולון,קוגל 28,3,47,4.0,1960,none,none,none,"1,065,000",none,none,none,none,none,none,none,none,none,none
+1189,חולון,קוגל 30,3,47,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1190,חולון,קוגל 32,3,65,3.0,1970,none,none,none,"835,000",none,"1,142,188",none,none,none,none,none,none,none,none
+1191,חולון,קוגל 36,3,53,4.0,1970,none,none,none,none,none,945000,none,none,none,none,none,none,none,none
+1192,חולון,קוגל 4,3,47,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1193,חולון,קוגל 40,3,61,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1194,חולון,קוגל 9,3,47,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1195,חולון,קוק הרב,3,50,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1196,חולון,קוק הרב 11,3,63,1.0,1969,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1197,חולון,קלישר 11,3,60,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1198,חולון,קלישר 3,3,60,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1199,חולון,קניג פייר 11,3,62,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1200,חולון,קניג פייר 13,3,60,2.0,1970,none,none,none,"910,000",none,none,none,none,none,none,none,none,none,none
+1201,חולון,קניג פייר 15,3,65,3.0,1970,"960,000",none,none,none,none,"1,200,000",none,none,none,none,none,none,none,none
+1202,חולון,קניג פייר 17,3,59,2.0,1980,none,none,none,none,"1,065,000",none,none,none,none,none,none,none,none,none
+1203,חולון,קניג פייר 19,3,61,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1204,חולון,קניג פייר 21,3,67,2.0,1970,none,"1,015,000",none,none,"1,085,000",none,none,none,none,none,none,none,none,none
+1205,חולון,קניג פייר 3,3,54,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1206,חולון,קניג פייר 6,3,56,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1207,חולון,קניג פייר 7,3,60,2.0,1970,none,none,"1,020,000","1,100,000",none,1135000,none,none,none,none,none,none,none,none
+1208,חולון,קניג פייר 8,3,60,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1209,חולון,קניג פייר 9,3,61,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1210,חולון,קפאח 14,3,62,4.0,1960,"750,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+1211,חולון,קפאח 3,3,67,1.0,1940,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1212,חולון,קפאח 37,3,56,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1213,חולון,קפאח 61,3,97,2.0,1987,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1214,חולון,קפאח 7,3,53,2.0,1970,none,"745,000",none,none,none,none,none,none,none,none,none,none,none,none
+1215,חולון,קפאח הרב 15,3,53,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1216,חולון,קפלן 7,3,57,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1217,חולון,קפלן 8,3,50,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1218,חולון,קפלנסקי 8,3,60,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1219,חולון,קציר אהרון 5,3,66,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1220,חולון,קציר אהרון 7,3,62,2.0,1970,none,"1,220,000","1,253,000",none,none,none,none,none,none,none,none,none,none,none
+1221,חולון,קצנלסון יצחק 2,3,50,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1222,חולון,קראוזה 1,3,65,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1223,חולון,קראוזה 12,3,55,3.0,1969,none,"1,100,000",none,"1,180,000",none,none,none,none,none,none,none,none,none,none
+1224,חולון,קראוזה 37,3,55,1.0,1962,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1225,חולון,קראוזה 39,3,63,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1226,חולון,קראוזה 41,3,67,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1227,חולון,קראוזה 43,3,98,3.0,1960,none,none,"950,000",none,none,none,none,none,none,none,none,none,none,none
+1228,חולון,קראוזה 50,3,80,4.0,1974,none,none,none,none,none,none,"1,500,000",none,none,none,none,none,none,none
+1229,חולון,קראוזה 56,3,64,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1230,חולון,קראוזה 58,3,73,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1231,חולון,קראוזה 62,3,68,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1232,חולון,קראוזה 65,3,66,4.0,1969,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1233,חולון,קראוזה 70,3,59,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1234,חולון,קראוזה אליהו 62,3,68,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1235,חולון,קרן היסוד 18,3,66,4.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1236,חולון,קרן היסוד 20,3,66,2.0,1978,none,none,none,none,"955,000",none,none,none,none,none,none,none,none,none
+1237,חולון,קרן היסוד 4,3,85,8.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1238,חולון,קרן קיימת לישראל 12,3,62,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1239,חולון,ראול ולנברג 9,3,66,2.0,1980,none,none,"1,170,000",none,none,none,none,none,none,none,none,none,none,none
+1240,חולון,ראש פינה 2,3,64,,1963,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1241,חולון,ראש פינה 3,3,65,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1242,חולון,ראש פנה 1,3,65,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1243,חולון,ראש פנה 13,3,75,1.0,1950,none,"720,000",none,none,none,none,none,none,none,none,none,none,none,none
+1244,חולון,ראש פנה 15,3,43,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1245,חולון,ראש פנה 19,3,34,1.0,1970,none,none,none,none,"800,000","935,000",none,none,none,none,none,none,none,none
+1246,חולון,ראש פנה 21,3,34,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1247,חולון,ראש פנה 23,3,37,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1248,חולון,ראש פנה 3,3,59,4.0,1962,none,702257,none,none,none,none,none,none,none,none,none,none,none,none
+1249,חולון,ראש פנה 4,3,64,2.0,1950,"850,000",none,none,none,none,none,"1,256,000",none,none,none,none,none,none,none
+1250,חולון,ראשון לציון 4,3,58,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1251,חולון,ראשון לציון 5,3,58,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1252,חולון,רבי עקיבא 1,3,60,2.0,1982,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1253,חולון,רבי עקיבא 11,3,45,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1254,חולון,רבי עקיבא 5,3,50,1.0,1950,none,"1,030,000",none,none,none,none,none,none,none,none,none,none,none,none
+1255,חולון,רבי עקיבא 8,3,73,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1256,חולון,רבינוביץ אזר 72,3,62,3.0,1995,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1257,חולון,רבינוביץ יהושע 4,3,65,6.0,1983,"935,000",none,none,"1,120,000",none,none,1355000,none,none,none,"1,565,000",none,none,none
+1258,חולון,רבינוביץ יהושע 6,3,70,2.0,1983,none,none,none,none,none,"1,260,000",none,none,none,none,none,none,none,none
+1259,חולון,רופין 18,3,53,2.0,1970,none,"940,000",944500,none,none,none,none,none,none,none,none,"1,390,000",none,none
+1260,חולון,רופין 20,3,52,1.0,1970,"700,000",none,757500,none,none,none,none,none,none,none,none,none,none,none
+1261,חולון,רופין 22,3,52,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1262,חולון,רופין 24,3,55,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1263,חולון,רותר וולטר 8,3,55,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1264,חולון,רותר ולטר 5,3,58,3.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1265,חולון,רחבעם זאבי 19,3,74,1.0,1988,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1266,חולון,רחבעם זאבי 20,3,64,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1267,חולון,רחבעם זאבי 23,3,65,1.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1268,חולון,רחבעם זאבי 30,3,62,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1269,חולון,רחבעם זאבי 6,3,53,1.0,1983,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1270,חולון,רחבעם זאבי 9,3,61,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1271,חולון,רחבעם זאבי 9,3,61,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1272,חולון,רחבעם זאבי גנדי 23,3,61,3.0,1978,none,none,"860,000",none,none,none,none,none,none,none,none,none,none,none
+1273,חולון,רחבעם זאבי גנדי 25,3,61,3.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1274,חולון,רחבעם זאבי גנדי 9,3,70,3.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1275,חולון,רחל 7,3,80,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1276,חולון,ריינס 5,3,76,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1277,חולון,רייק חביבה 1,3,66,1.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1278,חולון,רייק חביבה 11,3,59,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1279,חולון,רמז 1,3,60,2.0,1960,none,none,none,none,885000,none,none,none,none,none,none,none,none,none
+1280,חולון,רמז דוד 21,3,75,,2018,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1281,חולון,רמת הגולן 1,3,72,3.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1282,חולון,רמת הגולן 12,3,91,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1283,חולון,רמת הגולן 13,3,52,2.0,1964,none,none,none,none,none,"1,070,000",none,none,none,none,none,none,none,none
+1284,חולון,רמת הגולן 25,3,52,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1285,חולון,רמת הגולן 29,3,72,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1286,חולון,רמת הגולן 35,3,73,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1287,חולון,רמת הגולן 37,3,73,4.0,1970,none,none,1180000,none,none,none,none,none,none,none,none,none,none,none
+1288,חולון,רמת הגולן 39,3,73,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1289,חולון,רמת הגולן 43,3,73,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1290,חולון,רמת הגולן 5,3,62,1.0,1970,none,none,none,"900,000",none,none,none,none,none,none,none,none,none,none
+1291,חולון,שבזי 3,3,43,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1292,חולון,שבזי 7,3,70,,1960,none,none,none,none,none,none,none,none,none,none,1297500,none,none,none
+1293,חולון,שדה בוקר 10,3,75,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1294,חולון,שוחט ישראל ומניה 14,3,54,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1295,חולון,שוחט ישראל ומניה 21,3,60,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1296,חולון,שוחט ישראל ומניה 7,3,63,3.0,1979,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1297,חולון,שוחט מניה וישראל 19,3,67,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1298,חולון,שוחט מניה וישראל 7,3,56,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1299,חולון,שור פרופ 3,3,67,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1300,חולון,שור פרופ 4,3,50,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1301,חולון,שור פרופ 7,3,78,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1302,חולון,שור פרופסור 3,3,78,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1303,חולון,שטרוק 4,3,61,2.0,1970,none,none,none,none,"1,360,000",none,none,none,none,none,none,none,none,none
+1304,חולון,שכטר 8,3,65,1.0,1964,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1305,חולון,שכטר 9,3,60,,1959,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1306,חולון,שלום עליכם 16,3,60,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1307,חולון,שליט עמוס דה 7,3,87,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1308,חולון,שלמה מפרץ 1,3,59,1.0,1983,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1309,חולון,שלמה מפרץ 10,3,61,2.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1310,חולון,שלמה מפרץ 12,3,66,1.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1311,חולון,שלמה מפרץ 14,3,61,1.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1312,חולון,שלמה מפרץ 16,3,73,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1313,חולון,שלמה מפרץ 24,3,62,1.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1314,חולון,שלמה מפרץ 25,3,64,10.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1315,חולון,שלמה מפרץ 27,3,64,9.0,1980,none,none,none,none,none,none,none,none,none,"1,200,000",none,none,none,none
+1316,חולון,שלמה מפרץ 30,3,91,2.0,1980,none,none,none,none,none,"1,190,000",none,none,none,none,none,none,none,none
+1317,חולון,שלמה מפרץ 31,3,59,8.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1318,חולון,שלמה מפרץ 34,3,91,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1319,חולון,שלמה מפרץ 38,3,57,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1320,חולון,שלמה מפרץ 4,3,65,8.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1321,חולון,שלמה מפרץ 48,3,62,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1322,חולון,שלמה מפרץ 6,3,61,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1323,חולון,שלמה מפרץ 62,3,75,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1324,חולון,שלמה מפרץ 68,3,62,2.0,1983,none,none,none,none,none,none,none,none,"1,365,000",none,none,none,none,none
+1325,חולון,שלמה מפרץ 70,3,61,3.0,1969,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1326,חולון,שלמה מפרץ 78,3,73,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1327,חולון,שלמה מפרץ 8,3,61,4.0,1980,none,none,none,none,none,none,none,"1,260,000",none,none,none,none,none,none
+1328,חולון,שם טוב בעל 11,3,80,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1329,חולון,שם טוב בעל 14,3,55,3.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1330,חולון,שם טוב בעל 16,3,57,1.0,1969,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1331,חולון,שם טוב בעל 4,3,68,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1332,חולון,שם טוב הבעל 20,3,54,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1333,חולון,שם טוב הבעל 31,3,66,1.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1334,חולון,שם טוב הבעל 6,3,68,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1335,חולון,שם טוב הבעל 7,3,70,1.0,1984,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1336,חולון,שמואל הנגיד 16,3,56,2.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1337,חולון,שמואל הנגיד 20,3,50,3.0,1975,none,none,"1,015,000",none,none,none,none,none,none,none,none,none,none,none
+1338,חולון,שמואל הנגיד 23,3,40,3.0,1970,"850,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+1339,חולון,שמואל הנגיד 25,3,57,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1340,חולון,שמואל הנגיד 5,3,72,1.0,2012,none,none,none,1153472,none,none,none,none,none,none,none,none,none,none
+1341,חולון,שמואל יבניאלי,3,58,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1342,חולון,שמואל יבניאלי 2,3,62,1.0,1965,none,none,none,none,"1,100,000",none,none,none,none,none,none,none,none,none
+1343,חולון,שמואל יבניאלי 24,3,56,2.0,1970,none,"1,080,000",none,none,none,none,none,none,none,none,none,none,none,none
+1344,חולון,שמואל יבניאלי 3,3,58,2.0,1991,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1345,חולון,שמואל יבניאלי 4,3,50,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1346,חולון,שמואל יבניאלי 5,3,55,2.0,1970,none,"870,000",1005000,none,none,none,none,none,none,none,none,none,none,none
+1347,חולון,שמואל יבניאלי 6,3,60,2.0,1960,none,"855,000",none,none,none,"1,250,000",none,none,none,none,none,none,none,none
+1348,חולון,שמואל יבניאלי 9,3,57,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1349,חולון,שמונה קרית 14,3,80,7.0,2013,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1350,חולון,שמורק 17,3,71,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1351,חולון,שמורק 19,3,76,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1352,חולון,שמורק 21,3,76,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1353,חולון,שמורק 4,3,77,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1354,חולון,שמורק 7,3,73,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1355,חולון,שמעוני 7,3,109,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1356,חולון,שמר נעמי 9,3,108,4.0,2008,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1357,חולון,שמריהו לוין 20,3,70,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1358,חולון,שמריהו לוין 22,3,70,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1359,חולון,שנקר,3,68,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1360,חולון,שנקר 1,3,64,1.0,1970,none,"830,000","840,000",none,none,none,none,none,none,none,none,none,none,none
+1361,חולון,שנקר 10,3,50,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1362,חולון,שנקר 13,3,64,2.0,1958,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1363,חולון,שנקר 17,3,58,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1364,חולון,שנקר 27,3,63,3.0,1974,none,"900,000",none,none,none,none,none,none,none,none,none,none,none,none
+1365,חולון,שנקר 3,3,64,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1366,חולון,שנקר 35,3,71,1.0,1966,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1367,חולון,שנקר 36,3,95,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1368,חולון,שנקר 38,3,75,1.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1369,חולון,שנקר 5,3,64,2.0,1983,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1370,חולון,שנקר 50,3,60,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1371,חולון,שנקר 54,3,50,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1372,חולון,שנקר 62,3,78,4.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1373,חולון,שנקר 64,3,68,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1374,חולון,שנקר 7,3,89,1.0,1960,none,none,none,none,none,none,none,none,"1,480,000",none,none,none,none,none
+1375,חולון,שנקר 70,3,70,4.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1376,חולון,שנקר 74,3,65,2.0,1968,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1377,חולון,שנקר 75,3,84,3.0,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1378,חולון,שנקר 76,3,73,2.0,1974,"1,100,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+1379,חולון,שנקר 79,3,61,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1380,חולון,שנקר 8,3,66,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1381,חולון,שנקר 82,3,55,1.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1382,חולון,שנקר 83,3,54,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1383,חולון,שנקר אריה 40,3,95,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1384,חולון,שער האריות 3,3,59,1.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1385,חולון,שער ציון 13,3,56,3.0,2013,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1386,חולון,שער ציון 14,3,53,1.0,1978,none,none,none,none,none,none,none,none,none,"1,345,000",none,none,none,none
+1387,חולון,שער ציון 17,3,56,4.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1388,חולון,שער ציון 22,3,52,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1389,חולון,שער ציון 30,3,78,2.0,1984,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1390,חולון,שפירא צבי 1,3,63,1.0,1962,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1391,חולון,שפירא צבי 23,3,59,1.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1392,חולון,שפירא צבי 4,3,62,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1393,חולון,שפרינצק 10,3,70,1.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1394,חולון,שפרינצק 11,3,73,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1395,חולון,שפרינצק 2,3,50,3.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1396,חולון,שפרינצק 33,3,75,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1397,חולון,שפרינצק 34,3,73,2.0,2018,none,none,none,none,none,none,none,none,1702750,none,none,none,none,none
+1398,חולון,שץ צבי 14,3,52,4.0,1967,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1399,חולון,שץ צבי 34,3,63,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1400,חולון,שץ צבי 35,3,56,3.0,2020,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1401,חולון,שץ צבי 39,3,56,,2020,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1402,חולון,שץ צבי 86,3,64,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1403,חולון,שרה אוהל 1,3,80,2.0,1999,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1404,חולון,שרה אוהל 2,3,62,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1405,חולון,שרת משה 1,3,72,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1406,חולון,שרת משה 11,3,71,6.0,1970,none,none,none,none,none,"1,200,000",none,"1,370,000",none,none,none,none,none,none
+1407,חולון,שרת משה 13,3,76,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1408,חולון,שרת משה 31,3,62,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1409,חולון,שרת משה 33,3,70,3.0,1970,none,none,"1,050,000",none,none,none,none,none,none,none,none,none,none,none
+1410,חולון,שרת משה 35,3,64,7.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1411,חולון,שרת משה 37,3,60,3.0,1970,none,none,none,"1,015,000",none,"1,250,000",none,none,none,none,none,none,none,none
+1412,חולון,שרת משה 46,3,65,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1413,חולון,שרת משה 48,3,65,8.0,1989,none,none,"960,000",none,none,none,none,none,none,none,none,none,none,none
+1414,חולון,שרת משה 5,3,76,4.0,1975,none,none,none,none,none,none,none,"1,300,000",none,none,none,none,none,none
+1415,חולון,שרת משה 50,3,64,6.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1416,חולון,שרת משה 52,3,64,4.0,1980,none,none,"775,000","1,005,000",none,"1,120,000",none,none,none,none,none,none,none,none
+1417,חולון,שרת משה 9,3,83,4.0,1971,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1418,חולון,ששת הימים 16,3,72,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1419,חולון,ששת הימים 27,3,62,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1420,חולון,ששת הימים 7,3,64,1.0,1980,none,"750,000","885,000",none,"940,000",none,none,none,none,none,none,none,none,none
+1421,חולון,תקוה פתח 1,3,56,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1422,חולון,תקוה פתח 10,3,65,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1423,חולון,תקוה פתח 16,3,69,4.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1424,חולון,תקוה פתח 2,3,70,4.0,1960,"955,000",none,none,none,"1,150,000",none,none,none,none,none,none,none,none,none
+1425,חולון,תקוה פתח 8,3,60,3.0,1960,none,none,none,"1,020,000",none,none,none,none,none,none,none,none,none,none
+1426,חולון,תקווה פתח 8,3,60,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1427,חולון,תרצו 12,3,60,3.0,1970,none,none,none,none,none,1125000,none,none,none,none,none,none,none,none
+1428,חולון,תרצו 19,3,65,1.0,1982,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1429,חולון,תרצו 21,3,70,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1430,חולון,תרצו 22,3,56,1.0,1970,"710,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+1431,חולון,תרצו 24,3,50,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1432,חולון,תרצו 24,3,56,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1433,חולון,תרצו 25,3,55,1.0,1970,"940,000",none,"945,000",none,none,none,none,none,none,none,none,none,none,none
+1434,חולון,תרצו 25,3,54,2.0,1980,none,none,"945,000",none,none,none,none,none,none,none,none,none,none,none
+1435,חולון,תרצו 34,3,61,1.0,1971,none,none,none,none,1135000,none,none,none,none,none,none,none,none,none

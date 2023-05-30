@@ -1,0 +1,1689 @@
+,city,streets,rooms,size,floor,date_builded,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023
+0,נתניה,אברבנאל 1,3,70.0,1.0,1979,none,none,"660,000",none,none,"700,000",none,none,none,none,none,none,none,none
+1,נתניה,אברהם 10,3,73.0,3.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+2,נתניה,אברהם 23,3,62.0,1.0,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+3,נתניה,אגמים,3,131.0,4.0,2017,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+4,נתניה,אהרונוביץ 23,3,145.0,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+5,נתניה,אהרונוביץ 6,3,146.0,2.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+6,נתניה,אהרונסון 4,3,46.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+7,נתניה,אוסישקין 1,3,86.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+8,נתניה,אוסישקין 11,3,57.0,3.0,1950,none,none,"940,220",none,none,none,none,none,none,none,none,none,none,none
+9,נתניה,אוסישקין 13,3,70.0,5.0,1966,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+10,נתניה,אוסישקין 16,3,64.0,,1960,none,none,none,none,none,none,none,none,"1,600,000","1,480,000",none,none,none,none
+11,נתניה,אוסישקין 17,3,100.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+12,נתניה,אוסישקין 19,3,72.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+13,נתניה,אוסישקין 22,3,76.0,3.0,1987,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+14,נתניה,אוסישקין 23,3,80.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+15,נתניה,אוסישקין 26,3,87.0,3.0,1964,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+16,נתניה,אוסישקין 27,3,75.0,,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+17,נתניה,אוסישקין 29,3,82.0,2.0,1992,none,875000,none,none,"1,100,000",none,none,none,none,none,none,none,none,none
+18,נתניה,אוסישקין 32,3,77.0,2.0,1970,none,none,none,none,"1,125,000",none,none,none,none,none,none,none,none,none
+19,נתניה,אוסישקין 38,3,71.0,4.0,1980,none,none,"1,070,000",none,none,none,none,none,"1,300,000",none,none,none,none,none
+20,נתניה,אוסישקין 39,3,85.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+21,נתניה,אוסישקין 4,3,85.0,1.0,1959,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+22,נתניה,אוסישקין 40,3,91.0,1.0,1960,none,none,"1,070,000",none,"1,350,000",none,none,"1,421,420",none,none,none,none,none,none
+23,נתניה,אוסישקין 41,3,102.0,3.0,1964,none,none,none,none,"925,000",none,"1,380,000",none,none,"1,420,000",none,none,none,none
+24,נתניה,אוסישקין 8,3,59.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+25,נתניה,אחימאיר,3,66.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+26,נתניה,אחימאיר 4,3,75.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+27,נתניה,אחימאיר 6,3,80.0,4.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+28,נתניה,אחימאיר אבא 4,3,75.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+29,נתניה,אייר,3,135.0,6.0,2014,none,none,none,none,none,"1,520,000",none,none,none,none,none,none,none,none
+30,נתניה,איכילוב 1,3,68.0,2.0,1980,"600,000",680000,none,none,none,none,none,none,none,none,none,none,none,none
+31,נתניה,איכילוב 3,3,53.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+32,נתניה,איכילוב 7,3,64.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+33,נתניה,איפגן 1,3,62.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+34,נתניה,איפרגן 11,3,85.0,1.0,2007,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+35,נתניה,איפרגן 4,3,97.0,3.0,2005,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+36,נתניה,אלחריזי 3,3,110.0,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+37,נתניה,אלקלעי 17,3,58.0,2.0,1952,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+38,נתניה,אנדריוס,3,58.0,1.0,1956,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+39,נתניה,אנדריוס 2,3,64.0,1.0,1980,983333,none,none,none,none,none,none,none,"1,400,000",none,none,none,none,none
+40,נתניה,אנטורפן 10,3,50.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+41,נתניה,אנטורפן 12,3,80.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+42,נתניה,אנילביץ 21,3,73.0,,1952,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+43,נתניה,אנילביץ 7,3,36.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+44,נתניה,אפרים 11,3,54.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+45,נתניה,אפרים 2,3,78.0,5.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+46,נתניה,אפרים 36,3,46.0,1.0,1980,none,none,"965,000",none,none,none,none,none,none,none,none,none,none,none
+47,נתניה,אפרים 40,3,46.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+48,נתניה,אפרים אלנקווה,3,54.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+49,נתניה,אפרים אלנקווה 1,3,54.0,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+50,נתניה,אפרים אלנקווה 10,3,62.0,5.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+51,נתניה,אפרים אלנקווה 11,3,54.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+52,נתניה,אפרים אלנקווה 13,3,54.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+53,נתניה,אפרים אלנקווה 17,3,64.0,3.0,1982,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+54,נתניה,אפרים אלנקווה 3,3,55.0,4.0,1980,none,"625,000",none,none,none,none,none,none,none,none,none,none,none,none
+55,נתניה,אפרים אלנקווה 5,3,69.0,3.0,1970,none,none,none,none,"550,000","835,000",none,none,none,none,none,none,none,none
+56,נתניה,אפרים אלנקווה 7,3,52.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+57,נתניה,אפשטיין 8,3,64.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+58,נתניה,אצל 12,3,35.0,3.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+59,נתניה,אצל 14,3,35.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+60,נתניה,אצל 16,3,41.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+61,נתניה,אצל 3,3,41.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+62,נתניה,אצל 4,3,41.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+63,נתניה,אצל 8,3,35.0,3.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+64,נתניה,אצל 8,3,71.0,5.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+65,נתניה,ארבל 2,3,93.0,,2002,none,none,none,"1,250,000",none,"1,250,000",none,none,none,none,none,none,none,none
+66,נתניה,ארלוזורוב 12,3,80.0,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+67,נתניה,ארלוזורוב 33,3,100.0,,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+68,נתניה,אשר,3,85.0,1.0,2007,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+69,נתניה,אשר 10,3,82.0,1.0,2002,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+70,נתניה,אשר 11,3,100.0,1.0,2006,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+71,נתניה,בארי 16,3,82.0,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+72,נתניה,בארי 21,3,75.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+73,נתניה,בארי 22,3,74.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,"1,330,000",none,none,none
+74,נתניה,בארי 27,3,75.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+75,נתניה,בארי 28,3,58.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+76,נתניה,בארי 34,3,78.0,,2011,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+77,נתניה,בארי 58,3,70.0,3.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+78,נתניה,בארי 60,3,75.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+79,נתניה,בארי 66,3,63.0,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+80,נתניה,בארי 67,3,75.0,2.0,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+81,נתניה,בארי 68,3,68.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+82,נתניה,בארי 69,3,73.0,2.0,1978,none,none,932500,none,none,none,none,none,none,none,none,none,none,none
+83,נתניה,בארי 70,3,70.0,1.0,1960,none,none,none,none,none,none,none,none,none,"980,000",none,none,none,none
+84,נתניה,בארי 80,3,54.0,2.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+85,נתניה,בוסל 9,3,156.0,,1997,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+86,נתניה,בורוכוב 11,3,47.0,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+87,נתניה,בורוכוב 15,3,58.0,2.0,1950,none,none,"422,535",none,none,none,none,none,"1,600,000","1,655,000",none,none,none,none
+88,נתניה,בורוכוב 17,3,34.0,3.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+89,נתניה,בורוכוב 19,3,44.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+90,נתניה,בורוכוב 9,3,100.0,14.0,2016,none,none,"750,000",none,none,1734950,none,none,none,none,none,none,none,none
+91,נתניה,ביאליק 10,3,82.0,,1950,none,none,none,none,none,none,none,none,none,"2,003,000",none,1820000,none,none
+92,נתניה,ביאליק 113,3,92.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+93,נתניה,ביאליק 13,3,59.0,3.0,1970,none,none,none,none,none,none,none,"1,570,000",none,none,none,none,none,none
+94,נתניה,ביאליק 2,3,96.0,2.0,1940,none,"10,000",none,none,none,none,none,none,none,none,none,none,none,none
+95,נתניה,ביאליק 3,3,51.0,5.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+96,נתניה,ביאליק 5,3,60.0,4.0,1970,none,"880,000",none,none,none,none,none,none,none,none,none,none,none,none
+97,נתניה,ביאליק 8,3,66.0,3.0,1969,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+98,נתניה,בילינסון 19,3,52.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+99,נתניה,בלפור 11,3,83.0,4.0,2020,none,none,none,none,none,none,none,none,none,"1,500,000",none,none,none,none
+100,נתניה,בלפור 9,3,50.0,2.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+101,נתניה,בן אבי 29,3,78.0,4.0,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+102,נתניה,בן אבי 3,3,120.0,1.0,2005,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+103,נתניה,בן אבי 41,3,70.0,1.0,1992,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+104,נתניה,בן אבי 41,3,78.0,5.0,1982,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+105,נתניה,בן אבי 43,3,83.0,4.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+106,נתניה,בן אליעזר 2,3,98.0,7.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+107,נתניה,בן אליעזר 35,3,60.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+108,נתניה,בן אליעזר 37,3,72.0,1.0,1961,none,none,none,none,none,none,none,none,none,none,none,"1,165,000",none,none
+109,נתניה,בן אליעזר 40,3,60.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+110,נתניה,בן אריה אליעזר 41,3,72.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+111,נתניה,בנימין 12,3,39.0,2.0,1967,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+112,נתניה,בנימין 13,3,66.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+113,נתניה,בנימין 14,3,79.0,3.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+114,נתניה,בנימין 15,3,53.0,3.0,1953,none,none,670000,none,"1,000,000",none,none,none,none,none,none,none,none,none
+115,נתניה,בנימין 17,3,73.0,6.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+116,נתניה,בנימין 18,3,72.0,,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+117,נתניה,בנימין 19,3,82.0,5.0,2016,none,none,none,none,none,none,none,none,1755000,none,none,none,none,none
+118,נתניה,בנימין 2,3,96.0,4.0,1950,none,none,none,none,"596,774",none,none,none,none,none,none,none,none,none
+119,נתניה,בנימין 22,3,73.0,5.0,1975,none,none,"845,454",none,none,none,none,none,"1,903,903",none,none,none,none,none
+120,נתניה,בנימין 25,3,75.0,3.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+121,נתניה,בנימין 26,3,70.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+122,נתניה,בנימין 27,3,104.0,1.0,1974,none,none,none,none,none,none,none,"1,550,000",none,none,none,none,none,none
+123,נתניה,בנימין 28,3,96.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+124,נתניה,בנימין 29,3,71.0,6.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+125,נתניה,בנימין 30,3,80.0,2.0,1958,none,none,none,none,none,none,none,none,"1,305,000",none,none,none,none,none
+126,נתניה,בנימין 32,3,50.0,4.0,1960,none,none,none,none,none,"1,060,000",none,"1,150,000",none,none,none,none,none,none
+127,נתניה,בנימין 33,3,70.0,1.0,1965,none,none,none,none,"1,030,000",none,none,none,none,none,none,none,none,none
+128,נתניה,בנימין 34,3,74.0,5.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+129,נתניה,בנימין 37,3,71.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+130,נתניה,בנימין 4,3,60.0,2.0,1980,none,none,none,none,none,none,"650,000",none,none,none,none,none,none,none
+131,נתניה,בנימין 44,3,56.0,3.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+132,נתניה,בנימין 45,3,67.0,7.0,1970,none,none,none,none,none,none,none,none,"1,446,444","1,230,000",none,none,none,none
+133,נתניה,בנימין 46,3,74.0,2.0,1965,none,none,718500,none,"760,000",none,none,"1,200,000",none,none,none,none,none,none
+134,נתניה,בנימין 47,3,93.0,1.0,1980,none,none,"850,000",none,none,"1,200,000",none,none,none,"1,370,000",none,none,none,none
+135,נתניה,בנימין 48,3,75.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+136,נתניה,בנימין 49,3,68.0,3.0,1960,none,none,872500,none,none,none,none,none,none,none,none,none,none,none
+137,נתניה,בנימין 50,3,78.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+138,נתניה,בנימין 51,3,83.0,6.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+139,נתניה,בנימין 52,3,87.0,3.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+140,נתניה,בנימין 56,3,78.0,7.0,2001,none,none,"1,020,000",none,none,none,none,none,none,none,none,none,none,none
+141,נתניה,בנימין 61,3,72.0,2.0,1972,"850,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+142,נתניה,בנימין 66,3,80.0,4.0,1960,none,"383,500",none,none,none,none,none,none,none,none,none,none,none,none
+143,נתניה,בנימין 67,3,67.0,5.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+144,נתניה,בנימין 68,3,150.0,5.0,1970,none,none,"950,000",none,none,none,none,none,none,"1,530,000",none,none,none,none
+145,נתניה,בנימין 71,3,77.0,1.0,1980,none,none,"800,000",none,"1,030,000",none,none,none,none,none,none,none,none,none
+146,נתניה,בנימין 73,3,73.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+147,נתניה,בנימין 74,3,68.0,1.0,1960,none,"880,000","570,000","900,000",none,none,"1,300,000",none,none,none,none,none,none,none
+148,נתניה,בנימין בני 13,3,95.0,2.0,2001,none,none,none,"1,360,000",none,none,none,none,none,none,none,none,none,none
+149,נתניה,בנימין בני 15,3,99.0,4.0,2002,none,1270000,none,none,none,none,1504687,none,"1,755,000",none,none,none,none,none
+150,נתניה,בנימין בני 18,3,101.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+151,נתניה,בנימין בני 23,3,101.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+152,נתניה,בנימין בני 25,3,84.0,1.0,2008,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+153,נתניה,בנימין בני 29,3,57.0,1.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+154,נתניה,בנימין בני 5,3,80.0,1.0,2012,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+155,נתניה,בנימין בני 56,3,78.0,7.0,2001,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+156,נתניה,בקמן,3,50.0,,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+157,נתניה,בקמן 1,3,63.0,4.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+158,נתניה,בקמן 3,3,92.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+159,נתניה,בקמן 4,3,70.0,,1966,none,none,none,none,none,none,none,"1,350,000",none,none,none,none,none,none
+160,נתניה,ברודצקי,3,70.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+161,נתניה,ברודצקי 11,3,55.0,2.0,1950,none,827500,933000,none,none,none,none,none,none,none,none,none,none,none
+162,נתניה,ברודצקי 12,3,80.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+163,נתניה,ברודצקי 13,3,64.0,3.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+164,נתניה,ברודצקי 14,3,58.0,4.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+165,נתניה,ברודצקי 16,3,66.0,2.0,2000,none,none,none,"925,000",none,none,none,none,none,none,none,none,none,none
+166,נתניה,ברודצקי 18,3,75.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+167,נתניה,ברודצקי 22,3,49.0,3.0,1970,none,none,none,none,none,"1,300,000",none,none,none,none,none,none,none,none
+168,נתניה,ברודצקי 24,3,80.0,3.0,1965,none,none,none,"890,000",none,none,none,none,none,none,none,none,none,none
+169,נתניה,ברודצקי 25,3,74.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+170,נתניה,ברודצקי 26,3,49.0,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+171,נתניה,ברודצקי 28,3,75.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+172,נתניה,ברודצקי 29,3,75.0,3.0,1969,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+173,נתניה,ברודצקי 33,3,76.0,4.0,1970,none,none,none,"966,000",none,none,none,none,none,none,none,none,none,none
+174,נתניה,ברודצקי 37,3,80.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+175,נתניה,ברודצקי 39,3,62.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+176,נתניה,ברודצקי 41,3,65.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+177,נתניה,ברודצקי 43,3,80.0,5.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+178,נתניה,ברודצקי 5,3,80.0,3.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+179,נתניה,ברודצקי 7,3,80.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+180,נתניה,ברנר 1,3,72.0,3.0,1973,none,"910,000","776,000",none,none,"1,250,000","1,300,000",none,none,none,none,none,none,none
+181,נתניה,ברנר 46,3,73.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+182,נתניה,ברנר 7,3,80.0,3.0,1970,none,none,none,none,none,none,none,"1,390,000","1,295,000",none,none,none,none,none
+183,נתניה,ברנר 9,3,56.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+184,נתניה,ברק 17,3,86.0,1.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+185,נתניה,גבע 20,3,85.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+186,נתניה,גבע 23,3,89.0,3.0,1970,none,none,none,"1,070,000",none,none,none,none,none,none,none,none,none,none
+187,נתניה,גבע 28,3,50.0,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+188,נתניה,גבע 3,3,75.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+189,נתניה,גבע 33,3,,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+190,נתניה,גבע 36,3,70.0,1.0,1971,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+191,נתניה,גבע 5,3,78.0,3.0,1977,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+192,נתניה,גבע 9,3,78.0,4.0,1974,none,none,none,none,"980,000","1,170,000","1,341,339",none,none,none,none,none,none,none
+193,נתניה,גבעתי 113,3,119.0,3.0,2001,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+194,נתניה,גדעון 10,3,50.0,1.0,1955,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+195,נתניה,גולומב 1,3,70.0,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+196,נתניה,גולומב 14,3,55.0,,1966,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+197,נתניה,גולומב 2,3,60.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+198,נתניה,גולומב 45,3,54.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+199,נתניה,גולי בניה 4,3,80.0,4.0,1980,none,none,none,none,none,"1,220,000",none,none,none,none,none,none,none,none
+200,נתניה,גורדון,3,85.0,4.0,2015,none,none,none,"650,000","1,165,000",none,none,none,none,none,none,none,none,none
+201,נתניה,גורדון 10,3,59.0,1.0,1980,none,none,none,none,none,none,none,none,"1,021,021",none,none,none,none,none
+202,נתניה,גורדון 11,3,95.0,6.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+203,נתניה,גורדון 18,3,53.0,1.0,1962,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+204,נתניה,גורדון 19,3,74.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+205,נתניה,גורדון 24,3,115.0,5.0,2014,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+206,נתניה,גורדון 26,3,64.0,4.0,1954,none,none,none,none,none,none,"1,061,060",none,none,none,"1,100,000",none,none,none
+207,נתניה,גורדון 27,3,86.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+208,נתניה,גורדון 28,3,62.0,1.0,1955,none,none,"825,000",none,none,none,none,none,none,none,none,none,none,none
+209,נתניה,גורדון 3,3,60.0,3.0,1967,none,none,none,"650,000",none,none,none,none,none,none,none,none,none,none
+210,נתניה,גורדון 33,3,62.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+211,נתניה,גורדון 37,3,71.0,3.0,1964,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+212,נתניה,גורדון 38,3,72.0,1.0,1980,none,"750,000",none,none,none,1200000,none,none,none,none,none,none,none,none
+213,נתניה,גורדון 4,3,67.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+214,נתניה,גורדון 44,3,80.0,2.0,1960,none,"905,000",none,none,none,none,none,none,none,none,none,none,none,none
+215,נתניה,גורדון 45,3,77.0,3.0,1970,"835,000",none,none,"1,120,000","1,150,000",none,none,none,none,none,none,none,none,none
+216,נתניה,גורדון 48,3,85.0,5.0,2015,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+217,נתניה,גורדון 5,3,107.0,2.0,1970,none,"960,000",none,none,"1,080,000",none,none,none,none,none,none,none,none,none
+218,נתניה,גורדון 6,3,58.0,3.0,1950,none,none,none,none,none,"1,150,000",none,none,none,none,none,none,none,none
+219,נתניה,גורדון 62,3,90.0,2.0,2010,"1,350,000",none,none,none,"1,501,501",none,none,none,none,none,none,none,none,none
+220,נתניה,גורדון 9,3,60.0,5.0,1980,none,none,none,none,none,none,"1,210,000",none,"1,620,000",none,none,none,none,none
+221,נתניה,גוריון בן 107,3,114.0,11.0,2010,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+222,נתניה,גוריון בן 27,3,80.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+223,נתניה,גליקסון 10,3,69.0,2.0,1960,none,"510,000",none,none,none,none,none,none,none,none,none,none,none,none
+224,נתניה,גליקסון 22,3,73.0,4.0,1965,none,323333,532812,"3,092,367",none,none,none,none,none,none,"670,000",none,none,none
+225,נתניה,גליקסון 37,3,64.0,4.0,1977,none,none,none,none,none,none,none,none,none,"337,624",none,none,none,none
+226,נתניה,גליקסון 38,3,62.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+227,נתניה,גרינבוים,3,54.0,4.0,1999,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+228,נתניה,גרינבוים 13,3,43.0,9.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+229,נתניה,גרינבוים 14,3,70.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+230,נתניה,גרינבוים 16,3,50.0,2.0,2006,none,none,none,none,none,none,none,none,none,none,"900,000",none,none,none
+231,נתניה,גרינבוים 17,3,59.0,4.0,1993,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+232,נתניה,גרינבוים 18,3,46.0,1.0,1979,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+233,נתניה,גרינבוים 2,3,66.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+234,נתניה,גרינבוים 20,3,46.0,4.0,1970,none,none,none,none,none,none,none,"825,000",none,none,none,none,none,none
+235,נתניה,גרינבוים 22,3,46.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+236,נתניה,גרינבוים 24,3,50.0,4.0,1970,none,none,none,none,none,none,810000,none,none,none,none,none,none,none
+237,נתניה,גרינבוים 26,3,50.0,2.0,1968,none,none,none,none,none,"830,000",none,none,none,none,none,none,none,none
+238,נתניה,גרינבוים 28,3,52.0,4.0,1960,none,none,none,none,none,"600,600",none,none,none,none,none,none,none,none
+239,נתניה,גרינבוים 32,3,58.0,3.0,1980,none,none,none,none,none,none,"860,000",none,none,none,none,none,none,none
+240,נתניה,גרינבוים 34,3,60.0,3.0,1981,none,"500,000",none,none,none,none,none,none,none,none,none,none,none,none
+241,נתניה,גרינבוים 35,3,48.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+242,נתניה,גרינבוים 36,3,64.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+243,נתניה,גרינבוים 37,3,47.0,2.0,2004,none,"440,000",none,none,none,"630,000",none,none,"970,000",none,none,none,none,none
+244,נתניה,גרינבוים 39,3,51.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+245,נתניה,גרינבוים 8,3,49.0,1.0,1970,none,none,565000,none,none,none,none,none,none,none,none,none,none,none
+246,נתניה,ד גורדון א 21,3,77.0,,1989,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+247,נתניה,ד גורדון א 5,3,107.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+248,נתניה,דב גרונר 15,3,101.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+249,נתניה,דב גרונר 15,3,101.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+250,נתניה,דב גרונר 3,3,75.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+251,נתניה,דב גרונר 9,3,45.0,2.0,1976,none,none,none,"825,000",none,"990,000",none,none,none,"1,180,000","1,170,000",none,none,none
+252,נתניה,דגניה 42,3,91.0,1.0,2008,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+253,נתניה,דיזנגוף,3,90.0,7.0,2016,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+254,נתניה,דיזנגוף 1,3,72.0,3.0,1980,"1,050,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+255,נתניה,דיזנגוף 12,3,73.0,4.0,1974,none,none,none,none,none,none,none,none,"1,600,000",none,none,none,none,none
+256,נתניה,דיזנגוף 13,3,80.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+257,נתניה,דיזנגוף 18,3,52.0,4.0,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+258,נתניה,דיזנגוף 19,3,68.0,3.0,1964,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+259,נתניה,דיזנגוף 2,3,62.0,5.0,1970,none,966666,none,none,none,none,none,none,none,none,none,none,none,none
+260,נתניה,דיזנגוף 24,3,68.0,4.0,1977,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+261,נתניה,דיזנגוף 3,3,59.0,3.0,1963,none,none,none,none,"1,100,000",none,none,none,none,none,none,none,none,none
+262,נתניה,דיזנגוף 30,3,88.0,24.0,2016,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+263,נתניה,דיזנגוף 32,3,90.0,7.0,2016,none,none,none,none,none,1956250,1983333,none,"2,300,000","2,340,000",none,none,none,none
+264,נתניה,דיזנגוף 33,3,55.0,4.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+265,נתניה,דיזנגוף 34,3,66.0,1.0,1980,none,none,735000,none,none,1817583,none,none,none,none,none,none,none,none
+266,נתניה,דיזנגוף 35,3,58.0,3.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+267,נתניה,דיזנגוף 37,3,68.0,2.0,1970,1000000,none,1126000,none,none,"1,300,000",none,none,"1,420,000",none,"1,500,000",none,none,none
+268,נתניה,דיזנגוף 4,3,66.0,5.0,1969,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+269,נתניה,דיזנגוף 41,3,56.0,2.0,1980,none,none,none,none,none,"700,000",none,none,none,none,none,none,none,none
+270,נתניה,דיזנגוף 5,3,62.0,1.0,1980,none,none,none,none,none,none,"1,576,301",none,none,none,none,none,none,none
+271,נתניה,דיזנגוף 52,3,88.0,5.0,2020,none,none,none,none,none,none,none,none,none,none,"1,950,000",none,none,none
+272,נתניה,דיזנגוף 55,3,75.0,6.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+273,נתניה,דיזנגוף 59,3,61.0,1.0,1960,840000,none,none,none,none,none,none,none,none,none,none,none,none,none
+274,נתניה,דיזנגוף 6,3,66.0,5.0,1969,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+275,נתניה,דיזנגוף 61,3,77.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+276,נתניה,דיזנגוף 63,3,49.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+277,נתניה,דיזנגוף 7,3,111.0,6.0,1972,none,none,none,none,none,none,none,none,none,none,"1,700,000",none,none,none
+278,נתניה,דנקנר 1,3,79.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+279,נתניה,דנקנר 11,3,80.0,2.0,2012,none,none,"1,810,000",none,2220000,none,none,none,none,none,none,none,none,none
+280,נתניה,דנקנר 19,3,101.0,9.0,1973,none,1840000,none,none,none,none,none,none,none,none,none,none,none,none
+281,נתניה,דנקנר 26,3,72.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+282,נתניה,דרור 20,3,77.0,2.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+283,נתניה,דרך דגניה 29,3,83.0,1.0,2007,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+284,נתניה,דרך דגניה 37,3,73.0,5.0,2005,none,none,"1,100,000",none,none,none,none,none,none,none,none,none,none,none
+285,נתניה,דרך דגניה 46,3,91.0,,2010,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+286,נתניה,האורזים 23,3,100.0,6.0,2005,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+287,נתניה,האלונים 12,3,62.0,2.0,1951,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+288,נתניה,האלונים 22,3,71.0,1.0,1995,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+289,נתניה,הארבל 2,3,66.0,5.0,2010,none,none,none,"1,250,000","1,285,000",none,none,none,none,none,none,none,none,none
+290,נתניה,הארבל 5,3,66.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+291,נתניה,הארגמן אירוס 14,3,66.0,,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+292,נתניה,הארגמן אירוס 16,3,58.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+293,נתניה,הארגמן אירוס 27,3,95.0,3.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+294,נתניה,הארגמן אירוס 29,3,75.0,3.0,2014,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+295,נתניה,הארגמן אירוס 6,3,80.0,1.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+296,נתניה,הארגמן אירוס 61,3,101.0,1.0,1992,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+297,נתניה,הארי 8,3,70.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+298,נתניה,הברבור 12,3,56.0,1.0,1998,none,none,none,none,none,none,"1,240,000",none,none,none,none,none,none,none
+299,נתניה,הברבור 13,3,85.0,3.0,1994,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+300,נתניה,הברבור 15,3,68.0,1.0,1990,none,none,none,none,none,none,"1,100,000",none,none,none,none,none,none,none
+301,נתניה,הברבור 17,3,68.0,2.0,2000,"960,000",none,none,none,"950,000",none,1150000,none,none,none,none,none,none,none
+302,נתניה,הברבור 2,3,96.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,"1,200,000",none,none,none
+303,נתניה,הברבור 7,3,73.0,1.0,2013,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+304,נתניה,הברבור 9,3,68.0,3.0,1994,none,"735,000",none,none,none,none,none,none,none,none,none,none,none,none
+305,נתניה,הבשן 5,3,66.0,5.0,2001,none,"1,080,000",none,none,none,none,none,none,none,none,none,none,none,none
+306,נתניה,הגוזל 14,3,68.0,2.0,1999,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+307,נתניה,הגולן 4,3,77.0,3.0,2007,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+308,נתניה,הגילה 5,3,133.0,4.0,2013,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+309,נתניה,הגלבוע 4,3,48.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+310,נתניה,הגלבוע 6,3,64.0,6.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+311,נתניה,הגלבוע 7,3,40.0,,1945,none,none,none,"730,000","890,000","1,000,000",none,1120000,none,none,none,none,none,none
+312,נתניה,הגליל,3,46.0,2.0,1967,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+313,נתניה,הגליל 1,3,56.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+314,נתניה,הגליל 12,3,82.0,2.0,1956,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+315,נתניה,הגליל 15,3,84.0,2.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+316,נתניה,הגליל 20,3,58.0,3.0,1971,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+317,נתניה,הגליל 23,3,60.0,2.0,1980,none,"770,000",none,none,1411290,none,none,none,none,none,none,none,none,none
+318,נתניה,הגליל 25,3,60.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+319,נתניה,הגליל 26,3,52.0,2.0,1960,none,none,none,none,"820,000",none,none,none,none,none,none,none,none,none
+320,נתניה,הגליל 27,3,48.0,4.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+321,נתניה,הגליל 29,3,69.0,3.0,1968,none,none,none,"1,040,000",none,none,none,none,none,none,none,none,none,none
+322,נתניה,הגליל 31,3,61.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+323,נתניה,הגליל 32,3,70.0,2.0,1964,none,none,none,none,"1,210,000",none,none,none,none,none,none,none,none,none
+324,נתניה,הגליל 34,3,80.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+325,נתניה,הגליל 4,3,62.0,1.0,1970,none,none,none,none,none,none,none,1300000,none,none,none,none,none,none
+326,נתניה,הגליל 6,3,61.0,3.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+327,נתניה,הגליל 7,3,70.0,2.0,1960,none,none,none,none,none,none,none,"1,250,000",none,none,none,none,none,none
+328,נתניה,הגליל 8,3,67.0,1.0,1960,none,none,none,none,none,none,none,"1,250,000",none,none,none,none,none,none
+329,נתניה,הגליל 9,3,65.0,2.0,1950,none,none,none,none,none,none,none,none,1380000,none,none,none,none,none
+330,נתניה,הגלעד 7,3,78.0,4.0,1993,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+331,נתניה,הגרא 1,3,70.0,,2005,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+332,נתניה,הגרא 3,3,65.0,3.0,1980,none,none,none,none,none,"925,000",none,none,none,none,none,none,none,none
+333,נתניה,הדקל 10,3,80.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+334,נתניה,הדרור 20,3,79.0,4.0,2004,none,none,none,"970,000",none,none,none,none,none,none,none,none,none,none
+335,נתניה,הדרור 21,3,70.0,1.0,1992,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+336,נתניה,הדרור 35,3,86.0,,1994,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+337,נתניה,ההדר 10,3,75.0,1.0,1956,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+338,נתניה,ההסתדרות 1,3,56.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+339,נתניה,ההסתדרות 2,3,60.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+340,נתניה,ההסתדרות 5,3,72.0,5.0,1970,none,none,none,none,none,"1,450,000",none,none,none,none,none,none,none,none
+341,נתניה,ההסתדרות 7,3,62.0,2.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+342,נתניה,ההשכלה 11,3,81.0,2.0,1999,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+343,נתניה,הוז דב,3,75.0,2.0,2014,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+344,נתניה,הוז דב 13,3,44.0,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+345,נתניה,הוז דב 25,3,43.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+346,נתניה,הוז דב 29,3,41.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+347,נתניה,הזית 4,3,80.0,,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+348,נתניה,הזמיר 19,3,70.0,1.0,1994,none,none,none,none,none,none,none,none,"1,215,000",none,none,none,none,none
+349,נתניה,הזמיר 21,3,70.0,1.0,1992,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+350,נתניה,החלוצים 11,3,82.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+351,נתניה,החלוצים 12,3,62.0,2.0,1951,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+352,נתניה,החרצית 44,3,91.0,1.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+353,נתניה,החשמונאים,3,75.0,17.0,2014,none,none,none,none,1390398,1418500,1539000,none,none,none,"2,557,142",none,none,none
+354,נתניה,החשמונאים 1,3,87.0,2.0,2019,none,none,none,none,"1,390,260",none,none,none,none,none,none,none,none,none
+355,נתניה,החשמונאים 11,3,88.0,17.0,2019,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+356,נתניה,החשמונאים 2,3,75.0,8.0,2014,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+357,נתניה,החשמונאים 3,3,103.0,2.0,2016,none,none,none,none,none,none,none,none,"1,675,000",none,none,none,none,none
+358,נתניה,החשמונאים 4,3,103.0,13.0,2017,none,none,none,none,none,none,none,none,1630000,1667500,1762500,none,none,none
+359,נתניה,החשמונאים 62,3,126.0,,1945,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+360,נתניה,הטורים 3,3,92.0,6.0,2015,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+361,נתניה,היהודית הבריגדה 15,3,85.0,8.0,2003,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+362,נתניה,היהודית הבריגדה 21,3,50.0,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+363,נתניה,היהודית הבריגדה 38,3,75.0,2.0,2006,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+364,נתניה,היהודית הבריגדה 48,3,92.0,5.0,2005,none,none,none,none,none,none,none,none,none,"1,260,000",none,none,none,none
+365,נתניה,היהודית הבריגדה 50,3,80.0,,2005,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+366,נתניה,היהלום 18,3,49.0,2.0,1979,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+367,נתניה,הכרמל 3,3,68.0,3.0,1963,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+368,נתניה,הכרמל 5,3,69.0,1.0,1970,"1,140,000",none,none,none,none,none,"1,200,000",none,none,none,none,none,none,none
+369,נתניה,הלה 2,3,73.0,5.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+370,נתניה,הלוטם 1,3,85.0,,2007,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+371,נתניה,הלוטם 5,3,85.0,2.0,2003,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+372,נתניה,הלל אבא 1,3,59.0,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+373,נתניה,הלל אבא 14,3,73.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+374,נתניה,הלל אבא 2,3,75.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+375,נתניה,המיסדים 14,3,64.0,4.0,1973,none,"500,000",none,none,none,none,none,none,none,none,none,none,none,none
+376,נתניה,המיסדים 16,3,50.0,,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+377,נתניה,המיסדים 5,3,72.0,3.0,1960,none,none,none,none,1200000,none,"1,400,000",none,none,none,none,none,none,none
+378,נתניה,המיסדים 9,3,74.0,5.0,1974,none,none,none,none,none,"1,490,000",none,none,none,none,none,none,none,none
+379,נתניה,המלך דוד 15,3,91.0,1.0,1991,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+380,נתניה,המלך דוד 16,3,51.0,4.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+381,נתניה,המלך דוד 20,3,74.0,1.0,1964,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+382,נתניה,המלך דוד 21,3,79.0,3.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+383,נתניה,המלך דוד 21,3,103.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+384,נתניה,המלך דוד 22,3,79.0,5.0,1981,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+385,נתניה,המלך דוד 24,3,105.0,7.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+386,נתניה,המלך דוד 30,3,91.0,1.0,1973,none,none,none,"1,180,000","1,420,000",none,none,none,none,none,none,none,none,none
+387,נתניה,המלך דוד 30,3,73.0,5.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+388,נתניה,המלכה אסתר 10,3,81.0,2.0,1995,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+389,נתניה,המלכה אסתר 2,3,70.0,2.0,1995,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+390,נתניה,המלכה אסתר 6,3,69.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+391,נתניה,המעפילים 12,3,85.0,1.0,1970,"1,640,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+392,נתניה,המעפילים 14,3,87.0,4.0,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+393,נתניה,המתמיד 1,3,59.0,2.0,1965,"980,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+394,נתניה,המתמיד 4,3,70.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+395,נתניה,המתמיד 5,3,79.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+396,נתניה,המתמיד 6,3,78.0,2.0,1955,none,none,none,none,"1,135,000",none,none,none,none,none,none,none,none,none
+397,נתניה,המתמיד 7,3,72.0,2.0,1970,none,none,"594,000",none,none,none,none,none,none,none,none,none,none,none
+398,נתניה,המתמיד 8,3,88.0,1.0,1950,none,none,none,none,"900,000",none,none,none,none,none,none,none,none,none
+399,נתניה,המתמיד 9,3,75.0,3.0,1960,none,none,"594,000",none,none,none,none,none,none,none,none,none,none,none
+400,נתניה,הנביאים 1,3,70.0,1.0,1960,"420,000","451,000","510,000","500,000","500,000",none,none,none,none,none,none,none,none,none
+401,נתניה,הנביאים 12,3,37.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+402,נתניה,הנביאים 2,3,55.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+403,נתניה,הנביאים 3,3,60.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+404,נתניה,הנביאים 5,3,64.0,3.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+405,נתניה,הנביאים 7,3,55.0,1.0,1960,450000,"574,000",none,none,"690,000",none,none,none,none,none,none,none,none,none
+406,נתניה,הנגב 10,3,65.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+407,נתניה,הנגב 12,3,80.0,4.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+408,נתניה,הנוטע 1,3,105.0,4.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+409,נתניה,הנוטע 10,3,57.0,2.0,1960,"672,500",none,none,none,"887,000",none,none,none,none,none,none,none,none,none
+410,נתניה,הנוטע 11,3,82.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+411,נתניה,הנוטע 12,3,74.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+412,נתניה,הנוטע 14,3,55.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,"1,160,000",none,none,none
+413,נתניה,הנוטע 16,3,81.0,6.0,1970,"900,000",none,none,none,none,none,1175000,none,none,none,none,none,none,none
+414,נתניה,הנוטע 21,3,72.0,2.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+415,נתניה,הנשר 5,3,80.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+416,נתניה,הס 6,3,65.0,5.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+417,נתניה,הס 7,3,59.0,3.0,1960,none,none,none,none,"690,000",none,none,none,none,none,none,none,none,none
+418,נתניה,העברי החינוך,3,77.0,,2005,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+419,נתניה,העלייה 3,3,65.0,,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+420,נתניה,העם אחד 2,3,90.0,2.0,1960,"635,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+421,נתניה,העצמאות 13,3,93.0,4.0,1954,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+422,נתניה,הפארק דרך 1,3,77.0,3.0,2023,none,none,none,none,none,none,none,none,none,none,907179,none,none,none
+423,נתניה,הפארק דרך 20,3,77.0,,2023,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+424,נתניה,הפורצים 27,3,78.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+425,נתניה,הפורצים 29,3,78.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+426,נתניה,הפרדס 6,3,50.0,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+427,נתניה,הצנחנים 7,3,75.0,,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+428,נתניה,הקבלנים 10,3,58.0,2.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+429,נתניה,הקליר 7,3,118.0,13.0,2015,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+430,נתניה,הרב אפרים אלנקווה 15,3,55.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+431,נתניה,הרב אפרים אלנקווה 3,3,54.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+432,נתניה,הרב אפרים אלנקווה 9,3,62.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+433,נתניה,הרב גולד 17,3,60.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+434,נתניה,הרטום 10,3,75.0,,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+435,נתניה,הרטום 14,3,75.0,4.0,1995,none,none,"910,000",none,"1,100,000",none,"1,285,000",none,none,none,"1,300,000",none,none,none
+436,נתניה,הרטום 18,3,70.0,1.0,1989,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+437,נתניה,הרטום 2,3,70.0,1.0,1996,none,none,none,none,"960,000",none,none,none,none,none,none,none,none,none
+438,נתניה,הרטום 20,3,71.0,2.0,1999,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+439,נתניה,הרטום 22,3,120.0,4.0,2003,"850,000",none,none,none,none,"1,230,000",none,none,none,none,none,none,none,none
+440,נתניה,הרטום 24,3,68.0,2.0,2002,none,none,none,none,none,none,"1,335,000",none,none,none,none,none,none,none
+441,נתניה,הרטום 28,3,100.0,7.0,2001,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+442,נתניה,הרטום 29,3,82.0,1.0,2003,"1,010,000",none,"1,100,000",none,none,none,none,none,none,none,none,none,none,none
+443,נתניה,הרטום 34,3,83.0,,2006,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+444,נתניה,הרטום 4,3,75.0,,1994,845000,none,none,none,none,none,none,none,none,none,none,none,none,none
+445,נתניה,הרטום 6,3,85.0,5.0,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+446,נתניה,הרטום 8,3,100.0,5.0,1994,none,none,none,none,"1,020,000",1192500,none,none,none,none,none,none,none,none
+447,נתניה,הרימון 14,3,200.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+448,נתניה,הרצוג 21,3,79.0,6.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+449,נתניה,הרצוג 31,3,72.0,5.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+450,נתניה,הרצוג 8,3,60.0,3.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+451,נתניה,הרצל 28,3,70.0,1.0,1965,none,none,"1,074,600",none,none,none,none,none,none,none,none,none,none,none
+452,נתניה,הרצל 29,3,45.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+453,נתניה,הרצל 34,3,71.0,4.0,1950,none,none,none,"650,000",none,none,none,none,none,none,none,none,none,none
+454,נתניה,הרצל 38,3,50.0,2.0,1950,"600,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+455,נתניה,הרצל 41,3,75.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+456,נתניה,הרצל 42,3,100.0,2.0,1952,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+457,נתניה,הרצל 7,3,111.0,6.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+458,נתניה,הרצל 81,3,64.0,2.0,1970,none,none,none,none,none,none,none,504444,none,none,none,none,none,none
+459,נתניה,הרצל 87,3,64.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+460,נתניה,השבעה 1,3,62.0,2.0,1966,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+461,נתניה,השבעה 12,3,70.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+462,נתניה,השבעה 14,3,90.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,"1,500,000",none,none,none
+463,נתניה,השבעה 16,3,70.0,2.0,1972,"1,180,000","800,000",none,"810,000",none,none,none,none,none,"1,501,501",none,none,none,none
+464,נתניה,השבעה 18,3,80.0,4.0,1980,"1,180,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+465,נתניה,השבעה 20,3,81.0,2.0,1972,none,"1,200,000",none,none,1175000,"1,345,000",none,none,none,none,none,none,none,none
+466,נתניה,השבעה 25,3,110.0,1.0,2013,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+467,נתניה,השבעה 3,3,67.0,3.0,1980,none,none,none,934500,none,none,none,none,none,none,none,none,none,none
+468,נתניה,השבעה 4,3,73.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+469,נתניה,השומר 15,3,75.0,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+470,נתניה,השופטים 8,3,97.0,2.0,1981,none,none,none,none,none,none,none,none,none,1512096,none,none,none,none
+471,נתניה,השקד 12,3,80.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+472,נתניה,השקד 22,3,52.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+473,נתניה,השקד 32,3,60.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+474,נתניה,השקד 57,3,120.0,1.0,1986,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+475,נתניה,התור 1,3,53.0,2.0,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+476,נתניה,התור 15,3,75.0,1.0,1999,none,none,"1,000,000",none,none,none,none,none,none,none,none,none,none,none
+477,נתניה,התור 3,3,83.0,2.0,1999,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+478,נתניה,התור 7,3,64.0,1.0,2003,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+479,נתניה,התור 9,3,84.0,1.0,1998,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+480,נתניה,התנועה הציונית 16,3,39.0,2.0,1964,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+481,נתניה,התנועה הציונית 6,3,50.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+482,נתניה,התנועה הציונית 8,3,75.0,1.0,2009,none,none,none,none,"820,000",none,none,none,none,none,none,none,none,none
+483,נתניה,ואנה הרב 4,3,78.0,4.0,2001,"950,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+484,נתניה,ואנה הרב 6,3,80.0,1.0,1998,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+485,נתניה,וולפסון 17,3,64.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+486,נתניה,ויסלברגר 3,3,73.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+487,נתניה,ויסלברגר 5,3,62.0,5.0,1993,none,none,none,none,none,none,none,none,none,"1,400,000",none,none,none,none
+488,נתניה,ויצמן,3,61.0,1.0,1980,none,none,"620,000",none,"1,250,000",935000,none,none,none,none,none,none,none,none
+489,נתניה,ויצמן 10,3,73.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+490,נתניה,ויצמן 100,3,82.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+491,נתניה,ויצמן 101,3,76.0,4.0,1999,none,none,none,none,none,none,"1,400,000",none,none,none,none,none,none,none
+492,נתניה,ויצמן 102,3,77.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+493,נתניה,ויצמן 107,3,79.0,7.0,1988,none,none,none,"965,000",none,none,none,none,none,none,none,none,none,none
+494,נתניה,ויצמן 108,3,80.0,4.0,1980,none,none,none,none,none,none,"1,200,000",none,none,none,none,none,none,none
+495,נתניה,ויצמן 109,3,69.0,2.0,1970,none,none,none,none,none,none,none,none,"1,325,000",none,none,none,none,none
+496,נתניה,ויצמן 11,3,65.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+497,נתניה,ויצמן 110,3,56.0,3.0,1971,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+498,נתניה,ויצמן 15,3,100.0,,2012,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+499,נתניה,ויצמן 16,3,60.0,2.0,1950,none,none,none,none,none,865000,none,none,none,none,none,none,none,none
+500,נתניה,ויצמן 17,3,66.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,"1,075,000",none,none,none
+501,נתניה,ויצמן 18,3,61.0,3.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+502,נתניה,ויצמן 20,3,101.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+503,נתניה,ויצמן 25,3,78.0,4.0,1969,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+504,נתניה,ויצמן 28,3,60.0,1.0,1958,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+505,נתניה,ויצמן 30,3,50.0,3.0,1962,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+506,נתניה,ויצמן 31,3,108.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+507,נתניה,ויצמן 32,3,65.0,2.0,1975,none,none,none,"1,025,000","1,000,000",none,none,none,none,none,none,none,none,none
+508,נתניה,ויצמן 33,3,65.0,1.0,1978,none,none,none,none,none,none,none,none,"1,400,000",none,none,none,none,none
+509,נתניה,ויצמן 34,3,76.0,2.0,1980,none,none,none,none,"950,000",none,none,none,none,none,none,none,none,none
+510,נתניה,ויצמן 35,3,72.0,1.0,1970,none,none,none,none,none,"1,100,000",none,none,none,none,none,none,none,none
+511,נתניה,ויצמן 37,3,76.0,1.0,1973,none,none,"950,000",none,none,none,none,none,none,none,none,none,none,none
+512,נתניה,ויצמן 40,3,75.0,1.0,1975,none,none,"1,017,000",none,none,none,none,none,none,none,none,none,none,none
+513,נתניה,ויצמן 41,3,80.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+514,נתניה,ויצמן 42,3,61.0,3.0,1970,none,none,none,none,none,none,none,"1,200,000",none,none,none,none,none,none
+515,נתניה,ויצמן 44,3,63.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+516,נתניה,ויצמן 45,3,114.0,1.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+517,נתניה,ויצמן 46,3,61.0,1.0,1960,none,none,"860,000",none,none,none,none,none,none,none,"1,230,000",none,none,none
+518,נתניה,ויצמן 49,3,84.0,5.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+519,נתניה,ויצמן 5,3,42.0,4.0,1960,"540,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+520,נתניה,ויצמן 51,3,64.0,4.0,1962,none,none,none,none,none,"1,120,000",none,none,none,none,none,none,none,none
+521,נתניה,ויצמן 52,3,74.0,8.0,1986,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+522,נתניה,ויצמן 56,3,80.0,3.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+523,נתניה,ויצמן 61,3,68.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+524,נתניה,ויצמן 66,3,51.0,2.0,1970,none,"730,000",none,none,none,none,none,none,none,none,none,none,none,none
+525,נתניה,ויצמן 67,3,66.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+526,נתניה,ויצמן 69,3,86.0,1.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+527,נתניה,ויצמן 7,3,75.0,4.0,1970,none,none,none,none,none,none,"1,250,000",none,none,none,none,none,none,none
+528,נתניה,ויצמן 70,3,70.0,1.0,1952,none,none,none,none,none,"825,000",none,none,none,none,none,none,none,none
+529,נתניה,ויצמן 72,3,68.0,2.0,1970,none,none,"620,000",none,none,none,none,none,none,none,none,none,none,none
+530,נתניה,ויצמן 76,3,51.0,,1960,"735,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+531,נתניה,ויצמן 79,3,49.0,3.0,1961,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+532,נתניה,ויצמן 8,3,70.0,,1960,none,none,none,none,"680,000",none,none,none,none,none,none,none,none,none
+533,נתניה,ויצמן 81,3,52.0,4.0,1965,none,none,none,"830,000",none,none,none,none,none,none,none,none,none,none
+534,נתניה,ויצמן 84,3,51.0,2.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+535,נתניה,ויצמן 86,3,50.0,3.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+536,נתניה,ויצמן 88,3,71.0,3.0,1973,none,none,none,none,"1,120,000",none,none,none,none,none,none,none,none,none
+537,נתניה,ויצמן 92,3,86.0,4.0,1976,none,none,none,none,none,none,none,none,"1,390,000",none,none,none,none,none
+538,נתניה,ויצמן 93,3,86.0,3.0,1989,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+539,נתניה,ויצמן 95,3,73.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+540,נתניה,ויתקין 25,3,45.0,,1961,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+541,נתניה,ויתקין 39,3,,,1954,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+542,נתניה,ועידת הלסינקי 10,3,58.0,1.0,1960,none,none,"555,000",none,none,none,none,none,none,none,none,none,none,none
+543,נתניה,ועידת הלסינקי 3,3,66.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+544,נתניה,ועידת הלסינקי 4,3,74.0,1.0,1970,none,none,none,none,none,none,"820,000",none,none,none,none,none,none,none
+545,נתניה,ועידת הלסינקי 5,3,66.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+546,נתניה,ועידת הלסינקי 6,3,70.0,3.0,1970,none,none,none,none,none,"670,000",none,none,none,none,none,none,none,none
+547,נתניה,ועידת הלסינקי 7,3,65.0,2.0,1955,"500,000",none,"565,000",none,none,"720,000",none,none,none,none,"750,000",none,none,none
+548,נתניה,ועידת הלסינקי 9,3,58.0,1.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+549,נתניה,ותמר אמנון 25,3,100.0,6.0,2007,none,none,none,"1,200,000",none,none,none,none,none,none,none,none,none,none
+550,נתניה,ותמר אמנון 4,3,96.0,1.0,1990,"1,000,000","1,209,000",none,none,none,"1,751,750",none,none,none,none,none,none,none,none
+551,נתניה,ותמר אמנון 5,3,76.0,5.0,1997,none,none,none,none,none,none,none,"1,750,000",none,none,none,none,none,none
+552,נתניה,ותמר אמנון 7,3,70.0,5.0,1994,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+553,נתניה,זבוטינסקי 13,3,98.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+554,נתניה,זבוטינסקי 13,3,101.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+555,נתניה,זבוטינסקי 19,3,93.0,1.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+556,נתניה,זבוטינסקי 20,3,61.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+557,נתניה,זבוטינסקי 20,3,61.0,3.0,1980,none,"980,000",none,none,none,none,none,none,none,none,none,none,none,none
+558,נתניה,זבוטינסקי 23,3,103.0,,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+559,נתניה,זבוטינסקי 23,3,69.0,1.0,1980,none,none,none,none,none,"1,590,000",none,none,none,none,none,none,none,none
+560,נתניה,זבוטינסקי 23,3,69.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+561,נתניה,זבוטינסקי 26,3,62.0,7.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+562,נתניה,זבוטינסקי 28,3,61.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+563,נתניה,זבוטינסקי 28,3,83.0,8.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+564,נתניה,זבוטינסקי 30,3,68.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+565,נתניה,זבוטינסקי 30,3,62.0,4.0,1980,none,"1,071,072",none,none,none,none,none,none,none,none,none,none,none,none
+566,נתניה,זבוטינסקי 31,3,76.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+567,נתניה,זבוטינסקי 36,3,75.0,5.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+568,נתניה,זבוטינסקי 36,3,74.0,2.0,1974,none,none,none,none,none,none,"1,690,000",none,none,none,none,none,none,none
+569,נתניה,זבוטינסקי 42,3,69.0,4.0,1973,none,none,none,none,none,none,"1,585,000",none,none,none,none,none,none,none
+570,נתניה,זבוטינסקי 43,3,64.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+571,נתניה,זבוטינסקי 43,3,64.0,4.0,1970,none,none,none,none,none,"950,000",none,none,none,none,none,none,none,none
+572,נתניה,זבוטינסקי 5,3,,3.0,1961,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+573,נתניה,זבוטינסקי 6,3,105.0,5.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+574,נתניה,זבוטינסקי 8,3,68.0,1.0,1992,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+575,נתניה,זוארץ 14,3,70.0,4.0,1998,none,none,none,"810,000",none,none,none,"1,280,000",none,none,none,none,none,none
+576,נתניה,זוארץ 16,3,64.0,1.0,1980,"742,000","845,000",none,none,none,none,none,none,none,none,none,none,none,none
+577,נתניה,זוארץ 18,3,70.0,1.0,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+578,נתניה,זוארץ הרב 18,3,66.0,2.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+579,נתניה,זומרשטיין,3,38.0,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+580,נתניה,זומרשטיין 3,3,36.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+581,נתניה,זומרשטיין 5,3,38.0,3.0,1980,none,none,630300,none,none,none,none,none,none,none,none,none,none,none
+582,נתניה,זייד אלכסנדר 29,3,80.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+583,נתניה,זמנהוף 19,3,86.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+584,נתניה,זמנהוף 4,3,51.0,,1983,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+585,נתניה,זנגביל,3,87.0,3.0,2016,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+586,נתניה,זנגביל 12,3,75.0,9.0,2015,none,none,none,none,none,1295500,1324500,none,none,"1,590,000","1,570,000",none,none,none
+587,נתניה,זנגביל 14,3,126.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+588,נתניה,זנגביל 16,3,65.0,3.0,1960,none,none,none,"610,000",none,none,none,none,none,none,none,none,none,none
+589,נתניה,זנגביל 18,3,78.0,2.0,1970,none,none,none,"905,000",none,none,none,none,none,none,none,none,none,none
+590,נתניה,זנגביל 20,3,55.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+591,נתניה,חבצלת החוף,3,100.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+592,נתניה,חבצלת החוף 6,3,70.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+593,נתניה,חזני 17,3,64.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+594,נתניה,חיים גבעת 10,3,,1.0,1971,none,none,none,none,944966,"1,000,000",none,none,none,none,none,none,none,none
+595,נתניה,חיים גבעת 4,3,72.0,1.0,1973,none,none,"900,000",none,none,none,none,"1,190,000",none,none,none,none,none,none
+596,נתניה,חיים וייצמן 107,3,74.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+597,נתניה,חיים וייצמן 50,3,74.0,,1986,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+598,נתניה,חן 11,3,107.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+599,נתניה,חן 25,3,69.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+600,נתניה,חן 6,3,57.0,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+601,נתניה,חנן בן 1,3,65.0,,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+602,נתניה,חנן בן 18,3,70.0,4.0,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+603,נתניה,חנן בן 4,3,75.0,1.0,1984,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+604,נתניה,חנן בן 6,3,65.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,"860,000",none,none,none
+605,נתניה,חנן בן 7,3,50.0,1.0,1988,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+606,נתניה,חפציבה 11,3,64.0,,2010,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+607,נתניה,חפציבה 13,3,77.0,,1970,none,none,none,none,none,none,none,"865,000",none,none,none,none,none,none
+608,נתניה,חצירא הרב אבו,3,62.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+609,נתניה,חרלפ 23,3,83.0,3.0,1980,none,none,none,"810,000",none,none,none,none,none,none,none,none,none,none
+610,נתניה,חרצית 31,3,75.0,2.0,1995,none,none,"925,000",none,none,none,none,none,none,none,none,none,none,none
+611,נתניה,חרצית 62,3,86.0,,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+612,נתניה,חשון 4,3,113.0,3.0,2006,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+613,נתניה,טרומפלדור 10,3,68.0,1.0,1970,none,none,none,"600,000",none,none,none,none,none,none,"760,000",none,none,none
+614,נתניה,טרומפלדור 12,3,52.0,3.0,1950,none,none,none,none,none,none,none,none,none,"1,150,000","1,105,000",none,none,none
+615,נתניה,טרומפלדור 13,3,57.0,2.0,1973,none,none,"798,798",none,none,none,1092500,none,none,none,none,none,none,none
+616,נתניה,טרומפלדור 14,3,60.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+617,נתניה,טרומפלדור 16,3,52.0,4.0,1980,none,"700,000",none,none,none,none,none,none,none,none,none,none,none,none
+618,נתניה,טרומפלדור 18,3,60.0,3.0,1980,none,"680,000",none,none,755364,none,none,none,none,none,none,none,none,none
+619,נתניה,טרומפלדור 22,3,60.0,4.0,1982,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+620,נתניה,טרומפלדור 27,3,63.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+621,נתניה,טרומפלדור 31,3,80.0,1.0,1981,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+622,נתניה,טרומפלדור 36,3,40.0,2.0,1970,none,none,none,none,"730,000",none,none,none,none,none,none,none,none,none
+623,נתניה,טרומפלדור 38,3,40.0,2.0,1966,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+624,נתניה,טרפון 13,3,72.0,,1999,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+625,נתניה,טרפון 14,3,90.0,2.0,1994,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+626,נתניה,טרפון 16,3,72.0,3.0,1994,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+627,נתניה,טרפון 18,3,72.0,5.0,1993,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+628,נתניה,טשרניחובסקי 1,3,75.0,1.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+629,נתניה,טשרניחובסקי 14,3,67.0,3.0,1965,none,none,none,none,none,none,"1,125,000",none,none,none,"1,000,000",none,none,none
+630,נתניה,טשרניחובסקי 18,3,100.0,1.0,1909,none,none,none,"950,948",none,none,none,none,none,none,none,none,none,none
+631,נתניה,טשרניחובסקי 23,3,63.0,2.0,1980,none,none,none,none,"1,145,000",none,none,none,none,none,none,none,none,none
+632,נתניה,טשרניחובסקי 4,3,76.0,6.0,1970,none,"1,200,000",none,none,none,none,none,none,none,none,none,none,none,none
+633,נתניה,טשרניחובסקי 9,3,118.0,5.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+634,נתניה,י ח ברנר 5,3,68.0,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+635,נתניה,יאיר 1,3,47.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+636,נתניה,יאנה 2,3,100.0,4.0,2002,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+637,נתניה,יאנה 4,3,75.0,5.0,2007,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+638,נתניה,יאנה 6,3,78.0,6.0,1999,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+639,נתניה,יהודה בן,3,66.0,1.0,1965,none,none,"980,000",none,1037500,none,none,none,none,none,none,none,none,none
+640,נתניה,יהודה בן 1,3,100.0,5.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+641,נתניה,יהודה בן 12,3,60.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+642,נתניה,יהודה בן 14,3,,1.0,1980,none,none,none,"800,000",none,none,none,none,none,none,none,none,none,none
+643,נתניה,יהודה בן 15,3,86.0,5.0,1970,none,none,none,"1,130,000",none,none,none,none,none,none,none,none,none,none
+644,נתניה,יהודה בן 17,3,75.0,2.0,1970,none,none,none,none,"1,320,000",none,none,none,none,none,none,none,none,none
+645,נתניה,יהודה בן 20,3,63.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+646,נתניה,יהודה בן 24,3,70.0,1.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+647,נתניה,יהודה בן 27,3,66.0,2.0,1970,none,none,none,none,998900,none,none,none,none,none,none,none,none,none
+648,נתניה,יהודה בן 31,3,100.0,1.0,1980,none,none,none,none,"700,000",none,none,none,none,none,none,none,none,none
+649,נתניה,יהודה בן 33,3,65.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+650,נתניה,יהודה בן 35,3,68.0,4.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+651,נתניה,יהודה בן 41,3,82.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+652,נתניה,יהודה בן 5,3,72.0,1.0,1964,"909,999",none,none,none,none,none,none,none,none,none,none,none,none,none
+653,נתניה,יהודה בן 9,3,91.0,3.0,1960,none,none,none,none,none,none,"1,025,000",none,1390000,none,none,none,none,none
+654,נתניה,יהודה בן אליעזר 27,3,80.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+655,נתניה,יהודה בן אליעזר 9,3,91.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+656,נתניה,יהודה בר,3,80.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+657,נתניה,יהודה בר 1,3,62.0,1.0,1989,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+658,נתניה,יהודה בר 10,3,65.0,5.0,1980,none,none,none,"782,500",none,none,none,none,none,none,none,none,none,none
+659,נתניה,יהודה בר 11,3,74.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+660,נתניה,יהודה בר 12,3,67.0,7.0,1982,none,none,none,"780,000",none,none,none,none,"1,270,000",none,none,none,none,none
+661,נתניה,יהודה בר 16,3,70.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+662,נתניה,יהודה בר 19,3,80.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+663,נתניה,יהודה בר 37,3,72.0,,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+664,נתניה,יהודה בר 5,3,70.0,2.0,1984,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+665,נתניה,יהודה בר 6,3,70.0,1.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+666,נתניה,יהודה בר 7,3,72.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+667,נתניה,יהודה בר 9,3,64.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+668,נתניה,יהודה הלוי 10,3,72.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+669,נתניה,יהודה הלוי 13,3,91.0,5.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+670,נתניה,יהודה הלוי 15,3,70.0,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+671,נתניה,יהודה הלוי 16,3,80.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+672,נתניה,יהודה הלוי 20,3,65.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+673,נתניה,יהודה הלוי 22,3,56.0,1.0,1970,none,none,none,none,none,none,none,1290000,none,none,none,none,none,none
+674,נתניה,יהודה הלוי 25,3,66.0,6.0,1975,none,none,"869,000",none,none,none,none,none,none,none,none,none,none,none
+675,נתניה,יהודה הלוי 27,3,61.0,3.0,1973,none,none,none,none,"950,000",1160000,none,none,none,none,none,none,none,none
+676,נתניה,יהודה הלוי 29,3,62.0,2.0,2005,none,none,none,none,none,none,none,"1,250,000",none,none,none,none,none,none
+677,נתניה,יהודה הלוי 3,3,100.0,1.0,1970,none,none,none,none,none,"1,101,201",none,none,none,none,none,none,none,none
+678,נתניה,יהודה הלוי 31,3,79.0,6.0,1960,none,none,"925,000",none,none,none,none,"1,359,000",none,none,none,none,none,none
+679,נתניה,יהודה הלוי 34,3,100.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+680,נתניה,יהודה הלוי 4,3,80.0,2.0,1969,"700,000",none,"1,100,000",none,none,none,none,none,none,none,none,none,none,none
+681,נתניה,יהודה הלוי 42,3,82.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+682,נתניה,יהודה הלוי 6,3,73.0,1.0,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+683,נתניה,יהודה הלוי 60,3,78.0,4.0,1987,none,none,none,none,none,"1,100,000",none,none,none,none,none,none,none,none
+684,נתניה,יהודה הלוי 62,3,79.0,5.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+685,נתניה,יהודה הלוי 64,3,73.0,1.0,1975,none,none,none,none,none,1220000,none,none,none,none,none,none,none,none
+686,נתניה,יהודה הלוי 7,3,90.0,2.0,1988,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+687,נתניה,יהודה הלוי 8,3,91.0,2.0,1970,none,none,none,none,none,"1,300,000",none,none,none,none,none,none,none,none
+688,נתניה,יהודה הלוי 9,3,71.0,3.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+689,נתניה,יהודה הנשיא 23,3,90.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+690,נתניה,יהודה הנשיא 27,3,57.0,4.0,1980,none,none,765375,none,none,none,none,none,none,none,none,none,none,none
+691,נתניה,יהודה הנשיא 81,3,52.0,,1962,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+692,נתניה,יהושע טהון 11,3,60.0,4.0,1974,none,none,none,none,none,none,none,none,none,"1,250,000",none,none,none,none
+693,נתניה,יהושע טהון 12,3,68.0,2.0,1980,none,680000,none,none,none,none,none,none,none,none,none,none,none,none
+694,נתניה,יהושע טהון 13,3,60.0,2.0,1965,"725,000",none,none,none,none,"850,000",none,none,none,none,none,none,none,none
+695,נתניה,יהושע טהון 14,3,51.0,2.0,1971,none,none,none,579100,none,none,none,none,none,none,none,none,none,none
+696,נתניה,יהושע טהון 16,3,51.0,4.0,1970,none,675000,none,none,none,none,none,none,none,none,none,none,none,none
+697,נתניה,יהושע טהון 17,3,71.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+698,נתניה,יהושע טהון 18,3,49.0,4.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+699,נתניה,יהושע טהון 20,3,42.0,1.0,1963,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+700,נתניה,יהושע טהון 22,3,50.0,4.0,2000,none,none,none,none,"800,000",none,none,none,none,none,none,none,none,none
+701,נתניה,יהושע טהון 9,3,64.0,4.0,1970,none,none,none,none,none,"850,000","1,025,000",none,none,none,none,none,none,none
+702,נתניה,יוחאי בר 10,3,40.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+703,נתניה,יוחאי בר 27,3,40.0,1.0,2007,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+704,נתניה,יוחאי בר 29,3,40.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+705,נתניה,יוחאי בר 7,3,43.0,2.0,2000,none,"451,807",none,none,none,none,none,none,none,none,none,none,none,none
+706,נתניה,יוחאי בר 8,3,40.0,3.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+707,נתניה,יוחנן הסנדלר 10,3,40.0,2.0,1960,none,none,none,none,none,none,750000,none,"930,000",none,none,none,none,none
+708,נתניה,יוחנן הסנדלר 12,3,41.0,2.0,1960,none,none,none,"636,363",none,none,none,none,none,none,none,none,none,none
+709,נתניה,יוחנן הסנדלר 3,3,71.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+710,נתניה,יוחנן הסנדלר 6,3,40.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+711,נתניה,יוסי יוסי בן 11,3,60.0,1.0,1940,none,none,none,none,none,none,none,none,800000,none,none,none,none,none
+712,נתניה,יוסף 10,3,97.0,1.0,2005,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+713,נתניה,יוסף 8,3,93.0,1.0,2003,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+714,נתניה,יוסף אהרונוביץ 21,3,145.0,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+715,נתניה,יוסף אהרונוביץ 8,3,146.0,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+716,נתניה,יוספטל 10,3,69.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+717,נתניה,יוספטל 12,3,40.0,1.0,1960,none,none,none,none,none,none,none,none,none,"810,000",none,none,none,none
+718,נתניה,יוספטל 13,3,40.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+719,נתניה,יוספטל 14,3,42.0,3.0,1967,none,"400,000",none,490000,none,none,none,none,none,none,none,none,none,none
+720,נתניה,יוספטל 15,3,62.0,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+721,נתניה,יוספטל 18,3,50.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+722,נתניה,יוספטל 19,3,43.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+723,נתניה,יוספטל 23,3,43.0,2.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+724,נתניה,יוספטל 3,3,88.0,3.0,1970,none,"530,000",none,none,none,none,none,none,none,none,none,none,none,none
+725,נתניה,יוספטל 33,3,34.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+726,נתניה,יוספטל 39,3,50.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+727,נתניה,יוספטל 4,3,64.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+728,נתניה,יוספטל 41,3,34.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+729,נתניה,יוספטל 45,3,34.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+730,נתניה,יוספטל 49,3,51.0,3.0,1964,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+731,נתניה,יוספטל 7,3,56.0,1.0,1960,none,none,"300,000",none,none,none,none,none,none,none,none,none,none,none
+732,נתניה,יוספטל גיורא 15,3,62.0,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+733,נתניה,יחזקאל,3,49.0,,1965,none,none,none,none,"600,000","735,000",none,none,none,none,none,none,none,none
+734,נתניה,יחזקאל 10,3,50.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+735,נתניה,יחזקאל 13,3,49.0,3.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+736,נתניה,יחזקאל 14,3,50.0,4.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+737,נתניה,יחזקאל 17,3,62.0,2.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+738,נתניה,יחזקאל 2,3,43.0,1.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+739,נתניה,יחזקאל 20,3,70.0,3.0,1960,none,none,"445,000",none,none,none,none,none,none,none,none,none,none,none
+740,נתניה,יחזקאל 29,3,64.0,3.0,1992,none,"610,000",none,none,none,"850,000",none,"1,070,000",none,none,none,none,none,none
+741,נתניה,יחזקאל 30,3,48.0,2.0,1960,none,none,"570,000",none,none,none,none,none,none,none,none,none,none,none
+742,נתניה,יחזקאל 34,3,47.0,2.0,1962,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+743,נתניה,יחזקאל 4,3,43.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+744,נתניה,יחזקאל 5,3,53.0,4.0,1996,none,none,none,none,none,"600,000",none,none,none,none,none,none,none,none
+745,נתניה,יחזקאל 6,3,43.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+746,נתניה,יחזקאל 7,3,75.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+747,נתניה,ילין 1,3,67.0,2.0,1971,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+748,נתניה,ילין 24,3,82.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+749,נתניה,יעקב דורי 4,3,87.0,10.0,2006,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+750,נתניה,יעקב דורי 8,3,87.0,,2006,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+751,נתניה,יפתח הגלעדי 39,3,42.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+752,נתניה,יצחק גרינבוים 39,3,58.0,,1960,none,none,none,none,none,none,none,none,935000,none,none,none,none,none
+753,נתניה,יצחק הלוי 1,3,47.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+754,נתניה,יצחק הלוי 2,3,80.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+755,נתניה,יצחק הלוי 4,3,49.0,1.0,1980,none,none,none,none,"695,000",none,none,none,none,none,none,none,none,none
+756,נתניה,יצחק הלוי 5,3,49.0,2.0,1960,none,none,none,none,none,795000,none,none,none,none,none,none,none,none
+757,נתניה,יצחק הלוי 6,3,70.0,2.0,1971,447500,none,none,none,none,none,none,none,none,none,none,none,none,none
+758,נתניה,יצחק הרב הלוי 11,3,49.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+759,נתניה,יצחק הרב הלוי 3,3,50.0,2.0,1957,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+760,נתניה,יצחק הרב הלוי 5,3,56.0,1.0,1970,"440,000","470,000",none,none,none,none,"780,000",none,none,none,none,none,none,none
+761,נתניה,יצחק הרב הלוי 6,3,49.0,2.0,1968,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+762,נתניה,יצחק הרב הלוי 7,3,49.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+763,נתניה,יצחק חנן בן,3,70.0,2.0,1992,none,none,none,"815,000",none,none,none,none,none,none,none,none,none,none
+764,נתניה,יצחק חנן בן 1,3,66.0,4.0,1970,"385,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+765,נתניה,יצחק חנן בן 16,3,70.0,2.0,1997,none,"845,000",none,none,none,none,none,none,none,none,none,none,none,none
+766,נתניה,יצחק חנן בן 18,3,70.0,1.0,1993,none,"846,600",none,"810,000",none,888500,none,none,none,none,none,none,none,none
+767,נתניה,יצחק חנן בן 2,3,70.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+768,נתניה,יצחק חנן בן 20,3,62.0,8.0,1995,none,none,"775,000",none,none,965000,none,none,none,none,none,none,none,none
+769,נתניה,יצחק חנן בן 4,3,77.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+770,נתניה,יצחק חנן בן 5,3,69.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+771,נתניה,יצחק חנן בן 6,3,64.0,4.0,2003,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+772,נתניה,יצחק חנן בן 6,3,70.0,4.0,1980,none,none,none,"485,000",none,none,none,870000,none,none,none,none,none,none
+773,נתניה,יצחק חנן בן 7,3,63.0,3.0,1980,none,none,none,none,none,none,"700,000",none,none,none,none,none,none,none
+774,נתניה,יצחק חנן בן 7,3,75.0,1.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+775,נתניה,ירושלים 17,3,55.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+776,נתניה,ירושלים 19,3,49.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+777,נתניה,ירושלים 23,3,70.0,,1960,none,"770,000",none,none,none,none,none,none,none,none,none,none,none,none
+778,נתניה,ירושלים 24,3,61.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+779,נתניה,ירושלים 25,3,,4.0,1980,"800,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+780,נתניה,ירושלים 28,3,64.0,3.0,1961,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+781,נתניה,ירושלים 28,3,64.0,3.0,1961,none,none,none,none,1037500,none,none,none,none,none,none,none,none,none
+782,נתניה,ירושלים 32,3,50.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+783,נתניה,ירושלים 34,3,55.0,3.0,1994,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+784,נתניה,ירושלים 6,3,72.0,2.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+785,נתניה,ירושלים 8,3,77.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+786,נתניה,ירמיהו 1,3,50.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+787,נתניה,ירמיהו 13,3,40.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+788,נתניה,ירמיהו 29,3,46.0,2.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+789,נתניה,ירמיהו 3,3,62.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+790,נתניה,ירמיהו 4,3,35.0,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+791,נתניה,ירמיהו 5,3,60.0,1.0,1970,none,none,none,none,none,none,none,"793,174",none,none,"1,015,000",none,none,none
+792,נתניה,ירמיהו הלפרין 5,3,79.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+793,נתניה,כיכר העצמאות 13,3,86.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+794,נתניה,ככר העצמאות 13,3,93.0,4.0,1954,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+795,נתניה,כצנלסון יעקב 11,3,44.0,3.0,1980,none,none,none,none,none,none,none,"860,000",none,none,none,none,none,none
+796,נתניה,כצנלסון יעקב 13,3,74.0,3.0,1983,none,none,none,760000,none,none,"1,030,000",none,none,none,none,none,none,none
+797,נתניה,כצנלסון יעקב 14,3,46.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+798,נתניה,כצנלסון יעקב 15,3,63.0,5.0,1980,none,"750,000",none,none,none,none,none,none,none,none,none,none,none,none
+799,נתניה,כצנלסון יעקב 18,3,46.0,1.0,1968,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+800,נתניה,כצנלסון יעקב 20,3,45.0,1.0,1967,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+801,נתניה,כצנלסון יעקב 26,3,66.0,6.0,1977,none,none,none,none,none,"1,020,000",none,none,none,none,none,none,none,none
+802,נתניה,כצנלסון יעקב 5,3,44.0,3.0,1965,"400,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+803,נתניה,כצנלסון יעקב 8,3,60.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+804,נתניה,לבונטין 10,3,66.0,1.0,1980,none,none,none,"920,000",none,"1,250,000",none,none,none,none,none,none,none,none
+805,נתניה,לבונטין 12,3,71.0,4.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+806,נתניה,לבונטין 13,3,73.0,5.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+807,נתניה,לבונטין 17,3,67.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+808,נתניה,לבונטין 26,3,78.0,2.0,1973,none,none,none,"1,050,000",none,none,none,none,none,none,"1,325,000",none,none,none
+809,נתניה,לבונטין 27,3,95.0,5.0,1970,none,none,none,none,1122500,none,none,none,none,none,none,none,none,none
+810,נתניה,לבונטין 36,3,88.0,1.0,1980,none,none,892500,none,none,none,none,none,none,none,none,none,none,none
+811,נתניה,לבונטין 40,3,60.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+812,נתניה,לבונטין 7,3,76.0,1.0,1980,none,885000,none,none,none,none,none,none,none,none,none,none,none,none
+813,נתניה,לבונטין 9,3,72.0,4.0,1970,none,none,"926,000",none,none,none,none,none,none,none,none,none,none,none
+814,נתניה,לוטם 5,3,97.0,1.0,2002,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+815,נתניה,לוי 1,3,95.0,,2011,1080000,none,none,none,none,none,none,none,none,none,none,none,none,none
+816,נתניה,לוי אשכול,3,62.0,7.0,1979,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+817,נתניה,לוי אשכול 11,3,59.0,7.0,1979,"530,000",none,"640,000","735,000",none,none,none,none,none,none,none,none,none,none
+818,נתניה,לוי אשכול 11,3,59.0,8.0,1980,none,none,none,none,none,none,none,none,none,1117500,none,none,none,none
+819,נתניה,לוי אשכול 13,3,62.0,5.0,1980,none,none,none,none,none,none,"990,000",none,none,none,none,none,none,none
+820,נתניה,לוי אשכול 13,3,59.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+821,נתניה,לוי אשכול 15,3,59.0,1.0,1970,none,none,"640,000",none,none,none,none,none,none,none,none,none,none,none
+822,נתניה,לוי אשכול 15,3,70.0,1.0,1980,none,"750,000",675000,none,"975,000",none,"1,050,000",none,none,none,none,none,none,none
+823,נתניה,לוי אשכול 17,3,62.0,8.0,1970,none,none,none,"720,000",none,"955,000",none,none,none,none,none,none,none,none
+824,נתניה,לוי אשכול 17,3,62.0,,1988,none,none,none,none,"915,000","955,000","1,100,000",none,none,none,none,none,none,none
+825,נתניה,לוי אשכול 19,3,62.0,3.0,1974,none,"780,000",none,"872,000",none,none,none,none,none,none,none,none,none,none
+826,נתניה,לוי אשכול 19,3,62.0,1.0,1982,none,none,none,"872,000",none,947500,none,none,none,none,none,none,none,none
+827,נתניה,לוי אשכול 2,3,92.0,1.0,1995,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+828,נתניה,לוי אשכול 21,3,62.0,1.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+829,נתניה,לוי אשכול 23,3,63.0,6.0,2003,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+830,נתניה,לוי אשכול 23,3,77.0,1.0,2006,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+831,נתניה,לוי אשכול 25,3,75.0,6.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+832,נתניה,לוי אשכול 7,3,54.0,4.0,1980,none,none,none,none,none,none,"975,000",none,none,none,none,none,none,none
+833,נתניה,לוי אשכול 9,3,60.0,4.0,1980,"565,000",none,"670,000",none,none,800000,"1,100,000",none,none,none,none,none,none,none
+834,נתניה,לוי יצחק 6,3,55.0,4.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+835,נתניה,ליבר זאב 1,3,125.0,3.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+836,נתניה,לייב אריה 4,3,64.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+837,נתניה,לייב אריה 5,3,61.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+838,נתניה,לייב יפה אריה 1,3,61.0,3.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+839,נתניה,לייב יפה אריה 3,3,65.0,3.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+840,נתניה,לייב יפה אריה 5,3,64.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+841,נתניה,לייב יפה אריה 5,3,61.0,4.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+842,נתניה,לילינבלום 1,3,96.0,,2018,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+843,נתניה,לילינבלום 24,3,69.0,1.0,1977,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+844,נתניה,לילינבלום 4,3,65.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+845,נתניה,לילינבלום 7,3,78.0,2.0,1984,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+846,נתניה,לילינבלום 8,3,80.0,,1959,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+847,נתניה,לנטוס טום 23,3,81.0,3.0,2006,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+848,נתניה,לנטוס טום 23,3,82.0,4.0,2006,none,none,none,none,none,"1,270,000",none,none,none,none,none,none,none,none
+849,נתניה,לפיד טומי 1,3,92.0,23.0,2015,none,none,none,none,none,"1,550,000",none,none,none,none,none,none,none,none
+850,נתניה,מאיר בן 3,3,71.0,5.0,1980,"660,000",none,none,none,none,"990,000","1,070,000",none,none,none,none,none,none,none
+851,נתניה,מאיר בן 5,3,63.0,3.0,1970,none,none,none,none,none,"950,000",none,none,none,none,none,none,none,none
+852,נתניה,מאיר גולדה,3,62.0,6.0,1978,none,none,none,none,"915,000",none,none,none,none,none,none,none,none,none
+853,נתניה,מאיר גולדה 10,3,63.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+854,נתניה,מאיר גולדה 11,3,70.0,6.0,1980,"680,000","770,000","1,201,201",none,"875,000",1036000,none,none,none,"1,200,000",none,none,none,none
+855,נתניה,מאיר גולדה 12,3,64.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+856,נתניה,מאיר גולדה 17,3,64.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+857,נתניה,מאיר גולדה 20,3,63.0,7.0,1994,none,none,none,"970,000",none,none,none,none,none,none,none,none,none,none
+858,נתניה,מאיר גולדה 27,3,63.0,8.0,1982,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+859,נתניה,מאיר גולדה 28,3,73.0,6.0,1981,641666,none,none,none,none,none,none,none,none,none,none,none,none,none
+860,נתניה,מאיר גולדה 28,3,67.0,,1989,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+861,נתניה,מאיר גולדה 29,3,65.0,4.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+862,נתניה,מאיר גולדה 3,3,63.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+863,נתניה,מאיר גולדה 30,3,90.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+864,נתניה,מאיר גולדה 31,3,63.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+865,נתניה,מאיר גולדה 31,3,63.0,1.0,1983,710000,none,none,none,none,none,none,none,none,none,none,none,none,none
+866,נתניה,מאיר גולדה 32,3,63.0,1.0,1970,none,"545,000",none,none,none,none,none,none,none,none,none,none,none,none
+867,נתניה,מאיר גולדה 32,3,63.0,8.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+868,נתניה,מאיר גולדה 33,3,62.0,4.0,1989,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+869,נתניה,מאיר גולדה 33,3,80.0,7.0,1981,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+870,נתניה,מאיר גולדה 34,3,63.0,3.0,1980,none,none,none,none,none,"1,050,000",none,none,none,none,none,none,none,none
+871,נתניה,מאיר גולדה 36,3,87.0,9.0,1995,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+872,נתניה,מאיר גולדה 5,3,63.0,1.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+873,נתניה,מאיר גולדה 5,3,61.0,8.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+874,נתניה,מאיר גולדה 7,3,80.0,4.0,1979,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+875,נתניה,מאיר גולדה 7,3,80.0,6.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+876,נתניה,מאיר גולדה 8,3,63.0,5.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+877,נתניה,מאיר גולדה 9,3,63.0,6.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+878,נתניה,מאיר גולדה 9,3,68.0,3.0,1980,none,710000,none,none,none,none,none,none,none,none,none,none,none,none
+879,נתניה,מאיר חיים 30,3,70.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+880,נתניה,מאיר ישראל בן,3,71.0,5.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+881,נתניה,מאירוביץ 11,3,87.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+882,נתניה,מאירוביץ 3,3,58.0,1.0,1994,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+883,נתניה,מאירוביץ 4,3,81.0,4.0,1960,none,"830,000",none,none,none,none,none,none,none,none,none,none,none,none
+884,נתניה,מאירוביץ 6,3,69.0,4.0,1963,none,none,none,"792,000",none,none,"1,158,907",none,none,none,none,none,none,none
+885,נתניה,מאנה 13,3,70.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+886,נתניה,מברדיצב יצחק הרב הלוי 1,3,63.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+887,נתניה,מברדיצב יצחק הרב הלוי 4,3,56.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+888,נתניה,מודעי יצחק 1,3,99.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+889,נתניה,מויזניץ האדמור 11,3,68.0,4.0,2006,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+890,נתניה,מויזניץ האדמור 2,3,90.0,1.0,1979,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+891,נתניה,מוצקין,3,62.0,2.0,1969,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+892,נתניה,מוצקין 11,3,59.0,2.0,1970,"580,000",none,"451,149",none,none,none,"980,978",none,none,none,none,none,none,none
+893,נתניה,מוצקין 12,3,58.0,4.0,2000,none,none,none,none,587500,none,none,none,"900,000",none,none,none,none,none
+894,נתניה,מוצקין 13,3,62.0,1.0,1979,"720,000","600,000","750,750","745,000",none,"990,000",none,"1,500,000",none,none,none,none,none,none
+895,נתניה,מוצקין 14,3,73.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+896,נתניה,מוצקין 15,3,67.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+897,נתניה,מוצקין 16,3,61.0,3.0,1969,none,none,none,none,none,"810,000",none,none,none,none,none,none,none,none
+898,נתניה,מוצקין 17,3,62.0,2.0,1980,507725,none,630643,none,"790,000",none,none,none,none,none,none,none,none,none
+899,נתניה,מוצקין 19,3,65.0,1.0,1970,none,none,none,none,"780,000",none,none,none,none,none,none,none,none,none
+900,נתניה,מוצקין 2,3,67.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+901,נתניה,מוצקין 20,3,61.0,3.0,1980,none,none,none,none,none,none,"893,572",none,none,none,none,none,none,none
+902,נתניה,מוצקין 21,3,72.0,6.0,1970,none,none,none,none,"776,000",none,none,none,none,none,"1,140,000",none,none,none
+903,נתניה,מוצקין 23,3,56.0,4.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+904,נתניה,מוצקין 25,3,77.0,2.0,1983,none,none,none,none,none,"960,000",none,none,none,none,none,none,none,none
+905,נתניה,מוצקין 29,3,100.0,2.0,1991,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+906,נתניה,מוצקין 7,3,65.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+907,נתניה,מוצקין 9,3,70.0,7.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+908,נתניה,מוצקין אריה 16,3,73.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+909,נתניה,מוצקין אריה 19,3,59.0,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+910,נתניה,מוצקין אריה 8,3,67.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+911,נתניה,מירון הר 9,3,77.0,,1999,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+912,נתניה,מכלוף יאנה הרב 5,3,68.0,,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+913,נתניה,מכנס גד 20,3,75.0,6.0,2008,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+914,נתניה,מכנס גד 29,3,64.0,1.0,1970,none,"1,600,000",none,none,none,none,none,none,none,none,none,none,none,none
+915,נתניה,מכנס גד 39,3,79.0,5.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+916,נתניה,מכנס גד 5,3,74.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+917,נתניה,מלובלין החוזה 18,3,65.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+918,נתניה,מלובלין החוזה 34,3,82.0,,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+919,נתניה,מנור אהוד 10,3,127.0,16.0,2009,none,none,none,none,none,none,none,"2,000,000",none,none,none,none,none,none
+920,נתניה,מנור אהוד 12,3,100.0,1.0,2009,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+921,נתניה,מנחם בגין,3,77.0,,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+922,נתניה,מנחם בגין 1,3,83.0,6.0,2005,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+923,נתניה,מנחם בגין 8,3,74.0,2.0,2003,none,none,none,none,none,none,none,"1,711,700",none,none,"1,660,000",none,none,none
+924,נתניה,מקדונלד 1,3,63.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+925,נתניה,מקדונלד 12,3,70.0,2.0,1961,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+926,נתניה,מקדונלד 18,3,87.0,1.0,1980,none,"1,000,000",none,none,none,none,none,none,none,"1,440,000",none,none,none,none
+927,נתניה,מקדונלד 20,3,79.0,3.0,1964,none,none,none,"850,000","1,150,000",none,none,none,none,none,none,none,none,none
+928,נתניה,מקדונלד 9,3,95.0,6.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+929,נתניה,מרדכי גור 11,3,106.0,6.0,2005,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+930,נתניה,מרדכי גור 11,3,86.0,1.0,1994,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+931,נתניה,מרדכי גור 3,3,77.0,3.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+932,נתניה,מרואני 12,3,54.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+933,נתניה,מרואני 2,3,54.0,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+934,נתניה,מרון הר 3,3,87.0,6.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+935,נתניה,משה הס 5,3,71.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+936,נתניה,משה הס 6,3,65.0,5.0,1980,"750,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+937,נתניה,משה הס 7,3,51.0,1.0,1960,none,none,none,none,647500,none,none,none,none,none,none,none,none,none
+938,נתניה,משמר הירדן 20,3,64.0,3.0,1980,none,none,"900,000",none,none,none,none,none,none,none,none,none,none,none
+939,נתניה,מתתיהו הכהן 10,3,73.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+940,נתניה,מתתיהו הכהן 8,3,73.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+941,נתניה,נאות חפציבה 9,3,74.0,3.0,1989,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+942,נתניה,נאות מאיר גולדה 11,3,64.0,5.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+943,נתניה,נאות מאיר גולדה 12,3,64.0,7.0,1980,none,"766,500","765,000",none,none,none,none,none,none,none,none,none,none,none
+944,נתניה,נאות מאיר גולדה 2,3,64.0,5.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+945,נתניה,נאות מאיר גולדה 20,3,120.0,3.0,1993,"890,000",none,none,none,none,none,"1,160,000",none,none,none,none,none,none,none
+946,נתניה,נאות מאיר גולדה 28,3,65.0,8.0,1983,none,none,none,none,none,"1,008,000",none,none,none,none,none,none,none,none
+947,נתניה,נאות מאיר גולדה 31,3,63.0,1.0,1980,none,none,none,none,none,"1,000,000",none,none,none,none,none,none,none,none
+948,נתניה,נאות מאיר גולדה 33,3,63.0,1.0,1998,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+949,נתניה,נאות מאיר גולדה 35,3,77.0,7.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+950,נתניה,נאות מאיר גולדה 7,3,80.0,6.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+951,נתניה,נאות מאיר גולדה 9,3,64.0,,1990,none,710000,none,none,none,none,none,none,none,none,none,none,none,none
+952,נתניה,נויפלד 11,3,37.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+953,נתניה,נון יהושוע בן 5,3,60.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+954,נתניה,נון יהושע בן 5,3,60.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+955,נתניה,נורדאו 10,3,62.0,1.0,1980,none,none,none,none,none,none,none,none,"1,081,081",none,none,none,none,none
+956,נתניה,נורדאו 11,3,78.0,2.0,2002,none,none,none,"1,325,000",none,none,none,none,none,none,none,none,none,none
+957,נתניה,נורדאו 12,3,69.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+958,נתניה,נורדאו 14,3,72.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+959,נתניה,נורדאו 15,3,80.0,1.0,2006,none,none,"1,125,000",none,none,none,none,none,none,none,none,none,none,none
+960,נתניה,נורדאו 17,3,82.0,1.0,2002,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+961,נתניה,נורדאו 2,3,63.0,2.0,1985,none,none,none,none,none,none,none,"1,160,000",none,none,none,none,none,none
+962,נתניה,נורדאו 3,3,78.0,1.0,2000,none,none,none,none,none,none,none,none,"1,535,000",none,none,none,none,none
+963,נתניה,נורדאו 4,3,66.0,3.0,1986,"610,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+964,נתניה,נורדאו 47,3,36.0,,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+965,נתניה,נורדאו 49,3,36.0,3.0,1955,none,none,none,"580,000",none,none,none,none,none,none,none,none,none,none
+966,נתניה,נורדאו 5,3,90.0,1.0,1999,none,none,none,"945,000",none,none,none,none,none,none,none,none,none,none
+967,נתניה,נורדאו 51,3,55.0,3.0,1970,none,550275,none,none,none,none,none,none,none,none,none,none,none,none
+968,נתניה,נורדאו 52,3,100.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+969,נתניה,נורדאו 59,3,44.0,1.0,1969,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+970,נתניה,נורדאו 8,3,62.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+971,נתניה,נורדאו 9,3,74.0,,2000,none,none,none,none,none,1305000,none,none,none,none,none,none,none,none
+972,נתניה,נורוק 12,3,71.0,3.0,1987,none,none,none,"930,930",none,none,none,none,none,none,none,none,none,none
+973,נתניה,נחום 10,3,60.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+974,נתניה,נחום 11,3,40.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+975,נתניה,נחום 15,3,78.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+976,נתניה,נחום 21,3,57.0,2.0,1966,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+977,נתניה,נחום 23,3,43.0,4.0,1967,none,"415,000",none,none,none,none,none,none,none,none,none,none,none,none
+978,נתניה,נחום 29,3,50.0,3.0,1964,none,none,"550,000",none,none,none,"820,000",none,none,none,none,none,none,none
+979,נתניה,נחמיה 18,3,153.0,2.0,1940,none,none,none,"1,000,000",none,none,none,none,none,none,none,none,none,none
+980,נתניה,נילי 11,3,75.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+981,נתניה,נילי 23,3,90.0,1.0,1954,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+982,נתניה,נילי 40,3,63.0,1.0,1982,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+983,נתניה,ניסנבוים 10,3,60.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+984,נתניה,ניסנבוים 27,3,85.0,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+985,נתניה,ניסנבוים 4,3,75.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+986,נתניה,ניסנבוים יצחק הרב 27,3,85.0,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+987,נתניה,ניצה 10,3,102.0,3.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+988,נתניה,ניצה 10,3,102.0,5.0,1975,none,"2,058,234",none,none,"2,100,000",none,none,none,none,none,none,none,none,none
+989,נתניה,ניצה 16,3,98.0,7.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+990,נתניה,ניצה 16,3,95.0,8.0,1970,none,none,none,none,none,none,none,none,2602500,none,none,none,none,none
+991,נתניה,ניצה 18,3,116.0,7.0,1965,none,none,none,none,none,none,none,"2,001,455",none,none,none,none,none,none
+992,נתניה,ניצה 2,3,75.0,9.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+993,נתניה,ניצה 22,3,83.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+994,נתניה,ניצה 24,3,78.0,8.0,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+995,נתניה,ניצה 3,3,85.0,1.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+996,נתניה,ניצה 34,3,95.0,7.0,1995,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+997,נתניה,ניצה 34,3,85.0,3.0,1980,none,"1,250,000",none,none,none,none,none,none,none,none,none,none,none,none
+998,נתניה,ניצה 5,3,82.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+999,נתניה,ניצה 6,3,80.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1000,נתניה,ניצה 8,3,83.0,5.0,1995,none,none,"1,180,000","1,300,000",none,none,none,none,none,none,none,none,none,none
+1001,נתניה,ניצה 8,3,75.0,6.0,1996,none,none,none,none,none,none,"1,595,000",none,none,none,none,none,none,none
+1002,נתניה,נעמן בלקינד 3,3,42.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1003,נתניה,נעמן בלקינד 4,3,51.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1004,נתניה,נעמן בלקינד 5,3,42.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1005,נתניה,נצח ישראל 2,3,60.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1006,נתניה,נצח ישראל 3,3,65.0,1.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1007,נתניה,נצח ישראל 5,3,66.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1008,נתניה,נריה הרב 8,3,66.0,,2010,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1009,נתניה,נתן המשורר 2,3,67.0,5.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1010,נתניה,נתן המשורר 4,3,67.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1011,נתניה,נתן יונתן 22,3,100.0,15.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1012,נתניה,נתניה,3,75.0,5.0,2014,none,970969,1109748,"1,550,000",2367869,3374775,1930055,1450000,"976,000",none,"1,899,000",none,none,none
+1013,נתניה,נתניה 1,3,70.0,3.0,2000,"300,000",none,none,none,none,none,1270000,"1,125,000",none,"1,181,774",1315651,none,none,none
+1014,נתניה,נתניה 10,3,75.0,3.0,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1015,נתניה,נתניה 101,3,77.0,4.0,1994,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1016,נתניה,נתניה 109,3,69.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1017,נתניה,נתניה 12,3,54.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1018,נתניה,נתניה 13,3,90.0,1.0,1999,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1019,נתניה,נתניה 17,3,100.0,5.0,2016,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1020,נתניה,נתניה 19,3,78.0,,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1021,נתניה,נתניה 2,3,60.0,4.0,1980,none,none,none,none,none,1208333,none,none,none,none,none,none,none,none
+1022,נתניה,נתניה 235,3,90.0,23.0,2016,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1023,נתניה,נתניה 24,3,49.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1024,נתניה,נתניה 25,3,65.0,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1025,נתניה,נתניה 255,3,90.0,25.0,2014,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1026,נתניה,נתניה 26,3,100.0,3.0,2004,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1027,נתניה,נתניה 27,3,82.0,6.0,2016,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1028,נתניה,נתניה 28,3,87.0,8.0,2006,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1029,נתניה,נתניה 3,3,77.0,6.0,1997,none,none,none,none,none,none,none,none,none,none,"1,400,000",none,none,none
+1030,נתניה,נתניה 30,3,78.0,7.0,2015,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1031,נתניה,נתניה 39,3,78.0,5.0,1982,none,none,none,none,none,1300000,none,none,none,none,none,none,none,none
+1032,נתניה,נתניה 4,3,79.0,7.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1033,נתניה,נתניה 46,3,91.0,1.0,2010,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1034,נתניה,נתניה 5,3,50.0,,1972,none,none,none,none,none,"1,280,000",none,none,none,none,"1,270,000",none,none,none
+1035,נתניה,נתניה 6,3,70.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1036,נתניה,נתניה 64,3,58.0,4.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1037,נתניה,נתניה 7,3,77.0,4.0,1999,none,none,"470,000",none,none,"720,000",none,none,none,none,1285000,none,none,none
+1038,נתניה,נתניה 8,3,60.0,4.0,1976,none,"850,000",none,none,none,none,none,none,none,none,none,none,none,none
+1039,נתניה,נתניה 9,3,53.0,1.0,1950,none,"900,000",none,none,none,none,none,none,none,none,none,none,none,none
+1040,נתניה,סולד הנריטה 2,3,54.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1041,נתניה,סולד הנריטה 6,3,49.0,1.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1042,נתניה,סולד הנריטה 8,3,49.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1043,נתניה,סופר חתם 10,3,73.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1044,נתניה,סופר חתם 14,3,90.0,,1987,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1045,נתניה,סופר חתם 8,3,90.0,1.0,1987,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1046,נתניה,סוקולוב,3,70.0,4.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1047,נתניה,סוקולוב 20,3,61.0,1.0,1962,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1048,נתניה,סוקולוב 22,3,56.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1049,נתניה,סוקולוב 34,3,44.0,3.0,1957,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1050,נתניה,סוקולוב 38,3,44.0,,1950,none,"650,000",none,none,"690,000",none,none,none,none,none,none,none,none,none
+1051,נתניה,סוקולוב 41,3,70.0,4.0,1974,none,none,none,none,656000,none,none,none,none,none,none,none,none,none
+1052,נתניה,סוקולוב 6,3,61.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1053,נתניה,סטופ,3,54.0,4.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1054,נתניה,סטופ 1,3,63.0,2.0,1980,none,none,"710,000",none,662500,"860,000",none,none,none,none,none,none,none,none
+1055,נתניה,סטופ 11,3,69.0,1.0,1970,"480,000","532,126",none,none,none,none,none,none,none,none,none,none,none,none
+1056,נתניה,סטופ 14,3,54.0,2.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1057,נתניה,סטופ 15,3,64.0,3.0,1975,none,665500,none,"577,000",none,none,none,"1,000,000",none,none,none,none,none,none
+1058,נתניה,סטופ 17,3,56.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1059,נתניה,סטופ 18,3,54.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1060,נתניה,סטופ 21,3,68.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1061,נתניה,סטופ 22,3,54.0,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1062,נתניה,סטופ 24,3,59.0,4.0,1981,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1063,נתניה,סטופ 32,3,59.0,3.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1064,נתניה,סטופ 34,3,50.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1065,נתניה,סטופ 38,3,65.0,2.0,1960,none,none,none,none,none,none,none,none,none,856137,none,none,none,none
+1066,נתניה,סטופ 5,3,59.0,2.0,1970,none,"720,720",none,none,none,none,none,"980,000",none,"1,000,000",none,none,none,none
+1067,נתניה,סטופ אברהם 11,3,56.0,3.0,1980,"480,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+1068,נתניה,סטופ אברהם 12,3,54.0,4.0,1976,none,none,none,none,"630,000",none,none,none,none,none,none,none,none,none
+1069,נתניה,סטופ אברהם 16,3,54.0,2.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1070,נתניה,סטופ אברהם 17,3,56.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1071,נתניה,סטופ אברהם 19,3,56.0,3.0,1970,none,none,none,"577,000",none,none,none,none,none,none,none,none,none,none
+1072,נתניה,סטופ אברהם 2,3,50.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1073,נתניה,סטופ אברהם 20,3,54.0,2.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1074,נתניה,סטופ אברהם 25,3,73.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1075,נתניה,סטופ אברהם 28,3,54.0,4.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1076,נתניה,סטופ אברהם 29,3,62.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1077,נתניה,סטופ אברהם 38,3,61.0,2.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1078,נתניה,סטופ אברהם 5,3,60.0,6.0,1980,none,635360,none,none,none,none,none,"1,000,000",none,none,none,none,none,none
+1079,נתניה,סטופ דר 10,3,54.0,4.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1080,נתניה,סטופ דר 13,3,45.0,1.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1081,נתניה,סטופ דר 13,3,55.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1082,נתניה,סטופ דר 27,3,61.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1083,נתניה,סטופ דר 38,3,61.0,3.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1084,נתניה,סטופ דר 42,3,61.0,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1085,נתניה,סטופ דר 5,3,59.0,1.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1086,נתניה,סטרומה 14,3,125.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1087,נתניה,סטרומה 16,3,69.0,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1088,נתניה,סטרומה 3,3,95.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1089,נתניה,סטרומה 9,3,110.0,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1090,נתניה,סלומון יואל 13,3,75.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1091,נתניה,סלומון יואל 14,3,107.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1092,נתניה,סלומון יואל 15,3,80.0,3.0,1905,none,none,"1,035,000","1,150,000",none,none,none,none,none,none,none,none,none,none
+1093,נתניה,סלומון יואל 16,3,75.0,2.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1094,נתניה,סלומון יואל 16,3,84.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1095,נתניה,סלומון יואל 3,3,56.0,3.0,1960,none,none,none,none,none,"1,230,000",none,none,none,none,none,none,none,none
+1096,נתניה,סלומון יואל 6,3,113.0,6.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1097,נתניה,סמ הלוטם 5,3,73.0,4.0,2002,none,none,1297500,none,none,none,none,none,none,none,none,none,none,none
+1098,נתניה,סמטת הלוטם 5,3,85.0,1.0,2003,none,"1,250,000",none,none,none,none,none,none,none,none,none,none,none,none
+1099,נתניה,סמילנסקי,3,65.0,2.0,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1100,נתניה,סמילנסקי 11,3,85.0,2.0,1970,none,none,none,none,none,none,none,none,none,1312290,none,none,none,none
+1101,נתניה,סמילנסקי 12,3,83.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1102,נתניה,סמילנסקי 20,3,67.0,4.0,1980,none,none,none,none,"1,220,000",none,none,none,none,none,none,none,none,none
+1103,נתניה,סמילנסקי 22,3,88.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1104,נתניה,סמילנסקי 23,3,82.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1105,נתניה,סמילנסקי 24,3,118.0,8.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1106,נתניה,סמילנסקי 25,3,62.0,3.0,1970,none,none,none,none,none,none,none,none,"1,410,000",none,none,none,none,none
+1107,נתניה,סמילנסקי 26,3,73.0,3.0,1980,none,760000,"1,000,000","900,000",none,none,"1,210,000",none,none,none,none,none,none,none
+1108,נתניה,סמילנסקי 27,3,70.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1109,נתניה,סמילנסקי 28,3,67.0,1.0,1980,none,"1,005,800",none,none,none,1320000,"1,600,000",none,none,none,"1,550,000",none,none,none
+1110,נתניה,סמילנסקי 29,3,83.0,1.0,1958,none,none,none,none,1140000,none,none,none,none,none,none,none,none,none
+1111,נתניה,סמילנסקי 30,3,86.0,4.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1112,נתניה,סמילנסקי 31,3,80.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1113,נתניה,סמילנסקי 32,3,95.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1114,נתניה,סמילנסקי 33,3,78.0,2.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1115,נתניה,סמילנסקי 37,3,85.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1116,נתניה,סמילנסקי 39,3,71.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1117,נתניה,סמילנסקי 40,3,76.0,1.0,1959,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1118,נתניה,סמילנסקי 46,3,73.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1119,נתניה,סמילנסקי 48,3,87.0,3.0,1972,none,1990625,"950,000",none,none,none,none,none,none,none,none,none,none,none
+1120,נתניה,סמילנסקי 50,3,67.0,3.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1121,נתניה,סמילנסקי 54,3,70.0,1.0,1970,none,none,"940,939",none,none,none,none,none,none,none,none,none,none,none
+1122,נתניה,סמילנסקי 60,3,108.0,8.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1123,נתניה,סמילנסקי 61,3,62.0,2.0,1966,none,none,none,none,none,none,"1,240,000",none,none,none,none,none,none,none
+1124,נתניה,סמילנסקי 65,3,67.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1125,נתניה,סמילנסקי 69,3,80.0,3.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1126,נתניה,סמילנסקי 70,3,85.0,5.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1127,נתניה,סמילנסקי 73,3,85.0,1.0,1970,none,"930,000",none,none,none,none,none,none,none,none,none,none,none,none
+1128,נתניה,סמילנסקי 75,3,92.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1129,נתניה,סמילנסקי 77,3,72.0,2.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1130,נתניה,סמילנסקי 79,3,65.0,1.0,1972,"400,000",none,none,none,1180000,none,none,none,none,none,none,none,none,none
+1131,נתניה,סמילנסקי 87,3,79.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1132,נתניה,סנש חנה 13,3,108.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1133,נתניה,סנש חנה 13,3,108.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1134,נתניה,ספיר 2,3,57.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1135,נתניה,ספיר 5,3,34.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1136,נתניה,ספיר יוסף 2,3,57.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1137,נתניה,ספרים מנדלי מוכר 2,3,77.0,3.0,1994,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1138,נתניה,ספרים מנדלי מוכר 6,3,93.0,1.0,2009,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1139,נתניה,עגנון,3,80.0,7.0,2015,none,none,none,none,none,1125000,none,none,none,none,none,none,none,none
+1140,נתניה,עגנון 1,3,68.0,5.0,1990,none,"640,000",none,none,none,982500,1087500,none,none,none,none,none,none,none
+1141,נתניה,עגנון 27,3,70.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1142,נתניה,עגנון 4,3,73.0,8.0,1970,none,none,none,none,none,"1,020,000","1,166,000","1,200,000",none,none,none,none,none,none
+1143,נתניה,עגנון 5,3,111.0,2.0,1978,none,none,none,none,none,1182500,none,none,none,none,none,none,none,none
+1144,נתניה,עגנון 8,3,80.0,4.0,1970,none,none,none,"745,000",895000,none,"1,190,000",none,none,none,none,none,none,none
+1145,נתניה,עובדיה מברטנורא 4,3,70.0,1.0,1991,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1146,נתניה,עולי הגרדום,3,41.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1147,נתניה,עולי הגרדום 10,3,83.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1148,נתניה,עולי הגרדום 12,3,80.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1149,נתניה,עולי הגרדום 14,3,80.0,5.0,1980,none,none,none,none,none,"930,000",none,none,none,none,none,none,none,none
+1150,נתניה,עולי הגרדום 16,3,56.0,3.0,1980,none,"670,000",none,none,none,none,none,none,none,none,none,none,none,none
+1151,נתניה,עולי הגרדום 18,3,43.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1152,נתניה,עולי הגרדום 20,3,50.0,2.0,1960,none,none,none,none,none,none,none,none,none,"780,000",none,none,none,none
+1153,נתניה,עולי הגרדום 26,3,42.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1154,נתניה,עולי הגרדום 30,3,56.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1155,נתניה,עולי הגרדום 32,3,80.0,1.0,1955,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1156,נתניה,עולי הגרדום 34,3,56.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1157,נתניה,עולי הגרדום 6,3,66.0,2.0,1980,none,none,none,none,none,none,"1,180,000",none,none,none,none,none,none,none
+1158,נתניה,עולש מצוי 16,3,70.0,,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1159,נתניה,עזרא 32,3,58.0,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1160,נתניה,עזרא 47,3,339.0,,1970,none,none,none,none,1373621,none,none,none,none,none,none,none,none,none
+1161,נתניה,עזרא 9,3,40.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1162,נתניה,עזרא אבן,3,75.0,4.0,2002,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1163,נתניה,עזרא אבן 30,3,75.0,8.0,1999,none,"900,000",none,none,none,none,none,none,none,none,none,none,none,none
+1164,נתניה,עזרא אבן 31,3,75.0,5.0,2001,none,none,none,none,1005000,none,none,none,none,none,none,none,none,none
+1165,נתניה,עיר ימים,3,142.0,7.0,2012,none,none,none,none,none,3550000,none,none,none,none,none,none,none,none
+1166,נתניה,עיר ימים 1,3,107.0,8.0,2015,none,none,none,none,none,3310000,none,none,none,none,none,none,none,none
+1167,נתניה,עיר ימים 2,3,142.0,13.0,2012,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1168,נתניה,עליה 2,3,66.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1169,נתניה,עליה 3,3,65.0,1.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1170,נתניה,עליה 6,3,74.0,2.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1171,נתניה,עליה 7,3,74.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1172,נתניה,עמי בן 10,3,60.0,10.0,2010,none,none,none,"1,262,513",none,none,none,none,none,none,"950,000",none,none,none
+1173,נתניה,עמי בן 2,3,115.0,11.0,1992,none,none,none,none,1275000,1367867,none,none,none,none,none,none,none,none
+1174,נתניה,עמי בן 41,3,90.0,12.0,2005,none,none,none,none,none,none,none,none,none,none,"500,000",none,none,none
+1175,נתניה,עמי עובד בן 10,3,60.0,,2010,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1176,נתניה,עמנואל מול 1,3,68.0,6.0,1990,none,"1,250,000","1,150,000","1,050,000",none,none,none,none,none,none,none,none,none,none
+1177,נתניה,עמנואל מול 10,3,74.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1178,נתניה,עמנואל מול 16,3,84.0,1.0,1984,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1179,נתניה,עמנואל מול 2,3,71.0,1.0,1999,none,"1,270,000",none,none,none,none,none,none,none,none,none,none,none,none
+1180,נתניה,עמנואל מול 5,3,84.0,1.0,1995,none,none,"940,000",none,none,none,none,none,none,none,none,none,none,none
+1181,נתניה,עמנואל מול 9,3,139.0,6.0,1988,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1182,נתניה,עמק חפר 10,3,101.0,1.0,1989,"860,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+1183,נתניה,עקיבא 1,3,72.0,3.0,1956,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1184,נתניה,עקיבא 10,3,72.0,2.0,1956,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1185,נתניה,עקיבא 14,3,72.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1186,נתניה,פיירברג 1,3,61.0,4.0,1960,none,none,none,none,none,655000,"1,000,000",none,"850,000",none,none,none,none,none
+1187,נתניה,פיירברג 3,3,68.0,1.0,1960,none,none,none,none,none,none,none,970000,none,none,none,none,none,none
+1188,נתניה,פיירברג מרדכי 3,3,61.0,,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1189,נתניה,פיכמן 2,3,96.0,5.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1190,נתניה,פיכמן 3,3,119.0,2.0,1961,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1191,נתניה,פינס 10,3,75.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1192,נתניה,פינס 8,3,70.0,2.0,1975,none,none,none,none,none,"1,000,000",none,none,none,none,none,none,none,none
+1193,נתניה,פינסקר 19,3,71.0,3.0,1980,none,none,"755,000",none,none,none,none,none,none,none,none,none,none,none
+1194,נתניה,פלמח 4,3,91.0,,1955,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1195,נתניה,פלמח 4,3,92.0,,1953,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1196,נתניה,פנחס לבון 1,3,67.0,2.0,1988,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1197,נתניה,פנחס לבון 1,3,63.0,1.0,1980,none,810000,710000,none,none,none,none,none,none,none,none,none,none,none
+1198,נתניה,פנחס לבון 10,3,75.0,4.0,1973,none,none,none,none,none,none,"1,048,000",none,none,none,none,none,none,none
+1199,נתניה,פנחס לבון 10,3,73.0,6.0,1989,none,none,"768,000",none,none,none,none,none,none,none,none,none,none,none
+1200,נתניה,פנחס לבון 11,3,71.0,1.0,1981,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1201,נתניה,פנחס לבון 11,3,65.0,2.0,1982,none,none,none,none,none,"965,000",none,none,none,none,none,none,none,none
+1202,נתניה,פנחס לבון 12,3,70.0,6.0,1980,none,"670,000",none,"750,000",none,none,none,none,none,none,none,none,none,none
+1203,נתניה,פנחס לבון 14,3,68.0,3.0,1975,none,none,none,none,none,"946,000",none,none,none,none,none,none,none,none
+1204,נתניה,פנחס לבון 16,3,67.0,5.0,1970,none,none,none,none,none,none,none,none,none,none,"1,230,000",none,none,none
+1205,נתניה,פנחס לבון 19,3,64.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1206,נתניה,פנחס לבון 19,3,61.0,2.0,1982,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1207,נתניה,פנחס לבון 2,3,63.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1208,נתניה,פנחס לבון 2,3,68.0,7.0,1976,none,743750,none,"765,000",none,none,none,none,none,none,none,none,none,none
+1209,נתניה,פנחס לבון 22,3,68.0,2.0,1992,none,none,none,none,none,none,1200000,none,none,none,none,none,none,none
+1210,נתניה,פנחס לבון 23,3,64.0,,1980,none,"720,000",none,none,none,none,none,none,1097500,none,none,none,none,none
+1211,נתניה,פנחס לבון 23,3,60.0,,1980,none,none,none,"675,000",none,885000,none,none,none,none,none,none,none,none
+1212,נתניה,פנחס לבון 24,3,63.0,4.0,1970,none,none,none,"780,000",none,"950,000",none,none,none,none,none,none,none,none
+1213,נתניה,פנחס לבון 24,3,62.0,3.0,1980,none,none,none,none,866250,897500,none,none,none,none,none,none,none,none
+1214,נתניה,פנחס לבון 25,3,74.0,3.0,1984,none,700000,none,none,none,none,none,none,none,none,none,none,none,none
+1215,נתניה,פנחס לבון 25,3,74.0,,1984,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1216,נתניה,פנחס לבון 27,3,63.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1217,נתניה,פנחס לבון 28,3,63.0,2.0,1980,none,none,none,"800,000",none,none,none,none,none,none,none,none,none,none
+1218,נתניה,פנחס לבון 29,3,75.0,2.0,1982,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1219,נתניה,פנחס לבון 29,3,62.0,2.0,1975,none,none,none,none,none,"770,000",none,none,none,none,none,none,none,none
+1220,נתניה,פנחס לבון 37,3,60.0,1.0,1984,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1221,נתניה,פנחס לבון 6,3,68.0,,1980,none,none,none,none,none,none,none,none,none,"1,200,000",none,none,none,none
+1222,נתניה,פנחס לבון 6,3,61.0,6.0,1976,none,none,"700,000",none,none,"1,042,000",none,none,none,none,none,none,none,none
+1223,נתניה,פנחס לבון 6,3,62.0,7.0,1980,none,none,none,none,none,none,"1,000,000",none,none,none,none,none,none,none
+1224,נתניה,פנחס לבון 8,3,61.0,2.0,1986,"650,000",none,none,none,none,"950,000",none,none,none,none,none,none,none,none
+1225,נתניה,פנחס לבון 8,3,61.0,2.0,1990,652500,"775,000","745,000",none,none,930000,none,none,"1,315,000",none,"1,300,000",none,none,none
+1226,נתניה,פרומקין 13,3,69.0,1.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1227,נתניה,פרומקין 3,3,76.0,3.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1228,נתניה,פרומקין 4,3,62.0,1.0,1964,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1229,נתניה,פרומקין 7,3,77.0,2.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1230,נתניה,פרוסט אהרון 5,3,79.0,6.0,1980,none,none,none,none,none,none,"1,440,000",none,none,none,none,none,none,none
+1231,נתניה,פרח יהודה 1,3,83.0,4.0,2005,none,none,none,"1,050,000",none,none,none,none,none,none,none,none,none,none
+1232,נתניה,פרח יהודה 3,3,75.0,3.0,2000,none,none,none,none,none,1110000,none,none,none,none,none,none,none,none
+1233,נתניה,פרח יהודה 5,3,91.0,1.0,1999,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1234,נתניה,פרח יהודה 7,3,74.0,2.0,2002,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1235,נתניה,פרח יהודה דר 1,3,77.0,7.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1236,נתניה,פרח יהודה דר 1,3,75.0,4.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1237,נתניה,פרח יהודה דר 5,3,74.0,4.0,2001,none,none,none,none,none,none,none,none,none,1430000,none,none,none,none
+1238,נתניה,פרח יהודה דר 9,3,75.0,,2000,none,none,none,none,none,none,none,none,none,1450000,none,none,none,none
+1239,נתניה,פרישמן 3,3,48.0,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1240,נתניה,פרישמן 4,3,61.0,1.0,1991,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1241,נתניה,פרץ 10,3,75.0,6.0,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1242,נתניה,פרץ 11,3,68.0,3.0,1998,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1243,נתניה,פרץ 13,3,62.0,5.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1244,נתניה,פרץ 17,3,62.0,,1980,none,none,none,none,none,none,none,none,none,1220000,none,none,none,none
+1245,נתניה,פרץ ל י 11,3,68.0,3.0,1985,"695,000","766,000",none,"760,759",none,none,none,none,none,none,none,none,none,none
+1246,נתניה,פרץ ל י 13,3,81.0,8.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1247,נתניה,פרץ ל י 15,3,75.0,3.0,1983,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1248,נתניה,פרץ ל י 25,3,70.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1249,נתניה,צבי אלון 10,3,66.0,3.0,1971,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1250,נתניה,צבי בן,3,93.0,,2023,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1251,נתניה,צבי בן 100,3,62.0,8.0,1990,none,none,none,"720,000",none,"1,000,000",none,none,none,none,none,none,none,none
+1252,נתניה,צבי בן 102,3,,5.0,1970,none,none,none,none,none,none,none,none,"1,220,000",none,"1,100,000",none,none,none
+1253,נתניה,צבי בן 104,3,62.0,5.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1254,נתניה,צבי בן 18,3,66.0,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1255,נתניה,צבי בן 2,3,80.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1256,נתניה,צבי בן 20,3,68.0,5.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1257,נתניה,צבי בן 3,3,66.0,1.0,1979,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1258,נתניה,צבי בן 60,3,59.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1259,נתניה,צבי בן 60,3,59.0,2.0,1960,none,none,none,"570,000",none,none,none,none,none,none,none,none,none,none
+1260,נתניה,צבי בן 62,3,80.0,2.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1261,נתניה,צבי בן 64,3,59.0,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1262,נתניה,צבי בן 64,3,58.0,3.0,1980,none,none,"475,000","500,000",none,none,none,none,none,none,"980,000",none,none,none
+1263,נתניה,צבי בן 66,3,59.0,2.0,1976,none,none,none,none,none,none,none,none,"970,000",none,none,none,none,none
+1264,נתניה,צבי בן 68,3,59.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1265,נתניה,צבי בן 70,3,65.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1266,נתניה,צבי בן 72,3,58.0,1.0,1960,none,none,none,none,"675,000",none,none,none,none,none,none,none,none,none
+1267,נתניה,צבי בן 82,3,83.0,,1999,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1268,נתניה,צבי בן 83,3,75.0,3.0,1995,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1269,נתניה,צבי בן 84,3,65.0,4.0,1969,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1270,נתניה,צבי בן 85,3,78.0,3.0,1998,none,"830,000",none,none,none,none,none,none,none,none,none,none,none,none
+1271,נתניה,צבי בן 86,3,78.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1272,נתניה,צבי בן 87,3,75.0,1.0,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1273,נתניה,צבי בן 89,3,75.0,4.0,2000,none,none,none,none,"1,100,000",none,none,none,none,none,none,none,none,none
+1274,נתניה,צבי בן 9,3,65.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1275,נתניה,צבי בן 91,3,80.0,6.0,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1276,נתניה,צבי בן 93,3,92.0,,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1277,נתניה,צבי בן 93,3,80.0,9.0,1996,none,none,none,"925,000",none,none,none,none,none,"1,500,000",none,none,none,none
+1278,נתניה,צבי בן 95,3,80.0,8.0,1996,"800,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+1279,נתניה,צבי פרופס אהרון 1,3,100.0,6.0,1984,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1280,נתניה,צבי פרופס אהרון 3,3,93.0,3.0,1970,none,none,"1,000,000",none,none,none,1395000,none,none,none,none,none,none,none
+1281,נתניה,צבי פרופס אהרון 5,3,100.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1282,נתניה,צבי פרופס אהרון 6,3,89.0,5.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1283,נתניה,צביה לובטקין 1,3,65.0,7.0,1975,none,"670,000",none,"660,000",none,"830,000",none,none,none,none,none,none,none,none
+1284,נתניה,צביה לובטקין 11,3,65.0,4.0,1980,none,"710,000",none,none,none,none,none,none,none,none,none,none,none,none
+1285,נתניה,צביה לובטקין 19,3,75.0,7.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1286,נתניה,צביה לובטקין 2,3,62.0,5.0,1980,none,none,none,none,none,917500,none,none,none,none,none,none,none,none
+1287,נתניה,צביה לובטקין 2,3,59.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1288,נתניה,צביה לובטקין 4,3,62.0,4.0,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1289,נתניה,צביה לובטקין 6,3,67.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1290,נתניה,צביה לובטקין 7,3,75.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1291,נתניה,צביה לובטקין 9,3,53.0,5.0,1983,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1292,נתניה,ציון הר 6,3,71.0,5.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1293,נתניה,ציון הר 7,3,56.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1294,נתניה,ציון הר 9,3,80.0,2.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1295,נתניה,ציון חיבת 1,3,70.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1296,נתניה,קדושי עירק 15,3,302.0,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1297,נתניה,קדושי עירק 19,3,41.0,2.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1298,נתניה,קוק הרב 10,3,46.0,3.0,1964,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1299,נתניה,קוק הרב 11,3,70.0,4.0,1966,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1300,נתניה,קוק הרב 15,3,77.0,,1970,none,none,none,none,none,none,none,832760,none,none,none,none,none,none
+1301,נתניה,קוק הרב 23,3,63.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1302,נתניה,קוק הרב 27,3,84.0,7.0,1984,none,none,none,none,none,1485000,none,none,none,none,none,none,none,none
+1303,נתניה,קוק הרב 34,3,78.0,1.0,1969,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1304,נתניה,קוק הרב 36,3,80.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1305,נתניה,קוק הרב 38,3,84.0,3.0,1980,none,none,none,"1,000,000",none,none,none,none,none,none,none,none,none,none
+1306,נתניה,קוק הרב 40,3,72.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1307,נתניה,קוק הרב 41,3,70.0,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1308,נתניה,קוק הרב 42,3,95.0,5.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1309,נתניה,קוק הרב 47,3,65.0,8.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1310,נתניה,קוק הרב 55,3,81.0,4.0,1972,none,none,none,none,none,none,none,none,none,"2,000,000",none,none,none,none
+1311,נתניה,קוק הרב 61,3,88.0,6.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1312,נתניה,קוק הרב 63,3,65.0,4.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1313,נתניה,קוק הרב 68,3,35.0,2.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1314,נתניה,קוק הרב 69,3,45.0,2.0,1958,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1315,נתניה,קורצאק יאנוש 3,3,80.0,,2016,none,none,none,none,none,none,none,none,none,"1,380,000",none,none,none,none
+1316,נתניה,קורצק יאנוש,3,68.0,3.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1317,נתניה,קורצק יאנוש 11,3,80.0,7.0,1980,"825,000","782,000","490,000",none,none,none,none,none,none,none,none,none,none,none
+1318,נתניה,קורצק יאנוש 2,3,44.0,3.0,1960,none,none,none,none,none,none,none,none,none,"1,380,000","1,375,000",none,none,none
+1319,נתניה,קורצק ינוש 1,3,61.0,3.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1320,נתניה,קורצק ינוש 11,3,68.0,8.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1321,נתניה,קורצק ינוש 17,3,61.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1322,נתניה,קורצק ינוש 23,3,68.0,3.0,1978,none,none,none,none,none,none,none,"1,302,000",none,none,none,none,none,none
+1323,נתניה,קיפניס משעול 33,3,63.0,,1983,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1324,נתניה,קמיל הויסמנס 10,3,60.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1325,נתניה,קניה גולי 4,3,75.0,,1999,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1326,נתניה,קצנלסון יצחק 10,3,64.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1327,נתניה,קצנלסון יצחק 11,3,50.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1328,נתניה,קצנלסון יצחק 13,3,74.0,7.0,1970,none,none,none,"780,000",none,none,none,none,none,none,none,none,none,none
+1329,נתניה,קצנלסון יצחק 15,3,74.0,8.0,1974,none,"750,000",none,none,none,none,none,none,none,none,none,none,none,none
+1330,נתניה,קצנלסון יצחק 22,3,50.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1331,נתניה,קצנלסון יצחק 26,3,66.0,8.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1332,נתניה,קצנלסון יצחק 5,3,44.0,3.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1333,נתניה,קצנלסון יצחק 5,3,73.0,,1989,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1334,נתניה,קצנלסון יצחק 6,3,64.0,1.0,1970,none,none,"600,000",none,none,none,none,none,none,none,none,none,none,none
+1335,נתניה,קצנלסון יצחק 7,3,50.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1336,נתניה,קצנלסון יצחק 9,3,50.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1337,נתניה,קקל 3,3,82.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1338,נתניה,קראוזה 6,3,70.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1339,נתניה,קראוזה 8,3,60.0,1.0,1963,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1340,נתניה,קריניצי 10,3,56.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1341,נתניה,קריניצי 104,3,62.0,1.0,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1342,נתניה,קריניצי 16,3,56.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1343,נתניה,קריניצי 18,3,55.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1344,נתניה,קריניצי 19,3,61.0,6.0,1960,none,none,none,737500,none,none,none,none,none,none,none,none,none,none
+1345,נתניה,קריניצי 20,3,59.0,3.0,1979,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1346,נתניה,קריניצי 22,3,55.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1347,נתניה,קריניצי 3,3,54.0,4.0,1970,"395,000",none,none,none,none,"650,000",none,none,none,none,none,none,none,none
+1348,נתניה,קריניצי 9,3,56.0,4.0,1970,none,none,520000,none,none,none,none,none,none,none,none,none,none,none
+1349,נתניה,קריניצי אברהם 17,3,62.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1350,נתניה,קרן היסוד,3,88.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1351,נתניה,קרן היסוד 10,3,65.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1352,נתניה,קרן היסוד 12,3,70.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1353,נתניה,קרן היסוד 14,3,65.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1354,נתניה,קרן היסוד 18,3,69.0,1.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1355,נתניה,קרן היסוד 33,3,70.0,,1994,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1356,נתניה,קרן היסוד 8,3,77.0,3.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1357,נתניה,ראובן 10,3,95.0,2.0,2002,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1358,נתניה,ראובן 19,3,75.0,3.0,2002,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1359,נתניה,ראובן 2,3,94.0,3.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1360,נתניה,ראובן 3,3,97.0,1.0,2003,none,none,none,none,"1,315,000",none,none,none,none,none,"1,650,000",none,none,none
+1361,נתניה,ראובן 4,3,97.0,1.0,2005,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1362,נתניה,ראובן ברקת 16,3,70.0,,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1363,נתניה,ראט 19,3,43.0,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1364,נתניה,ראט משולם 19,3,43.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1365,נתניה,ראש פנה 5,3,97.0,6.0,1970,"909,999",none,none,none,none,none,none,none,none,none,none,none,none,none
+1366,נתניה,ראשון לציון 15,3,60.0,2.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1367,נתניה,ראשון לציון 22,3,67.0,4.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1368,נתניה,ראשון לציון 32,3,69.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1369,נתניה,ראשון לציון 6,3,80.0,5.0,1979,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1370,נתניה,רבי טרפון 20,3,84.0,4.0,1995,none,none,none,"675,000",none,none,none,none,none,none,none,none,none,none
+1371,נתניה,רבי מאיר 3,3,85.0,2.0,2017,none,none,none,none,none,none,936133,none,"1,277,000",none,none,none,none,none
+1372,נתניה,רבי מאיר 5,3,55.0,2.0,1957,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1373,נתניה,רבי עקיבא 18,3,72.0,1.0,1958,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1374,נתניה,רבי עקיבא 2,3,72.0,1.0,1956,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1375,נתניה,רבי עקיבא 32,3,82.0,4.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1376,נתניה,רבי עקיבא 48,3,70.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1377,נתניה,רבי עקיבא 5,3,94.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1378,נתניה,רבי עקיבא 54,3,73.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1379,נתניה,רבי עקיבא 56,3,68.0,1.0,1980,none,none,none,none,none,none,"1,100,000",none,none,none,none,none,none,none
+1380,נתניה,רבי עקיבא 58,3,63.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1381,נתניה,רבי עקיבא 64,3,71.0,3.0,1980,none,577500,none,none,none,none,none,none,none,none,none,none,none,none
+1382,נתניה,רדק 3,3,43.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1383,נתניה,רדק 4,3,49.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1384,נתניה,רדק 4,3,49.0,3.0,1950,none,none,none,none,none,"900,000",none,none,none,none,none,none,none,none
+1385,נתניה,רדק 5,3,43.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1386,נתניה,רדק 9,3,33.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1387,נתניה,רוזן פנחס 1,3,82.0,24.0,2020,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1388,נתניה,רוזן פנחס 27,3,55.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1389,נתניה,רוזן פנחס 30,3,60.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1390,נתניה,רוזן פנחס 37,3,87.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1391,נתניה,רוזן פנחס 4,3,79.0,7.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1392,נתניה,רוזן פנחס 57,3,78.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1393,נתניה,רוטנברג 10,3,43.0,1.0,1980,none,none,525000,none,none,"700,699",none,none,none,none,none,none,none,none
+1394,נתניה,רוטנברג 20,3,50.0,1.0,1970,none,"580,000",none,none,none,none,none,none,none,none,none,none,none,none
+1395,נתניה,רוטנברג 5,3,50.0,3.0,1960,"500,000",none,none,none,none,"850,000",none,none,none,none,none,none,none,none
+1396,נתניה,רוטנברג 6,3,53.0,1.0,1964,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1397,נתניה,רופין ארתור 10,3,43.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1398,נתניה,רופין ארתור 12,3,43.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1399,נתניה,רופין ארתור 4,3,53.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1400,נתניה,רופין ארתור 9,3,75.0,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1401,נתניה,רוקח 2,3,75.0,7.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1402,נתניה,רוקח 4,3,70.0,1.0,2005,none,none,none,none,none,none,"1,010,000",none,none,none,none,none,none,none
+1403,נתניה,רות המואביה 3,3,77.0,2.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1404,נתניה,רזיאל,3,59.0,6.0,1972,none,none,none,none,892500,none,none,none,none,none,none,none,none,none
+1405,נתניה,רזיאל 12,3,61.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1406,נתניה,רזיאל 16,3,69.0,,1960,none,none,"890,000",none,none,"938,500",none,none,none,none,"1,190,000",none,none,none
+1407,נתניה,רזיאל 21,3,61.0,6.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1408,נתניה,רזיאל 23,3,59.0,3.0,1980,none,"825,000",none,none,none,none,none,none,none,none,"1,155,000",none,none,none
+1409,נתניה,רזיאל 25,3,63.0,2.0,2000,none,none,none,none,856000,none,"1,000,000",none,none,none,none,none,none,none
+1410,נתניה,רזיאל 3,3,74.0,2.0,1970,none,"820,819",none,none,none,none,none,none,none,none,none,none,none,none
+1411,נתניה,רזיאל 30,3,58.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1412,נתניה,רזיאל 37,3,67.0,1.0,1960,none,none,"720,000",none,none,none,none,none,none,none,none,none,none,none
+1413,נתניה,רזיאל 38,3,62.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1414,נתניה,רזיאל 49,3,110.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1415,נתניה,רזיאל 5,3,81.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1416,נתניה,רזיאל 53,3,75.0,6.0,2018,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1417,נתניה,רזיאל דרך 18,3,69.0,,1960,none,none,none,none,none,none,none,none,none,none,"1,190,000",none,none,none
+1418,נתניה,רזיאל דרך 25,3,63.0,,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1419,נתניה,רזניק דוד 7,3,82.0,11.0,2017,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1420,נתניה,רחבת מרואני מכלוף 10,3,59.0,2.0,1980,none,"500,000",none,none,none,none,none,none,none,none,none,none,none,none
+1421,נתניה,רחבת מרואני מכלוף 12,3,54.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1422,נתניה,רחבת מרואני מכלוף 8,3,57.0,3.0,1970,none,"505,000",none,none,none,none,none,none,none,none,none,none,none,none
+1423,נתניה,רחבת ראובן כצנלסון 22,3,55.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1424,נתניה,ריבלין,3,89.0,2.0,1971,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1425,נתניה,ריבלין 11,3,79.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1426,נתניה,ריבלין 4,3,75.0,2.0,1970,none,none,none,none,none,none,none,none,none,"1,430,000",none,none,none,none
+1427,נתניה,רייך לאון 6,3,42.0,2.0,1980,none,"620,000",none,"670,000",none,none,none,none,none,none,"1,070,000",none,none,none
+1428,נתניה,ריינס 16,3,90.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1429,נתניה,ריינס 6,3,68.0,3.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1430,נתניה,ריינס הרב,3,73.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1431,נתניה,ריינס הרב 30,3,75.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1432,נתניה,ריינס הרב 6,3,78.0,3.0,1970,none,none,none,none,none,"1,060,000",none,none,none,none,none,none,none,none
+1433,נתניה,רייק חביבה 5,3,105.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1434,נתניה,רם ברוך,3,75.0,1.0,2008,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1435,נתניה,רם ברוך 21,3,68.0,3.0,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1436,נתניה,רם ברוך 23,3,111.0,3.0,2010,none,none,none,"2,300,000",none,none,none,none,none,none,none,none,none,none
+1437,נתניה,רמבם 2,3,75.0,8.0,2001,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1438,נתניה,רמבם 22,3,75.0,1.0,1999,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1439,נתניה,רמבם 24,3,69.0,6.0,2001,"830,000",none,887500,"900,000",none,none,none,none,none,none,none,none,none,none
+1440,נתניה,רמבם 24,3,70.0,2.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1441,נתניה,רמבם 26,3,85.0,1.0,1999,none,none,"875,000",none,none,none,none,none,none,none,none,none,none,none
+1442,נתניה,רמז 10,3,74.0,3.0,1963,none,"575,000",none,none,none,none,none,none,none,none,none,none,none,none
+1443,נתניה,רמז 14,3,55.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1444,נתניה,רמז 15,3,65.0,2.0,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1445,נתניה,רמז 19,3,56.0,,1959,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1446,נתניה,רמז 21,3,72.0,2.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1447,נתניה,רמז 26,3,61.0,4.0,1963,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1448,נתניה,רמז 28,3,75.0,5.0,1985,none,920000,none,none,none,none,none,none,none,none,none,none,none,none
+1449,נתניה,רמז 8,3,91.0,7.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1450,נתניה,רמז דוד 26,3,70.0,4.0,1963,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1451,נתניה,רמז דוד 28,3,59.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1452,נתניה,רמז דוד 29,3,54.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1453,נתניה,רפאל אלנקווה 10,3,75.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1454,נתניה,רפאל אלנקווה 12,3,67.0,2.0,1987,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1455,נתניה,רפאל אלנקווה 18,3,105.0,1.0,1982,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1456,נתניה,רפאל אלנקווה 6,3,63.0,3.0,1982,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1457,נתניה,רפאל אלנקווה 8,3,71.0,2.0,1984,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1458,נתניה,רפאל אלנקווה 9,3,63.0,4.0,1980,none,none,"760,000",none,none,"1,050,000",none,none,none,none,none,none,none,none
+1459,נתניה,רפאל הרב,3,61.0,1.0,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1460,נתניה,רפאל הרב 1,3,63.0,1.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1461,נתניה,רפאל הרב 10,3,62.0,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1462,נתניה,רפאל הרב 11,3,62.0,4.0,1980,none,none,none,none,"870,000",none,none,none,none,none,none,none,none,none
+1463,נתניה,רפאל הרב 13,3,61.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1464,נתניה,רפאל הרב 19,3,78.0,,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1465,נתניה,רפאל הרב 2,3,63.0,2.0,1985,none,none,none,800000,"820,000",none,none,none,none,none,none,none,none,none
+1466,נתניה,רפאל הרב 8,3,63.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1467,נתניה,רפאל הרב 9,3,71.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1468,נתניה,רפאל הרב אלנקווה 10,3,64.0,7.0,1980,"770,000",none,none,none,none,"1,075,000",none,none,none,none,none,none,none,none
+1469,נתניה,רפאל הרב אלנקווה 11,3,54.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1470,נתניה,רפאל הרב אלנקווה 12,3,62.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1471,נתניה,רפאל הרב אלנקווה 6,3,63.0,2.0,1986,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1472,נתניה,רפאל הרב אלנקווה 7,3,63.0,1.0,1974,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1473,נתניה,רקח יעקב הרב 1,3,70.0,2.0,1995,none,"495,000","650,000",none,none,none,none,none,none,none,none,none,none,none
+1474,נתניה,רקח יעקב הרב 2,3,76.0,5.0,1994,none,"890,000",none,none,none,none,none,none,none,none,none,none,none,none
+1475,נתניה,רקח יעקב הרב 4,3,69.0,,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1476,נתניה,שאול המלך 3,3,89.0,5.0,1984,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1477,נתניה,שאול המלך 4,3,139.0,,1988,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1478,נתניה,שבטי ישראל 1,3,95.0,,2011,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1479,נתניה,שבטי ישראל 11,3,100.0,1.0,2005,none,none,none,none,none,none,none,none,none,none,"1,650,000",none,none,none
+1480,נתניה,שבטי ישראל 19,3,102.0,3.0,2004,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1481,נתניה,שגיא הר 3,3,82.0,,2006,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1482,נתניה,שדה יצחק 10,3,53.0,3.0,1970,none,none,none,740000,none,none,none,none,none,none,none,none,none,none
+1483,נתניה,שדה יצחק 12,3,53.0,,1980,none,none,none,none,none,"965,000",none,none,none,none,none,none,none,none
+1484,נתניה,שדה יצחק 14,3,53.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1485,נתניה,שדה יצחק 4,3,60.0,1.0,1960,none,none,none,none,none,none,none,"1,160,000",none,none,none,none,none,none
+1486,נתניה,שדה יצחק 6,3,54.0,2.0,1965,none,none,none,none,none,none,none,none,"1,278,000",none,"1,100,000",none,none,none
+1487,נתניה,שדה יצחק 7,3,43.0,2.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1488,נתניה,שדה יצחק 8,3,53.0,3.0,1960,none,none,"743,000",none,"850,000","840,000",none,"1,280,000",none,none,none,none,none,none
+1489,נתניה,שדיד אבו 18,3,70.0,1.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1490,נתניה,שדיד אבו 3,3,71.0,5.0,1978,none,none,"950,000",none,none,"1,285,000",none,none,none,none,none,none,none,none
+1491,נתניה,שדיד אבו 35,3,68.0,4.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1492,נתניה,שדיד אבו 5,3,68.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1493,נתניה,שדרת האגמים 3,3,93.0,1.0,2023,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1494,נתניה,שהם 7,3,90.0,2.0,1951,"540,540",none,none,none,none,none,none,none,none,none,none,none,none,none
+1495,נתניה,שוהם 7,3,70.0,4.0,1953,none,none,none,none,none,"740,000",none,none,none,none,none,none,none,none
+1496,נתניה,שושן לוי 3,3,67.0,,1950,none,none,none,none,"920,000",none,none,none,none,none,none,none,none,none
+1497,נתניה,שזר זלמן 12,3,85.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1498,נתניה,שזר זלמן 14,3,104.0,11.0,2003,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1499,נתניה,שזר זלמן 14,3,100.0,2.0,2003,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1500,נתניה,שזר זלמן 16,3,85.0,2.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1501,נתניה,שזר זלמן 16,3,85.0,1.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1502,נתניה,שזר זלמן 2,3,80.0,8.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1503,נתניה,שזר זלמן 22,3,69.0,5.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1504,נתניה,שזר זלמן 28,3,107.0,5.0,1998,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1505,נתניה,שזר זלמן 28,3,72.0,5.0,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1506,נתניה,שזר זלמן 7,3,64.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1507,נתניה,שטמפפר 14,3,75.0,6.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1508,נתניה,שטמפפר 3,3,60.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1509,נתניה,שטמפר 3,3,65.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1510,נתניה,שטריקר 1,3,88.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1511,נתניה,שטרית השר בכור 22,3,44.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1512,נתניה,שיטרית 10,3,53.0,1.0,1965,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1513,נתניה,שיטרית 13,3,60.0,3.0,1960,none,none,none,none,none,722812,none,none,none,none,none,none,none,none
+1514,נתניה,שיטרית 15,3,42.0,3.0,1969,none,none,none,525000,none,"785,000",none,none,none,none,none,none,none,none
+1515,נתניה,שיטרית 16,3,44.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1516,נתניה,שיטרית 22,3,44.0,3.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1517,נתניה,שיטרית 3,3,62.0,3.0,1987,none,none,none,none,"720,000",none,none,none,none,none,none,none,none,none
+1518,נתניה,שיטרית 9,3,62.0,1.0,1962,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1519,נתניה,שיפר יעקב 4,3,77.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1520,נתניה,שיפר יעקב 6,3,76.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1521,נתניה,שלום נוה 35,3,99.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1522,נתניה,שלונסקי,3,60.0,3.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1523,נתניה,שלונסקי 1,3,68.0,7.0,1976,none,none,"750,000",none,none,none,none,none,none,"1,240,000","1,265,000",none,none,none
+1524,נתניה,שלונסקי 15,3,65.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1525,נתניה,שלונסקי 17,3,64.0,1.0,1978,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1526,נתניה,שלונסקי 20,3,72.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1527,נתניה,שלונסקי 22,3,60.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1528,נתניה,שלונסקי 3,3,68.0,7.0,1978,none,"780,000",none,none,none,none,none,"1,125,000",none,none,none,none,none,none
+1529,נתניה,שלונסקי 4,3,60.0,1.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1530,נתניה,שלונסקי 44,3,60.0,2.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1531,נתניה,שלונסקי 6,3,60.0,3.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1532,נתניה,שלמה המלך 13,3,73.0,,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1533,נתניה,שלמה המלך 19,3,114.0,7.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1534,נתניה,שלמה המלך 2,3,88.0,7.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1535,נתניה,שלמה המלך 2,3,88.0,2.0,1976,none,"1,300,000",none,none,none,none,none,none,none,none,none,none,none,none
+1536,נתניה,שלמה המלך 20,3,99.0,3.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1537,נתניה,שלמה המלך 21,3,72.0,4.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1538,נתניה,שלמה המלך 3,3,73.0,4.0,1990,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1539,נתניה,שלמה המלך 3,3,79.0,10.0,1980,none,none,"1,050,000",none,none,none,none,none,none,none,none,none,none,none
+1540,נתניה,שלמה המלך 4,3,104.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1541,נתניה,שלמה המלך 58,3,80.0,1.0,1983,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1542,נתניה,שלמה המלך 60,3,75.0,6.0,1987,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1543,נתניה,שמואל 22,3,37.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1544,נתניה,שמואל 24,3,37.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1545,נתניה,שמואל 30,3,37.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1546,נתניה,שמואל הנציב,3,60.0,2.0,1980,none,none,"805,000",none,none,none,none,none,none,none,none,none,none,none
+1547,נתניה,שמואל הנציב 10,3,60.0,2.0,1957,"680,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+1548,נתניה,שמואל הנציב 12,3,77.0,4.0,1960,none,none,none,none,none,none,none,none,none,1218500,none,none,none,none
+1549,נתניה,שמואל הנציב 14,3,76.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1550,נתניה,שמואל הנציב 15,3,76.0,4.0,1966,none,"850,000",none,"900,000",none,1158000,none,none,none,none,none,none,none,none
+1551,נתניה,שמואל הנציב 17,3,63.0,4.0,1966,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1552,נתניה,שמואל הנציב 18,3,84.0,4.0,1963,none,none,none,"686,274","935,000",none,none,none,none,none,none,none,none,none
+1553,נתניה,שמואל הנציב 19,3,52.0,1.0,1980,none,none,none,"750,000",none,none,none,none,none,none,none,none,none,none
+1554,נתניה,שמואל הנציב 20,3,68.0,1.0,1985,none,"602,409",none,none,none,none,none,none,none,none,none,none,none,none
+1555,נתניה,שמואל הנציב 24,3,42.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1556,נתניה,שמואל הנציב 25,3,75.0,3.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1557,נתניה,שמואל הנציב 29,3,84.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1558,נתניה,שמואל הנציב 30,3,73.0,4.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1559,נתניה,שמואל הנציב 31,3,90.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,2760000,none,none,none
+1560,נתניה,שמואל הנציב 32,3,62.0,,1960,none,none,"804,830",none,none,none,none,none,none,none,none,none,none,none
+1561,נתניה,שמואל הנציב 33,3,114.0,2.0,1960,none,none,"748,246",none,none,none,none,none,none,none,none,none,none,none
+1562,נתניה,שמואל הנציב 34,3,85.0,2.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1563,נתניה,שמואל הנציב 35,3,74.0,1.0,1972,none,none,none,none,none,none,"1,500,000",none,none,none,none,none,none,none
+1564,נתניה,שמואל הנציב 36,3,67.0,4.0,1977,none,none,none,none,none,none,none,none,"1,280,000",none,none,none,none,none
+1565,נתניה,שמואל הנציב 40,3,43.0,1.0,1960,none,none,735000,"840,000",none,none,none,none,none,"1,150,000",none,none,none,none
+1566,נתניה,שמואל הנציב 42,3,72.0,1.0,1965,"680,000",none,844375,none,none,"1,180,000",none,none,none,none,none,none,none,none
+1567,נתניה,שמואל הנציב 48,3,62.0,,1960,none,none,none,none,none,none,none,none,none,none,2166666,none,none,none
+1568,נתניה,שמואל הנציב 5,3,42.0,1.0,1940,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1569,נתניה,שמואל הנציב 50,3,80.0,3.0,1966,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1570,נתניה,שמואל הנציב 52,3,74.0,2.0,1971,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1571,נתניה,שמואל הרטום הרב 14,3,77.0,4.0,2005,none,none,"910,000",none,none,none,none,none,none,none,none,none,none,none
+1572,נתניה,שמואל הרטום הרב 2,3,71.0,5.0,1994,none,"845,000",none,none,none,"1,100,000",none,none,none,none,none,none,none,none
+1573,נתניה,שמואל הרטום הרב 20,3,75.0,3.0,2001,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1574,נתניה,שמואל הרטום הרב 22,3,68.0,5.0,1998,"850,000",none,none,none,none,"1,230,000",none,none,none,none,none,none,none,none
+1575,נתניה,שמואל הרטום הרב 24,3,68.0,1.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1576,נתניה,שמואל הרטום הרב 28,3,100.0,1.0,1980,none,1032500,none,none,none,none,none,none,none,none,none,none,none,none
+1577,נתניה,שמואל הרטום הרב 30,3,83.0,3.0,2006,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1578,נתניה,שמואל הרטום הרב 4,3,75.0,,1994,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1579,נתניה,שמואל הרטום הרב 6,3,75.0,3.0,2005,none,none,none,none,none,"1,075,000",none,none,none,none,none,none,none,none
+1580,נתניה,שמואל הרטום הרב 8,3,75.0,2.0,1996,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1581,נתניה,שמורק 11,3,67.0,2.0,1987,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1582,נתניה,שמורק 13,3,70.0,7.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1583,נתניה,שמורק 15,3,59.0,9.0,1982,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1584,נתניה,שמורק אברהם 11,3,70.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1585,נתניה,שמורק אברהם 13,3,63.0,2.0,1979,"585,000",none,none,697500,none,none,"840,000",none,none,none,none,none,none,none
+1586,נתניה,שמורק אברהם 15,3,63.0,7.0,1980,"630,000","721,000",none,none,"800,000",none,none,none,none,none,none,none,none,none
+1587,נתניה,שמורק אברהם 29,3,67.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1588,נתניה,שמחה ארליך 10,3,72.0,,1998,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1589,נתניה,שמחה ארליך 107,3,108.0,11.0,2012,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1590,נתניה,שמחה ארליך 2,3,114.0,11.0,2010,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1591,נתניה,שמחוני 4,3,70.0,3.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1592,נתניה,שמחוני 7,3,53.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1593,נתניה,שמחוני 9,3,53.0,2.0,1970,"510,000",none,none,"790,000",none,none,none,none,none,none,none,none,none,none
+1594,נתניה,שמחוני אסף 7,3,53.0,1.0,1960,none,"685,000",none,"740,000",none,"950,000",none,none,none,none,none,none,none,none
+1595,נתניה,שמחוני אסף 9,3,57.0,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1596,נתניה,שמעון הרב גבאי 4,3,92.0,6.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1597,נתניה,שניאור 22,3,77.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1598,נתניה,שניאור 25,3,75.0,3.0,1995,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1599,נתניה,שניאור 3,3,64.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1600,נתניה,שניאור 30,3,66.0,3.0,1980,none,none,none,none,none,none,"960,000",none,none,none,none,none,none,none
+1601,נתניה,שניאור 31,3,62.0,1.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1602,נתניה,שניאור 35,3,62.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1603,נתניה,שניאור 37,3,,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1604,נתניה,שניאור 4,3,69.0,5.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1605,נתניה,שניאור 5,3,64.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1606,נתניה,שניאור 8,3,65.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1607,נתניה,שניאור זלמן 15,3,58.0,,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1608,נתניה,שניאור זלמן 2,3,69.0,6.0,1990,none,"800,798",none,none,none,none,none,none,none,none,none,none,none,none
+1609,נתניה,שניאור זלמן 24,3,66.0,3.0,1980,none,none,none,none,792500,none,none,none,none,none,none,none,none,none
+1610,נתניה,שניאור זלמן 26,3,72.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1611,נתניה,שניאור זלמן 27,3,61.0,3.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1612,נתניה,שניאור זלמן 28,3,63.0,2.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1613,נתניה,שניאור זלמן 31,3,62.0,4.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1614,נתניה,שניאור זלמן 35,3,62.0,1.0,1970,none,none,none,"675,000",none,none,none,none,none,none,none,none,none,none
+1615,נתניה,שניאור זלמן 36,3,80.0,3.0,1998,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1616,נתניה,שניאור זלמן 37,3,62.0,3.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1617,נתניה,שניאור זלמן 39,3,62.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1618,נתניה,שניאור זלמן 43,3,70.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1619,נתניה,שניאור זלמן 7,3,58.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1620,נתניה,שער הגיא 12,3,70.0,4.0,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1621,נתניה,שער הגיא 14,3,78.0,4.0,1966,"590,000",none,none,none,none,"1,235,000",none,none,none,none,none,none,none,none
+1622,נתניה,שפיגלמן 12,3,67.0,2.0,2002,none,none,none,none,none,"1,450,000",none,none,none,none,none,none,none,none
+1623,נתניה,שפיגלמן 14,3,74.0,4.0,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1624,נתניה,שפיגלמן 16,3,74.0,,2000,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1625,נתניה,שפיגלמן 6,3,91.0,,2002,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1626,נתניה,שפיגלמן אברהם 2,3,91.0,3.0,2002,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1627,נתניה,שפירא אברהם 10,3,73.0,1.0,1980,none,none,none,none,none,none,"1,218,500",none,none,none,none,none,none,none
+1628,נתניה,שפירא אברהם 16,3,69.0,,1970,"950,000",none,none,none,none,none,none,none,"1,285,000",none,none,none,none,none
+1629,נתניה,שפירא אברהם 18,3,75.0,3.0,1973,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1630,נתניה,שפירא אברהם 20,3,110.0,2.0,2006,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1631,נתניה,שפירא אברהם 23,3,63.0,2.0,1970,none,none,none,none,none,"1,130,000",none,none,none,none,none,none,none,none
+1632,נתניה,שפירא אברהם 25,3,62.0,5.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1633,נתניה,שפירא אברהם 27,3,68.0,5.0,1973,none,"855,000",none,none,"920,000",none,none,none,none,none,none,none,none,none
+1634,נתניה,שפירא אברהם 3,3,96.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1635,נתניה,שפירא אברהם 8,3,65.0,2.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1636,נתניה,שפירא משה 22,3,86.0,2.0,1972,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1637,נתניה,שפירא משה 24,3,76.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1638,נתניה,שפירא משה 43,3,71.0,1.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1639,נתניה,שפרינצק 52,3,80.0,,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1640,נתניה,שרייבר משה 11,3,60.0,3.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1641,נתניה,שרעבי 8,3,72.0,,1950,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1642,נתניה,שרת 9,3,95.0,2.0,1986,none,"900,000",none,none,none,none,none,"1,450,000",none,none,none,none,none,none
+1643,נתניה,ששת הימים 13,3,59.0,1.0,1958,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1644,נתניה,ששת הימים 24,3,72.0,1.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1645,נתניה,ששת הימים 37,3,68.0,5.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1646,נתניה,ששת הימים 42,3,68.0,2.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1647,נתניה,ששת הימים 48,3,81.0,7.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1648,נתניה,ששת מלחמת הימים 19,3,75.0,3.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1649,נתניה,ששת מלחמת הימים 20,3,90.0,3.0,1989,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1650,נתניה,ששת מלחמת הימים 25,3,67.0,7.0,1976,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1651,נתניה,ששת מלחמת הימים 26,3,63.0,3.0,1975,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1652,נתניה,ששת מלחמת הימים 28,3,73.0,1.0,1980,none,none,none,none,none,"1,111,111",none,none,none,none,none,none,none,none
+1653,נתניה,ששת מלחמת הימים 29,3,80.0,1.0,1980,"650,000",none,none,none,none,none,none,none,none,none,none,none,none,none
+1654,נתניה,ששת מלחמת הימים 34,3,55.0,1.0,1960,none,none,none,none,none,none,none,none,"1,025,000",none,none,none,none,none
+1655,נתניה,ששת מלחמת הימים 37,3,68.0,5.0,1980,none,"850,000",none,none,none,none,none,none,none,none,none,none,none,none
+1656,נתניה,ששת מלחמת הימים 38,3,83.0,2.0,2009,none,none,none,none,"1,350,000",none,none,none,none,none,none,none,none,none
+1657,נתניה,ששת מלחמת הימים 4,3,65.0,4.0,1960,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1658,נתניה,ששת מלחמת הימים 40,3,70.0,3.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1659,נתניה,ששת מלחמת הימים 47,3,70.0,1.0,1971,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1660,נתניה,ששת מלחמת הימים 7,3,77.0,,1989,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1661,נתניה,תבור כפר 15,3,65.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1662,נתניה,תום לנטוס 19,3,66.0,2.0,2006,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1663,נתניה,תחכמוני 3,3,104.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1664,נתניה,תחכמוני 4,3,76.0,3.0,1980,none,none,none,none,none,none,none,none,none,"1,400,000",none,none,none,none
+1665,נתניה,תחכמוני 5,3,74.0,3.0,1989,none,none,none,none,none,"1,315,000",none,none,none,none,none,none,none,none
+1666,נתניה,תחכמוני 9,3,70.0,1.0,1970,none,none,none,none,none,none,none,"1,360,000",none,none,none,none,none,none
+1667,נתניה,תקוה פתח 37,3,86.0,2.0,1993,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1668,נתניה,תקוה פתח 38,3,78.0,3.0,1970,none,none,none,none,none,"1,198,000",none,none,none,none,none,none,none,none
+1669,נתניה,תקוה פתח 50,3,81.0,5.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1670,נתניה,תקוה פתח 53,3,66.0,4.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1671,נתניה,תקוה פתח 54,3,79.0,3.0,1985,none,857500,none,none,none,none,none,none,none,none,none,none,none,none
+1672,נתניה,תקוה פתח 55,3,77.0,,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1673,נתניה,תקוה פתח 57,3,87.0,4.0,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1674,נתניה,תקוה פתח 65,3,74.0,2.0,1980,none,none,none,1015000,none,none,none,none,none,none,none,none,none,none
+1675,נתניה,תקוה פתח 70,3,68.0,,1980,none,none,none,none,none,none,"1,160,000",none,none,none,none,none,none,none
+1676,נתניה,תקוה פתח 71,3,70.0,5.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1677,נתניה,תקוה פתח 72,3,80.0,1.0,1980,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1678,נתניה,תקוה פתח 75,3,62.0,3.0,1970,none,none,641630,"550,000","790,000",none,none,none,none,none,none,none,none,none
+1679,נתניה,תקוה פתח 76,3,55.0,,1970,none,none,none,none,none,1020000,none,none,none,none,none,none,none,none
+1680,נתניה,תקוה פתח 77,3,49.0,1.0,1983,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1681,נתניה,תקוה פתח 78,3,71.0,1.0,1970,none,none,none,"720,000",none,none,none,none,none,none,none,none,none,none
+1682,נתניה,תקוה פתח 79,3,50.0,4.0,1980,none,"660,000",none,none,none,none,none,none,none,none,none,none,none,none
+1683,נתניה,תקוה פתח 82,3,60.0,1.0,1970,"690,000",none,none,"690,000",none,955500,none,none,"1,080,000",none,none,none,none,none
+1684,נתניה,תקוה פתח 83,3,62.0,2.0,1960,none,none,"630,000",none,none,none,none,none,none,none,none,none,none,none
+1685,נתניה,תקוה פתח 85,3,49.0,4.0,1960,none,none,none,none,none,"680,000","1,000,000",none,none,none,"1,065,000",none,none,none
+1686,נתניה,תקווה פתח 38,3,78.0,,1970,none,none,none,none,none,none,none,none,none,none,none,none,none,none
+1687,נתניה,תקווה פתח 65,3,77.0,,1985,none,none,none,none,none,none,none,none,none,none,none,none,none,none
